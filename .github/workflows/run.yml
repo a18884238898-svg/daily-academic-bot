@@ -2,22 +2,36 @@ name: Daily Run
 
 on:
   schedule:
-    # 每天北京时间早上 8 点运行 (UTC 00:00)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 允许手动点击运行
+    - cron: '0 0 * * *' # 北京时间 08:00
+  workflow_dispatch: 
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          
       - name: Install dependencies
         run: pip install requests
-      - name: Run
-        env:
-          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        
+      - name: Run script
         run: python main.py
+
+      # 这一步会自动把新生成的 news.json 提交回你的仓库
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          # 如果文件内容没变化，git commit 会报错，所以加上判断
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update news.json with latest info"
+            git push
+          else
+            echo "No changes to commit"
+          fi
