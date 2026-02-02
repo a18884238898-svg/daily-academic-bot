@@ -1,33 +1,56 @@
 import json
-import requests
-from datetime import datetime
-import xml.etree.ElementTree as ET
+import os
+from datetime import datetime, timedelta
 
-def get_real_news():
-    data = {
-        "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "academic": [],
-        "policy": []
-    }
+def update_database(new_items, category, current_data):
+    """合并新旧数据并去重，保留10天内的内容"""
+    ten_days_ago = (datetime.now() - timedelta(days=10)).strftime("%Y-%m-%d %H:%M:%S")
     
-    # 1. 抓取 arXiv 具体的学术文章 (RSS 源)
-    try:
-        r = requests.get("http://export.arxiv.org/rss/cs.AI", timeout=10)
-        root = ET.fromstring(r.content)
-        # 获取前 5 条具体论文链接
-        for item in root.findall('.//{http://purl.org/rss/1.0/}item')[:5]:
-            title = item.find('{http://purl.org/rss/1.0/}title').text
-            link = item.find('{http://purl.org/rss/1.0/}link').text
-            data["academic"].append({"title": title, "url": link})
-    except:
-        data["academic"].append({"title": "无法连接 arXiv，请检查爬虫", "url": "https://arxiv.org"})
+    # 获取原有数据
+    existing_items = current_data.get(category, [])
+    
+    # 合并、去重（根据 URL）并过滤掉10天前的旧闻
+    combined = new_items + existing_items
+    unique_items = []
+    seen_urls = set()
+    
+    for item in combined:
+        # 确保有抓取时间，如果没有则设为现在
+        item_time = item.get("fetch_time", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        item["fetch_time"] = item_time
+        
+        if item["url"] not in seen_urls and item_time >= ten_days_ago:
+            unique_items.append(item)
+            seen_urls.add(item["url"])
+            
+    # 按时间降序排列（最新的在最上面）
+    unique_items.sort(key=lambda x: x["fetch_time"], reverse=True)
+    return unique_items
 
-    # 2. 抓取科技部具体动态 (模拟逻辑，实际需根据 HTML 解析)
-    # 提示：实际生产中建议使用 BeautifulSoup 解析 http://www.most.gov.cn/
-    data["policy"] = [
-        {"title": "科技部关于发布国家重点研发计划的通知", "url": "https://www.most.gov.cn/tztg/202401/t20240101_189456.html"},
-        {"title": "国家科技重大专项管理规定", "url": "https://www.most.gov.cn/xxgk/xinxigongkai/index.html"}
+def main():
+    # 1. 加载本地现有数据
+    file_path = "news.json"
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            db = json.load(f)
+    else:
+        db = {"academic": [], "policy": []}
+
+    # 2. 执行你的抓取逻辑 (示例)
+    new_academic = [
+        {"title": "最新论文：AI在结构工程中的应用", "url": "https://arxiv.org/abs/xxxx", "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
     ]
-    return data
+    new_policy = [
+        {"title": "教育部：2026年高校科研经费管理办法", "url": "http://moe.gov.cn/xxx", "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
+    ]
 
-# ... 保存 JSON 逻辑同前 ...
+    # 3. 更新并保存
+    db["academic"] = update_database(new_academic, "academic", db)
+    db["policy"] = update_database(new_policy, "policy", db)
+    db["update_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(db, f, ensure_ascii=False, indent=4)
+
+if __name__ == "__main__":
+    main()
