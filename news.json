@@ -1,27 +1,32 @@
 {
-    "update_time": "2026-02-02 08:25:42",
+    "update_time": "2026-02-02 08:28:32",
     "academic": [
         {
-            "title": "最新论文：AI在结构工程中的应用",
-            "url": "https://arxiv.org/abs/xxxx",
-            "fetch_time": "2026-02-02 08:25:42"
+            "title": "【测试】Nature: 深度学习在土木工程中的最新应用",
+            "url": "https://www.nature.com",
+            "fetch_time": "2026-02-02 08:28:32"
         },
         {
-            "title": "Google 学术：深度学习新论文",
-            "url": "https://scholar.google.com",
-            "fetch_time": "2026-02-02 08:25:42"
+            "title": "【测试】arXiv: 2026年大型语言模型综述",
+            "url": "https://arxiv.org",
+            "fetch_time": "2026-02-01 08:28:32"
+        },
+        {
+            "title": "【测试】Science: 新型环保建筑材料研究突破",
+            "url": "https://www.science.org",
+            "fetch_time": "2026-01-30 08:28:32"
         }
     ],
     "policy": [
         {
-            "title": "教育部：2026年高校科研经费管理办法",
-            "url": "http://moe.gov.cn/xxx",
-            "fetch_time": "2026-02-02 08:25:42"
+            "title": "【测试】科技部：发布2026年度国家重点研发计划指南",
+            "url": "https://www.most.gov.cn",
+            "fetch_time": "2026-02-02 08:28:32"
         },
         {
-            "title": "科技部：2026科研项目指南",
-            "url": "https://www.most.gov.cn",
-            "fetch_time": "2026-02-02 08:25:42"
+            "title": "【测试】教育部：关于加强高校科研诚信建设的通知",
+            "url": "http://www.moe.gov.cn",
+            "fetch_time": "2026-01-31 08:28:32"
         }
     ]
 }
