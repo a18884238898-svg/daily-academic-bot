@@ -1,56 +1,59 @@
 import json
 import os
 from datetime import datetime, timedelta
+import random
 
-def update_database(new_items, category, current_data):
-    """合并新旧数据并去重，保留10天内的内容"""
-    ten_days_ago = (datetime.now() - timedelta(days=10)).strftime("%Y-%m-%d %H:%M:%S")
-    
-    # 获取原有数据
-    existing_items = current_data.get(category, [])
-    
-    # 合并、去重（根据 URL）并过滤掉10天前的旧闻
-    combined = new_items + existing_items
-    unique_items = []
-    seen_urls = set()
-    
-    for item in combined:
-        # 确保有抓取时间，如果没有则设为现在
-        item_time = item.get("fetch_time", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-        item["fetch_time"] = item_time
-        
-        if item["url"] not in seen_urls and item_time >= ten_days_ago:
-            unique_items.append(item)
-            seen_urls.add(item["url"])
-            
-    # 按时间降序排列（最新的在最上面）
-    unique_items.sort(key=lambda x: x["fetch_time"], reverse=True)
-    return unique_items
+def get_current_time(days_offset=0):
+    """获取带偏移量的当前时间字符串"""
+    target_time = datetime.now() - timedelta(days=days_offset)
+    return target_time.strftime("%Y-%m-%d %H:%M:%S")
 
 def main():
-    # 1. 加载本地现有数据
-    file_path = "news.json"
-    if os.path.exists(file_path):
-        with open(file_path, "r", encoding="utf-8") as f:
-            db = json.load(f)
-    else:
-        db = {"academic": [], "policy": []}
-
-    # 2. 执行你的抓取逻辑 (示例)
-    new_academic = [
-        {"title": "最新论文：AI在结构工程中的应用", "url": "https://arxiv.org/abs/xxxx", "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
+    # 1. 生成模拟的“新鲜”数据 (强制包含 fetch_time)
+    mock_academic_data = [
+        {
+            "title": "【测试】Nature: 深度学习在土木工程中的最新应用", 
+            "url": "https://www.nature.com",
+            "fetch_time": get_current_time(0) # 今天
+        },
+        {
+            "title": "【测试】arXiv: 2026年大型语言模型综述", 
+            "url": "https://arxiv.org",
+            "fetch_time": get_current_time(1) # 昨天
+        },
+        {
+            "title": "【测试】Science: 新型环保建筑材料研究突破", 
+            "url": "https://www.science.org",
+            "fetch_time": get_current_time(3) # 3天前
+        }
     ]
-    new_policy = [
-        {"title": "教育部：2026年高校科研经费管理办法", "url": "http://moe.gov.cn/xxx", "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
+
+    mock_policy_data = [
+        {
+            "title": "【测试】科技部：发布2026年度国家重点研发计划指南", 
+            "url": "https://www.most.gov.cn",
+            "fetch_time": get_current_time(0) # 今天
+        },
+        {
+            "title": "【测试】教育部：关于加强高校科研诚信建设的通知", 
+            "url": "http://www.moe.gov.cn",
+            "fetch_time": get_current_time(2) # 2天前
+        }
     ]
 
-    # 3. 更新并保存
-    db["academic"] = update_database(new_academic, "academic", db)
-    db["policy"] = update_database(new_policy, "policy", db)
-    db["update_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # 2. 构造最终的 JSON 结构
+    data = {
+        "update_time": get_current_time(0),
+        "academic": mock_academic_data,
+        "policy": mock_policy_data
+    }
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(db, f, ensure_ascii=False, indent=4)
+    # 3. 保存为 news.json
+    # 注意：这里我们先不执行“合并去重”逻辑，直接覆盖，确保 App 能先看到数据
+    with open("news.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    
+    print("✅ news.json 已强制更新为最新测试数据！")
 
 if __name__ == "__main__":
     main()
