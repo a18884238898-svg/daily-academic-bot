@@ -1,4 +1,23 @@
 {
-    "update_time": "2026-02-02 06:58:27",
-    "content": "【工科资讯动态】\n• Solving Inverse Problems with Flow-based Models via Model Predictive Control\n• Scale-Cascaded Diffusion Models for Super-Resolution in Medical Imaging\n• Beyond Omnidirectional: Neural Ambisonics Encoding for Arbitrary Microphone Directivity Patterns using Cross-Attention\n• Robust Control of Constrained Linear Systems using Online Convex Optimization and a Reference Governor\n• Compressed BC-LISTA via Low-Rank Convolutional Decomposition\n• Interpolation Techniques for Fast Channel Estimation in Ray Tracing\n• Energy Management Strategies for Electric Aircraft Charging Leveraging Active Landside Vehicle-to-Grid\n• Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation\n• Learning-Based Signal Recovery in Nonlinear Systems with Spectrally Separated Interference\n• Scale Equivariance Regularization and Feature Lifting in High Dynamic Range Modulo Imaging\n"
+    "update_time": "2026-02-02 07:29:21",
+    "academic": [
+        {
+            "title": "万方：新型复合材料研究进展",
+            "url": "https://www.wanfangdata.com.cn"
+        },
+        {
+            "title": "Google Scholar: Machine Learning in Engineering",
+            "url": "https://scholar.google.com"
+        }
+    ],
+    "policy": [
+        {
+            "title": "科技部：关于进一步加强科研诚信建设的若干意见",
+            "url": "https://www.most.gov.cn"
+        },
+        {
+            "title": "教育部：2026年高校科研经费分配方案",
+            "url": "http://www.moe.gov.cn"
+        }
+    ]
 }
