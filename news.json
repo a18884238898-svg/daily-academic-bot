@@ -1,32 +1,32 @@
 {
-    "update_time": "2026-02-02 08:28:32",
+    "update_time": "2026-02-02 08:37:47",
     "academic": [
         {
             "title": "【测试】Nature: 深度学习在土木工程中的最新应用",
             "url": "https://www.nature.com",
-            "fetch_time": "2026-02-02 08:28:32"
+            "fetch_time": "2026-02-02 08:37:47"
         },
         {
             "title": "【测试】arXiv: 2026年大型语言模型综述",
             "url": "https://arxiv.org",
-            "fetch_time": "2026-02-01 08:28:32"
+            "fetch_time": "2026-02-01 08:37:47"
         },
         {
             "title": "【测试】Science: 新型环保建筑材料研究突破",
             "url": "https://www.science.org",
-            "fetch_time": "2026-01-30 08:28:32"
+            "fetch_time": "2026-01-30 08:37:47"
         }
     ],
     "policy": [
         {
             "title": "【测试】科技部：发布2026年度国家重点研发计划指南",
             "url": "https://www.most.gov.cn",
-            "fetch_time": "2026-02-02 08:28:32"
+            "fetch_time": "2026-02-02 08:37:47"
         },
         {
             "title": "【测试】教育部：关于加强高校科研诚信建设的通知",
             "url": "http://www.moe.gov.cn",
-            "fetch_time": "2026-01-31 08:28:32"
+            "fetch_time": "2026-01-31 08:37:47"
         }
     ]
 }
