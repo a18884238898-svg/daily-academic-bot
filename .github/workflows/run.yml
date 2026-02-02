@@ -1,0 +1,23 @@
+name: Daily Run
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点运行 (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        run: python main.py
