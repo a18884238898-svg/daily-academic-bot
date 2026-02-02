@@ -1,9 +1,27 @@
 {
-  "update_time": "2026-02-02 12:00:00",
-  "academic": [
-    {"title": "Google 学术：深度学习新论文", "url": "https://scholar.google.com"}
-  ],
-  "policy": [
-    {"title": "科技部：2026科研项目指南", "url": "https://www.most.gov.cn"}
-  ]
+    "update_time": "2026-02-02 08:25:42",
+    "academic": [
+        {
+            "title": "最新论文：AI在结构工程中的应用",
+            "url": "https://arxiv.org/abs/xxxx",
+            "fetch_time": "2026-02-02 08:25:42"
+        },
+        {
+            "title": "Google 学术：深度学习新论文",
+            "url": "https://scholar.google.com",
+            "fetch_time": "2026-02-02 08:25:42"
+        }
+    ],
+    "policy": [
+        {
+            "title": "教育部：2026年高校科研经费管理办法",
+            "url": "http://moe.gov.cn/xxx",
+            "fetch_time": "2026-02-02 08:25:42"
+        },
+        {
+            "title": "科技部：2026科研项目指南",
+            "url": "https://www.most.gov.cn",
+            "fetch_time": "2026-02-02 08:25:42"
+        }
+    ]
 }
