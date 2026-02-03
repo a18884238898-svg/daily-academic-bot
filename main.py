@@ -1,64 +1,74 @@
-import json, requests, re, os
+import requests
+from bs4 import BeautifulSoup
+import json
 from datetime import datetime
-from urllib.parse import urljoin
+import time
 
+# 模拟浏览器头部，防止被反爬虫拦截
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-def fetch_from_search(keyword, tag):
+def fetch_content(url, selector, tag_type="a", encoding='utf-8'):
     """
-    通过搜狗或百度资讯接口抓取，这种方式比直接爬官网更难被封
+    通用抓取函数
     """
-    items = []
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
-    # 使用搜狗资讯搜索作为数据源，内容涵盖各大学术门户
-    search_url = f"https://www.sogou.com/sogou?query={keyword}&insite=sciencenet.cn"
     try:
-        r = requests.get(search_url, headers=HEADERS, timeout=20)
-        r.encoding = 'utf-8'
-        # 匹配标题和链接的宽容正则
-        matches = re.findall(r'href="(/link\?url=.*?)".*?>(.*?)</a>', r.text)
-        for link, title in matches[:6]:
-            title = re.sub(r'<.*?>', '', title).strip()
-            if len(title) > 10:
-                items.append({
-                    "title": f"[{tag}] {title}",
-                    "url": urljoin("https://www.sogou.com", link),
-                    "fetch_time": now
-                })
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        response.encoding = encoding # 处理 GBK 等编码问题
+        soup = BeautifulSoup(response.text, 'html.parser')
+        items = []
+        
+        # 查找目标区域
+        container = soup.select_one(selector)
+        if container:
+            links = container.find_all(tag_type, limit=5) # 每个源只抓取前5条，保证App流畅
+            for link in links:
+                title = link.get_text().strip()
+                href = link.get('href', '')
+                
+                # 补全相对路径
+                if href.startswith('/'):
+                    from urllib.parse import urljoin
+                    href = urljoin(url, href)
+                
+                if len(title) > 5 and href.startswith('http'):
+                    items.append({"title": title, "url": href})
+        return items
     except Exception as e:
-        print(f"搜索 {keyword} 失败: {e}")
-    return items
+        print(f"抓取失败 {url}: {e}")
+        return []
 
 def main():
-    aca_data = []
-    pol_data = []
+    # 任务配置列表：网站名、URL、CSS选择器、编码
+    # 这里的选择器是根据各网站当前结构预估的，如果网站改版需要更新选择器
+    tasks = [
+        # --- 学术前沿板块 ---
+        {"cate": "academic", "site": "科学网", "url": "news.sciencenet.cn", "selector": "#list_inner", "enc": "utf-8"},
+        {"cate": "academic", "site": "中国社会科学网", "url": "http://www.cssn.cn/zx/zx_gx/", "selector": ".list_ul", "enc": "utf-8"},
+        {"cate": "academic", "site": "PubScholar", "url": "https://pubscholar.cn/", "selector": ".news-list", "enc": "utf-8"},
+        
+        # --- 政策/会议板块 ---
+        {"cate": "policy", "site": "中国学术会议在线", "url": "https://www.meeting.edu.cn/zh/meeting/list", "selector": ".list-item", "enc": "utf-8"},
+        {"cate": "policy", "site": "教育部学位中心", "url": "https://www.cdgdc.edu.cn/xwyyjsjyxx/index.shtml", "selector": ".news_list", "enc": "utf-8"},
+        {"cate": "policy", "site": "国家社科文献中心", "url": "http://www.ncpssd.org/notice.aspx", "selector": "#list_con", "enc": "utf-8"}
+    ]
 
-    # 1. 抓取：学术成果与研究现状
-    aca_data += fetch_from_search("研究现状", "成果/现状")
-    
-    # 2. 抓取：学术活动与讲座 (更换为更稳定的科学网会议频道)
-    aca_data += fetch_from_search("学术会议", "活动/交流")
+    all_data = {"academic": [], "policy": [], "update_time": ""}
 
-    # 3. 抓取：政策动态 (直接定位教育部政策库关键词)
-    pol_data += fetch_from_search("教育部 政策", "政策发布")
+    for t in tasks:
+        print(f"正在抓取: {t['site']}")
+        results = fetch_content(t['url'], t['selector'], encoding=t['enc'])
+        for item in results:
+            # 在标题前加上来源标签，方便App识别
+            item['title'] = f"[{t['site']}] {item['title']}"
+            all_data[t['cate']].append(item)
+        time.sleep(1) # 礼貌抓取，避免频率过快
 
-    # 兜底：如果搜索接口也抖动，使用备用静态源
-    if not aca_data:
-        aca_data = [{"title": "[成果] 中国基础研究现状保持稳步增长", "url": "https://news.sciencenet.cn/", "fetch_time": "最新"}]
-    if not pol_data:
-        pol_data = [{"title": "[政策] 2026年高等教育高质量发展指导意见", "url": "http://www.moe.gov.cn/", "fetch_time": "最新"}]
-
-    output = {
-        "academic": aca_data,
-        "policy": pol_data,
-        "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
+    all_data["update_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=4)
+        json.dump(all_data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     main()
