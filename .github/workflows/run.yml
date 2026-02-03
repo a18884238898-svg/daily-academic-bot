@@ -1,35 +1,32 @@
-name: News Update
+name: Daily Sync
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # 每4小时自动抓一次
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
-  run-crawler:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install Libs
-        run: pip install requests beautifulsoup4 lxml
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Run
-        env:
-          PYTHONIOENCODING: utf-8
+      - name: Run Script
         run: python main.py
 
-      - name: Sync to Repo
+      - name: Commit and Push
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "update" && git push)
+          git commit -m "Update news.json" || exit 0
+          git push
