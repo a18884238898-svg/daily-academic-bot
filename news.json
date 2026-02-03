@@ -1,0 +1,87 @@
+{
+    "academic": [
+        {
+            "title": "[论文] JAF: Judge Agent Forest",
+            "url": "https://arxiv.org/abs/2601.22269",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] The Six Sigma Agent: Achieving Enterprise-Grade Reliability in LLM Systems Through Consensus-Driven Decomposed Execution",
+            "url": "https://arxiv.org/abs/2601.22290",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
+            "url": "https://arxiv.org/abs/2601.22311",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?",
+            "url": "https://arxiv.org/abs/2601.22329",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Learning Provably Correct Distributed Protocols Without Human Knowledge",
+            "url": "https://arxiv.org/abs/2601.22369",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erd\\H{o}s Problems",
+            "url": "https://arxiv.org/abs/2601.22401",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] AI-Enabled Waste Classification as a Data-Driven Decision Support Tool for Circular Economy and Urban Sustainability",
+            "url": "https://arxiv.org/abs/2601.22418",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] When LLM meets Fuzzy-TOPSIS for Personnel Selection through Automated Profile Analysis",
+            "url": "https://arxiv.org/abs/2601.22433",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Anytime Safe PAC Efficient Reasoning",
+            "url": "https://arxiv.org/abs/2601.22446",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Controllable Information Production",
+            "url": "https://arxiv.org/abs/2601.22449",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Why Self-Rewarding Works: Theoretical Guarantees for Iterative Alignment of Language Models",
+            "url": "https://arxiv.org/abs/2601.22513",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution",
+            "url": "https://arxiv.org/abs/2601.22528",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Enhancing TableQA through Verifiable Reasoning Trace Reward",
+            "url": "https://arxiv.org/abs/2601.22530",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] Decoding in Geometry: Alleviating Embedding-Space Crowding for Complex Reasoning",
+            "url": "https://arxiv.org/abs/2601.22536",
+            "fetch_time": "2026-02-03 03:39:27"
+        },
+        {
+            "title": "[论文] PerfGuard: A Performance-Aware Agent for Visual Content Generation",
+            "url": "https://arxiv.org/abs/2601.22571",
+            "fetch_time": "2026-02-03 03:39:27"
+        }
+    ],
+    "policy": [
+        {
+            "title": "[官方] 中华人民共和国教育部政策发布",
+            "url": "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/",
+            "fetch_time": "2026-02-03 03:39:28"
+        }
+    ],
+    "update_time": "2026-02-03 03:39:28"
+}
