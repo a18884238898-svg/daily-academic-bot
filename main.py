@@ -2,88 +2,60 @@ import json, requests, re, os
 from datetime import datetime
 from urllib.parse import urljoin
 
+# 模拟真实浏览器请求头
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Referer': 'https://www.baidu.com/'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
 }
 
-def fetch_content(url, tag, patterns, base_url):
-    """
-    patterns: 列表，包含多个可能的正则组合，增加容错率
-    """
+def fetch_items(url, tag, patterns, base_url):
     items = []
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     try:
-        r = requests.get(url, headers=HEADERS, timeout=25)
+        r = requests.get(url, headers=HEADERS, timeout=20)
         r.encoding = r.apparent_encoding
         content = r.text
-        
-        for p in patterns:
-            matches = re.findall(p, content, re.S)
+        # 支持传入多个正则模式以提高成功率
+        for pattern in patterns:
+            matches = re.findall(pattern, content, re.S)
             for href, title in matches:
                 clean_title = re.sub(r'<.*?>', '', title).strip()
-                # 过滤掉导航栏短词，确保是新闻标题
-                if len(clean_title) > 10 and not clean_title.startswith("查看更多"):
-                    full_url = urljoin(base_url, href)
-                    if full_url not in [x['url'] for x in items]:
-                        items.append({"title": f"[{tag}] {clean_title}", "url": full_url, "fetch_time": now})
-            if items: break # 如果第一组正则抓到了，就跳出
+                if len(clean_title) > 8:
+                    items.append({
+                        "title": f"[{tag}] {clean_title}",
+                        "url": urljoin(base_url, href),
+                        "fetch_time": now
+                    })
+            if items: break # 如果第一组抓到了，就不试后续模式
     except Exception as e:
-        print(f"Error on {url}: {e}")
-    return items[:10]
+        print(f"Error fetching {tag}: {e}")
+    return items[:12]
 
 def main():
+    # --- 学术前沿：成果、活动、讲座、比赛 ---
     aca_data = []
-    pol_data = []
+    # 成果现状
+    aca_data += fetch_items("https://news.sciencenet.cn/news-news.aspx", "研究成果", [r'<a href="(htmlnews/.*?)" .*?>(.*?)</a>'], "https://news.sciencenet.cn/")
+    # 会议活动
+    aca_data += fetch_items("https://www.meeting.edu.cn/zh/meeting/list/0", "学术活动", [r'<a href="(/zh/meeting/.*?)" .*?>(.*?)</a>'], "https://www.meeting.edu.cn")
+    # 期刊动态
+    aca_data += fetch_items("http://www.cssn.cn/zx/zx_gx/", "期刊动态", [r'<a href="(.*?.shtml)".*?>(.*?)</a>'], "http://www.cssn.cn/zx/zx_gx/")
 
-    # --- 落实：学术成果/研究现状 ---
-    # 科学网-综合新闻：包含大量研究现状和成果
-    aca_data += fetch_content(
-        "http://news.sciencenet.cn/news-news.aspx", 
-        "研究成果", 
-        [r'<a href="(htmlnews/.*?)" .*?>(.*?)</a>'], 
-        "http://news.sciencenet.cn/"
-    )
+    # --- 政策动态 ---
+    pol_data = fetch_items("http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/", "政策动态", [r'<a href="(./.*?)" .*?>(.*?)</a>'], "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/")
 
-    # --- 落实：学术活动/比赛/交流 ---
-    # 中国学术会议在线：会议、讲座、比赛
-    aca_data += fetch_content(
-        "https://www.meeting.edu.cn/zh/meeting/list/0", 
-        "活动/交流", 
-        [r'<a href="(/zh/meeting/.*?)" .*?>(.*?)</a>'], 
-        "https://www.meeting.edu.cn"
-    )
-
-    # --- 落实：期刊变动/通知 ---
-    # 南京大学学术集刊网：期刊变动、征稿通知
-    aca_data += fetch_content(
-        "https://3c.nju.edu.cn/xsjk/news/list", 
-        "期刊/变动", 
-        [r'<a href="(.*?)".*?title="(.*?)"'], 
-        "https://3c.nju.edu.cn/"
-    )
-
-    # --- 落实：政策动态 ---
-    # 教育部-政策发布
-    pol_data += fetch_content(
-        "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/", 
-        "政策动态", 
-        [r'<a href="(./.*?)" .*?>(.*?)</a>'], 
-        "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/"
-    )
-
-    # --- 兜底处理 ---
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    # 兜底内容：防止完全空白
     if not aca_data:
-        aca_data = [{"title": "[系统提示] 正在实时同步成果与活动数据...", "url": "http://news.sciencenet.cn/", "fetch_time": now_str}]
+        aca_data = [{"title": "[系统] 正在同步学术资源...", "url": "https://news.sciencenet.cn/", "fetch_time": now_str}]
     if not pol_data:
-        pol_data = [{"title": "[系统提示] 正在同步最新政策文件...", "url": "http://www.moe.gov.cn/", "fetch_time": now_str}]
+        pol_data = [{"title": "[系统] 正在更新政策库...", "url": "http://www.moe.gov.cn/", "fetch_time": now_str}]
 
-    db = {"academic": aca_data, "policy": pol_data, "update_time": now_str}
+    db = {"academic": aca_data, "policy": pol_list, "update_time": now_str}
     
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(db, f, ensure_ascii=False, indent=4)
-    print(f"Update Success. Aca: {len(aca_data)}, Pol: {len(pol_data)}")
+    print(f"Sync Success. Academic: {len(aca_data)}, Policy: {len(pol_data)}")
 
 if __name__ == "__main__":
     main()
