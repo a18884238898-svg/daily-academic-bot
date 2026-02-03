@@ -1,53 +1,62 @@
-import json
-import requests
+import json, requests, os
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-import os
-from urllib.parse import urljoin # 👈 修复跳转的关键工具
+from urllib.parse import urljoin
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'}
 
-def get_html(url):
+def get_soup(url):
     try:
         r = requests.get(url, headers=HEADERS, timeout=20)
         r.encoding = r.apparent_encoding
-        return r.text if r.status_code == 200 else None
-    except:
-        return None
+        return BeautifulSoup(r.text, 'lxml') if r.status_code == 200 else None
+    except: return None
 
-def crawl_all():
+def crawl():
     aca, pol = [], []
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # 定义抓取目标 (站点URL, 选择器, 分类)
-    targets = [
-        ("http://news.sciencenet.cn/", ".t1 a, .t2 a", "aca"),
-        ("https://www.meeting.edu.cn/zh/meeting/list/0", ".meet_list_info a", "aca"),
-        ("https://pubscholar.cn/news", "a", "pol"),
-        ("http://www.cssn.cn/zx/zx_gx/", ".font01 a", "aca"),
-        ("http://muchong.com/bbs/index.php", "a.query_title", "aca") # 小木虫示例
-    ]
+    # --- 1. 科学网新闻 (精准定位：列表中的标题链接) ---
+    soup = get_soup("http://news.sciencenet.cn/")
+    if soup:
+        # 定位到新闻列表区域，避免抓到导航栏
+        for a in soup.select(".t1 a, .t2 a, .t3 a")[:10]:
+            title, href = a.text.strip(), a.get('href')
+            if href and "html" in href: # 文章通常以.html结尾
+                aca.append({"title": title, "url": urljoin("http://news.sciencenet.cn/", href), "fetch_time": now})
 
-    for base_url, selector, cat in targets:
-        html = get_html(base_url)
-        if not html: continue
-        try:
-            soup = BeautifulSoup(html, 'lxml')
-            items = soup.select(selector)
-            for a in items[:10]:
-                title = a.get_text(strip=True)
-                raw_href = a.get('href')
-                if not title or not raw_href or len(title) < 5: continue
-                
-                # 🚀 核心修复：自动补全相对路径为绝对路径
-                # 比如将 "./t123.html" 转换为 "http://www.cssn.cn/zx/zx_gx/t123.html"
-                full_url = urljoin(base_url, raw_href)
-                
-                entry = {"title": title, "url": full_url, "fetch_time": now}
-                if cat == "aca": aca.append(entry)
-                else: pol.append(entry)
-        except:
-            continue
+    # --- 2. 中国社会科学网 (精准定位：资讯列表) ---
+    soup = get_soup("http://www.cssn.cn/zx/zx_gx/")
+    if soup:
+        # 排除导航，只抓正文列表
+        for a in soup.select(".font01 a, .List_Title a")[:8]:
+            title, href = a.text.strip(), a.get('href')
+            if href and "t20" in href: # 该站正文链接通常带日期，如 t2026...
+                aca.append({"title": title, "url": urljoin("http://www.cssn.cn/zx/zx_gx/", href), "fetch_time": now})
+
+    # --- 3. 中国学术会议在线 (精准定位) ---
+    soup = get_soup("https://www.meeting.edu.cn/zh/meeting/list/0")
+    if soup:
+        for a in soup.select(".meet_list_info a")[:8]:
+            title, href = a.text.strip(), a.get('href')
+            if "/zh/meeting/" in href:
+                aca.append({"title": f"[会议] {title}", "url": urljoin("https://www.meeting.edu.cn", href), "fetch_time": now})
+
+    # --- 4. PubScholar (精准定位：动态列表) ---
+    soup = get_soup("https://pubscholar.cn/news")
+    if soup:
+        for a in soup.select(".news-list a, .item-title a")[:8]:
+            title, href = a.text.strip(), a.get('href')
+            if href and len(title) > 10:
+                pol.append({"title": title, "url": urljoin("https://pubscholar.cn/", href), "fetch_time": now})
+
+    # --- 5. 中文学术集刊网 (南京大学) ---
+    soup = get_soup("https://3c.nju.edu.cn/xsjk/news/list") # 修正为新闻列表页
+    if soup:
+        for a in soup.select(".news_list a, .list_box a")[:5]:
+            title, href = a.text.strip(), a.get('href')
+            pol.append({"title": f"[集刊] {title}", "url": urljoin("https://3c.nju.edu.cn/", href), "fetch_time": now})
+
     return aca, pol
 
 def main():
@@ -57,29 +66,26 @@ def main():
     
     if os.path.exists(file):
         try:
-            with open(file, "r", encoding="utf-8") as f:
-                db = json.load(f)
+            with open(file, "r", encoding="utf-8") as f: db = json.load(f)
         except: pass
 
-    new_aca, new_pol = crawl_all()
+    n_aca, n_pol = crawl()
 
     def merge(old, new):
-        urls = set()
-        res = []
+        urls, res = set(), []
         for i in (new + old):
-            # 过滤掉已经是主页的链接（简单逻辑：路径深度太浅的可能只是导航栏）
-            if i['url'] not in urls and i.get('fetch_time', '2020-01-01') >= limit:
+            # 这里的核心逻辑：如果URL深度太浅（比如只是域名），则剔除
+            if i['url'].count('/') > 3 and i['url'] not in urls and i.get('fetch_time', '2000-01-01') >= limit:
                 res.append(i)
                 urls.add(i['url'])
         return res[:100]
 
-    db["academic"] = merge(db.get("academic", []), new_aca)
-    db["policy"] = merge(db.get("policy", []), new_pol)
+    db["academic"], db["policy"] = merge(db.get("academic", []), n_aca), merge(db.get("policy", []), n_pol)
     db["update_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     with open(file, "w", encoding="utf-8") as f:
         json.dump(db, f, ensure_ascii=False, indent=4)
-    print("✅ 数据抓取完成，链接已补全")
+    print("Done. Cleaned URLs saved.")
 
 if __name__ == "__main__":
     main()
