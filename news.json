@@ -31,13 +31,49 @@
         {
             "title": "[科学网] 多项数学突破，为国产工业软件突围筑牢根基",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/559734.shtm"
+        },
+        {
+            "title": "[中科院] 知识产权与科技成果转化网",
+            "url": "http://www.casip.ac.cn/"
+        },
+        {
+            "title": "[中科院] 审计与监督局（党组巡视工作领导小组办公室）",
+            "url": "https://jianshen.cas.cn/"
+        },
+        {
+            "title": "[中科院] 中央纪委国家监委驻中国科学院纪检监察组",
+            "url": "https://jijianzu.cas.cn/"
+        },
+        {
+            "title": "[中科院] 中国科学院杰出科技成就奖",
+            "url": "https://www.cas.cn//kxyj/kj/casjc/"
+        },
+        {
+            "title": "[中科院] 中国科学院国际科技合作奖",
+            "url": "https://www.cas.cn//kxyj/kj/cashz/"
+        },
+        {
+            "title": "[中科院] 肺部炎症神经调控研究获进展",
+            "url": "https://www.cas.cn/../../syky/202602/t20260203_5099549.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示降水减少是维持多年拉尼娜事件的关键物理机制",
+            "url": "https://www.cas.cn/../../syky/202601/t20260119_5096511.shtml"
+        },
+        {
+            "title": "[中科院] 科研人员提出基于深度学习的RNA多类型修饰解析算法",
+            "url": "https://www.cas.cn/../../syky/202601/t20260126_5097199.shtml"
         }
     ],
     "policy": [
         {
-            "title": "[小木虫] 如果您的浏览器没有自动跳转，请点击这里",
-            "url": "http://muchong.com/bbs/logging.php?action=login"
+            "title": "[科技政策] 京ICP备05070218号",
+            "url": "https://beian.miit.gov.cn/#/Integrated/index"
+        },
+        {
+            "title": "[科技政策] 京公网安备11010202000001号",
+            "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-03 08:11:42"
+    "update_time": "2026-02-03 08:14:09"
 }
