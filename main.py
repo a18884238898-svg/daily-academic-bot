@@ -1,90 +1,65 @@
-import json, requests, os
-from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
-from urllib.parse import urljoin
+import json, requests, re, os
+from datetime import datetime
+from urllib.parse import unquote
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
-}
-
-def get_soup(url):
+def fetch_rss_simple(url, tag_prefix="[动态]"):
+    """
+    使用正则手动解析 RSS，不依赖外部库，防止 GitHub 环境报错
+    """
+    items = []
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     try:
-        r = requests.get(url, headers=HEADERS, timeout=30, verify=False)
-        r.encoding = r.apparent_encoding
-        return BeautifulSoup(r.text, 'lxml') if r.status_code == 200 else None
-    except: return None
-
-def crawl_academic():
-    """抓取：学术成果、活动、比赛、交流动态"""
-    results = []
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    
-    # 源 1：科学网-学术动态/研究成果 (涵盖成果、研究现状)
-    soup = get_soup("http://news.sciencenet.cn/news-news.aspx")
-    if soup:
-        for a in soup.select(".t1 a, .t2 a")[:12]:
-            t, h = a.text.strip(), a.get('href')
-            if len(t) > 10 and h:
-                results.append({"title": f"[研究成果] {t}", "url": urljoin("http://news.sciencenet.cn/", h), "fetch_time": now})
-
-    # 源 2：中国学术会议在线-学术活动/会议交流
-    soup = get_soup("https://www.meeting.edu.cn/zh/meeting/list/0")
-    if soup:
-        for a in soup.select(".meet_list_info a")[:8]:
-            t, h = a.text.strip(), a.get('href')
-            if h:
-                results.append({"title": f"[学术交流] {t}", "url": urljoin("https://www.meeting.edu.cn", h), "fetch_time": now})
-
-    # 源 3：中国社会科学网-学术资讯/期刊动态
-    soup = get_soup("http://www.cssn.cn/zx/zx_gx/")
-    if soup:
-        for a in soup.select(".font01 a")[:8]:
-            t, h = a.text.strip(), a.get('href')
-            if len(t) > 10:
-                results.append({"title": f"[期刊/动态] {t}", "url": urljoin("http://www.cssn.cn/zx/zx_gx/", h), "fetch_time": now})
-
-    return results
-
-def crawl_policy():
-    """抓取：最新政策文件、政府公告 (修复同步问题)"""
-    results = []
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    
-    # 源 1：教育部-最新政策 (最权威，结构相对稳定)
-    soup = get_soup("http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/")
-    if soup:
-        for a in soup.select(".moe-list a")[:10]:
-            t, h = a.text.strip(), a.get('href')
-            if len(t) > 8:
-                results.append({"title": f"[政策公告] {t}", "url": urljoin("http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/", h), "fetch_time": now})
-
-    # 源 2：PubScholar 公益学术-政策新闻 (备选)
-    soup = get_soup("https://pubscholar.cn/news")
-    if soup:
-        for a in soup.select("a")[:20]:
-            t, h = a.text.strip(), a.get('href')
-            if len(t) > 12 and h and h.startswith('http'):
-                results.append({"title": f"[动态] {t}", "url": h, "fetch_time": now})
-
-    return results
+        # 设置更长超时，防止网络波动
+        r = requests.get(url, timeout=30)
+        r.encoding = 'utf-8'
+        content = r.text
+        
+        # 提取 item 块
+        entries = re.findall(r'<item>(.*?)</item>', content, re.S)
+        for entry in entries[:15]:
+            title_match = re.search(r'<title>(.*?)</title>', entry, re.S)
+            link_match = re.search(r'<link>(.*?)</link>', entry, re.S)
+            
+            if title_match and link_match:
+                title = title_match.group(1).replace('<![CDATA[', '').replace(']]>', '').strip()
+                link = link_match.group(1).replace('<![CDATA[', '').replace(']]>', '').strip()
+                items.append({
+                    "title": f"{tag_prefix} {title}",
+                    "url": link,
+                    "fetch_time": now
+                })
+    except Exception as e:
+        print(f"Error fetching {url}: {e}")
+    return items
 
 def main():
-    aca = crawl_academic()
-    pol = crawl_policy()
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # --- 1. 学术前沿 (使用科学网 RSS + arXiv RSS) ---
+    # 科学网论文频道 RSS 是目前最稳定的学术新闻源
+    academic = fetch_rss_simple("https://www.sciencenet.cn/xml/news.xml?di=0", "[成果]")
+    # 如果科学网挂了，换 arXiv (AI领域示例)
+    if not academic:
+        academic = fetch_rss_simple("https://export.arxiv.org/rss/cs.AI", "[论文]")
 
-    # 兜底：如果政策依然抓不到，手动加入一个跳转到教育部官网的真实链接，确保不显示“正在同步”
-    if not pol:
-        pol = [{"title": "[官方数据库] 教育部最新政策发布中心", "url": "http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/", "fetch_time": now_str}]
-    if not aca:
-        aca = [{"title": "[学术枢纽] 科学网最新学术成果汇总", "url": "http://news.sciencenet.cn/", "fetch_time": now_str}]
-
-    db = {"academic": aca, "policy": pol, "update_time": now_str}
+    # --- 2. 政策动态 (使用权威机构 RSS 或 聚合源) ---
+    # 我们使用一个镜像聚合源来获取教育政策，防止直连教育部被封
+    policy = fetch_rss_simple("https://www.sciencenet.cn/xml/news.xml?di=2", "[政策]")
     
+    # --- 3. 汇总 ---
+    db = {
+        "academic": academic,
+        "policy": policy,
+        "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
+
+    # --- 4. 救生圈：如果连 RSS 都抓不到，存入真实有效的静态链接 ---
+    if not db["academic"]:
+        db["academic"] = [{"title": "[官方] 科学网学术论文中心", "url": "https://news.sciencenet.cn/paper/index.aspx", "fetch_time": db["update_time"]}]
+    if not db["policy"]:
+        db["policy"] = [{"title": "[官方] 中华人民共和国教育部政策发布", "url": "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/", "fetch_time": db["update_time"]}]
+
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(db, f, ensure_ascii=False, indent=4)
-    print(f"Update Success. Aca: {len(aca)}, Pol: {len(pol)}")
+    print(f"Sync complete. Aca: {len(academic)}, Pol: {len(policy)}")
 
 if __name__ == "__main__":
     main()
