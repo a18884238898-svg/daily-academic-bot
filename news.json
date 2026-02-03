@@ -1,5 +1,11 @@
 {
     "academic": [],
-    "policy": [],
-    "update_time": "2026-02-03 03:10:34"
+    "policy": [
+        {
+            "title": "政策动态库维护中，请访问教育部官网查看",
+            "url": "http://www.moe.gov.cn/",
+            "fetch_time": "2026-02-03 03:14:37"
+        }
+    ],
+    "update_time": "2026-02-03 03:15:15"
 }
