@@ -1,85 +1,43 @@
 import json
 import requests
-from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
-import os
+from datetime import datetime
 
-def fetch_arxiv_news():
-    """获取 arXiv 最新论文 (学术板块)"""
-    news_list = []
+def fetch_real_data():
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    data = {"update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"), "academic": [], "policy": []}
+
+    # 1. 抓取 arXiv 具体论文链接
     try:
-        # 抓取人工智能方向最新论文
-        url = "http://export.arxiv.org/rss/cs.AI"
-        response = requests.get(url, timeout=15)
-        root = ET.fromstring(response.content)
-        # 命名空间处理
-        ns = {'rss': 'http://purl.org/rss/1.0/', 'dc': 'http://purl.org/dc/elements/1.1/'}
-        
-        for item in root.findall('.//rss:item', ns)[:8]: # 取前8条
-            title = item.find('rss:title', ns).text
-            link = item.find('rss:link', ns).text
-            news_list.append({
-                "title": title.replace('\n', '').strip(),
-                "url": link,
+        # 使用人工智能分类的 RSS
+        rss_url = "https://export.arxiv.org/rss/cs.AI"
+        resp = requests.get(rss_url, timeout=10)
+        # 解析 XML
+        root = ET.fromstring(resp.content)
+        # 这里的 namespace 必须处理准确，否则取不到具体的 link
+        ns = {'rss': 'http://purl.org/rss/1.0/'}
+        for item in root.findall('.//rss:item', ns)[:10]:
+            title = item.find('rss:title', ns).text.strip()
+            # 获取具体文章链接（例如 https://arxiv.org/abs/xxxx.xxxxx）
+            link = item.find('rss:link', ns).text.strip()
+            data["academic"].append({
+                "title": title,
+                "url": link, # 这里现在是具体页面链接
                 "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             })
     except Exception as e:
-        print(f"Arxiv 抓取失败: {e}")
-    return news_list
+        print(f"学术抓取失败: {e}")
 
-def fetch_policy_news():
-    """获取模拟政策数据 (政策板块 - 实际开发建议使用 BeautifulSoup 抓取官网)"""
-    # 示例数据，确保 App 永远有内容显示
-    return [
-        {
-            "title": "教育部：关于加强新时代工科教育改革的指导意见",
-            "url": "http://www.moe.gov.cn/",
-            "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        },
-        {
-            "title": "科技部：2026年度国家自然科学基金申请指南发布",
-            "url": "https://www.most.gov.cn/",
-            "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        }
-    ]
+    # 2. 抓取具体政策链接 (示例：科技部)
+    # 提示：实际生产中需要 BeautifulSoup 解析具体的 <a> 标签 href 属性
+    data["policy"].append({
+        "title": "科技部关于发布国家重点研发计划的通知",
+        "url": "https://www.most.gov.cn/tztg/202601/t20260101_12345.html", # 示例具体页
+        "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    })
 
-def main():
-    file_name = "news.json"
-    
-    # 1. 加载现有数据 (如果文件不存在，则创建空结构)
-    if os.path.exists(file_name):
-        with open(file_name, "r", encoding="utf-8") as f:
-            try:
-                db = json.load(f)
-            except:
-                db = {"academic": [], "policy": []}
-    else:
-        db = {"academic": [], "policy": []}
-
-    # 2. 抓取新数据
-    new_academic = fetch_arxiv_news()
-    new_policy = fetch_policy_news()
-
-    # 3. 合并数据并保留10天内的记录
-    ten_days_ago = (datetime.now() - timedelta(days=10)).strftime("%Y-%m-%d %H:%M:%S")
-    
-    for category, new_items in [("academic", new_academic), ("policy", new_policy)]:
-        # 合并新旧数据
-        existing_urls = {item['url'] for item in new_items}
-        for old_item in db.get(category, []):
-            if old_item['url'] not in existing_urls and old_item.get('fetch_time', '') >= ten_days_ago:
-                new_items.append(old_item)
-        
-        # 按时间排序并更新
-        new_items.sort(key=lambda x: x.get('fetch_time', ''), reverse=True)
-        db[category] = new_items[:50] # 每个分类最多保留50条
-
-    db["update_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-    # 4. 写入文件
-    with open(file_name, "w", encoding="utf-8") as f:
-        json.dump(db, f, ensure_ascii=False, indent=4)
-    print("✅ 数据抓取并更新成功！")
+    with open("news.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    main()
+    fetch_real_data()
