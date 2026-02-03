@@ -1,11 +1,17 @@
 {
-    "academic": [],
-    "policy": [
+    "academic": [
         {
-            "title": "[政策] 正在实时同步教育部最新文件...",
-            "url": "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/",
-            "fetch_time": "2026-02-03 03:49:23"
+            "title": "[系统提示] 正在实时同步成果与活动数据...",
+            "url": "http://news.sciencenet.cn/",
+            "fetch_time": "2026-02-03 03:55:07"
         }
     ],
-    "update_time": "2026-02-03 03:49:23"
+    "policy": [
+        {
+            "title": "[系统提示] 正在同步最新政策文件...",
+            "url": "http://www.moe.gov.cn/",
+            "fetch_time": "2026-02-03 03:55:07"
+        }
+    ],
+    "update_time": "2026-02-03 03:55:07"
 }
