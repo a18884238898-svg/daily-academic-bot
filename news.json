@@ -31,14 +31,6 @@
         {
             "title": "[科学网] 多项数学突破，为国产工业软件突围筑牢根基",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/559734.shtm"
-        },
-        {
-            "title": "[社科网] 京ICP备11013869号",
-            "url": "https://beian.miit.gov.cn/"
-        },
-        {
-            "title": "[社科网] 京公网安备11010502030146号",
-            "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030146"
         }
     ],
     "policy": [
@@ -55,5 +47,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802022153"
         }
     ],
-    "update_time": "2026-02-03 07:56:06"
+    "update_time": "2026-02-03 08:01:12"
 }
