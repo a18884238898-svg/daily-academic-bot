@@ -1,22 +1,5 @@
 {
-    "academic": [
-        {
-            "title": "[社科网] Français",
-            "url": "http://french.cssn.cn/"
-        },
-        {
-            "title": "[社科网] 中国社会科学杂志社",
-            "url": "http://sscp.cssn.cn/"
-        },
-        {
-            "title": "[社科网] 京ICP备11013869号",
-            "url": "https://beian.miit.gov.cn/"
-        },
-        {
-            "title": "[社科网] 京公网安备11010502030146号",
-            "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030146"
-        }
-    ],
+    "academic": [],
     "policy": [],
-    "update_time": "2026-02-03 07:49:12"
+    "update_time": "2026-02-03 07:53:02"
 }
