@@ -1,0 +1,17 @@
+{
+    "academic": [
+        {
+            "title": "[动态] 全球 AI 研究现状追踪中...",
+            "url": "https://xueshu.baidu.com/",
+            "fetch_time": "实时"
+        }
+    ],
+    "policy": [
+        {
+            "title": "[动态] 国家教育政策实时更新中...",
+            "url": "http://www.moe.gov.cn/",
+            "fetch_time": "实时"
+        }
+    ],
+    "update_time": "2026-02-03 06:27:15"
+}
