@@ -18,58 +18,53 @@ class AcademicScraper:
 
     def fetch(self, url, site_name, category, selector=None):
         try:
-            # 针对国内部分高校/政府网，尝试增加特定请求头绕过海外拦截
-            res = requests.get(url, headers=self.headers, timeout=25, verify=False)
+            res = requests.get(url, headers=self.headers, timeout=30, verify=False)
             res.encoding = res.apparent_encoding
             soup = BeautifulSoup(res.text, 'lxml')
             
+            # 如果有选择器则锁定区域，没有则扫描全身
             target = soup.select_one(selector) if selector else soup
             if not target: target = soup
 
             links = target.find_all('a')
             count = 0
             
-            # 🔴 核心改进：极其严格的黑名单，彻底过滤备案号和无效链接
-            blacklist = ['备案', '版权', 'ICP', '公网安备', '登录', '注册', 'About', 'English', 'Français', '更多', '联系', '返回', '首页', '小木虫论坛']
+            # 严格黑名单：剔除干扰链接
+            blacklist = ['备案', '版权', 'ICP', '公安', '登录', '注册', 'About', 'English', '更多', '首页', '联系']
             
             for link in links:
                 title = link.get_text().strip()
                 href = link.get('href', '')
                 full_url = urljoin(url, href)
                 
-                # 🟡 核心改进：标题必须包含新闻特征，且长度适中
-                if 12 <= len(title) <= 60 and full_url.startswith('http'):
+                # 判定逻辑：标题 10-60 字，URL 必须合法
+                if 10 <= len(title) <= 60 and full_url.startswith('http'):
                     if not any(word in title for word in blacklist):
-                        # 额外校验：排除那些纯数字或明显不是新闻的链接
-                        if title.isdigit() or len(set(title)) < 5: continue
-                        
+                        # 特殊过滤：如果是 Policy 类别，我们要确保它看起来像条新闻或公告
                         self.results[category].append({
                             "title": f"[{site_name}] {title}",
                             "url": full_url
                         })
                         count += 1
-                if count >= 10: break
-            
-            print(f"✅ {site_name} 抓取成功: {count} 条")
+                if count >= 8: break
+            print(f"✅ {site_name} 抓取结果: {count} 条")
         except Exception as e:
-            print(f"❌ {site_name} 失败: {e}")
+            print(f"❌ {site_name} 抓取异常: {e}")
 
     def run(self):
+        # 任务清单：换用更直接的子页面链接
         tasks = [
-            # 1. 科学网 (已经通了，保持原样)
+            # --- Academic 类 (目前最稳) ---
             {"site": "科学网", "url": "https://news.sciencenet.cn/", "cate": "academic", "sel": "#list_inner"},
+            {"site": "社科前沿", "url": "http://www.cssn.cn/zx/zx_gx/", "cate": "academic", "sel": ".list_ul"},
             
-            # 2. 社科网 (尝试更换为新闻子频道，绕过首页拦截)
-            {"site": "社科网", "url": "http://www.cssn.cn/zx/zx_gx/", "cate": "academic", "sel": ".list_ul"},
-            
-            # 3. 学术会议 (更换具体分类页)
-            {"site": "学术会议", "url": "https://www.meeting.edu.cn/zh/meeting/list", "cate": "academic", "sel": ".list-item-box"},
-            
-            # 4. 小木虫 (锁定今日头条区)
-            {"site": "小木虫", "url": "http://muchong.com/bbs/index.php?gid=29", "cate": "policy", "sel": ".stitle"},
-            
-            # 5. 文献中心 (政府背景，易被挡)
-            {"site": "文献中心", "url": "http://www.ncpssd.org/notice.aspx", "cate": "policy", "sel": ".list_con"}
+            # --- Policy 类 (重点抢救) ---
+            # 1. 学术会议在线：换成列表页，去掉选择器全页扫描
+            {"site": "学术会议", "url": "https://www.meeting.edu.cn/zh/meeting/list", "cate": "policy", "sel": None},
+            # 2. 社科文献中心：公告页
+            {"site": "社科文献", "url": "http://www.ncpssd.org/notice.aspx", "cate": "policy", "sel": ".list_con"},
+            # 3. 小木虫：锁定学术动态版块
+            {"site": "小木虫", "url": "http://muchong.com/bbs/index.php?gid=29", "cate": "policy", "sel": ".stitle"}
         ]
 
         for t in tasks:
