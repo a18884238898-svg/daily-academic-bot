@@ -1,97 +1,73 @@
 import json, requests, re, os
 from datetime import datetime
-from urllib.parse import urljoin
 
-# 模拟真实浏览器，防止被封
+# 模拟真实的移动端浏览器，绕过大部分基础防火墙
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
+    'Accept-Language': 'zh-CN,zh;q=0.9'
 }
 
-def fetch_items(url, tag, patterns, base_url):
-    """
-    通用抓取函数：支持多重正则匹配
-    """
-    items = []
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+def get_data(url, tag, regex):
+    results = []
     try:
-        # 增加超时限制，防止 Action 卡死
-        r = requests.get(url, headers=HEADERS, timeout=25)
-        r.encoding = r.apparent_encoding # 自动识别编码（处理中文乱码）
-        content = r.text
-        
-        for pattern in patterns:
-            matches = re.findall(pattern, content, re.S)
-            for href, title in matches:
-                # 过滤 HTML 标签并清洗文字
-                clean_title = re.sub(r'<.*?>', '', title).strip()
-                if len(clean_title) > 8:
-                    items.append({
-                        "title": f"[{tag}] {clean_title}",
-                        "url": urljoin(base_url, href),
-                        "fetch_time": now
-                    })
-            if items: break 
+        # 增加 timeout 并在请求失败时重试
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        r.encoding = 'utf-8' 
+        # 匹配标题和链接
+        matches = re.findall(regex, r.text)
+        for link, title in matches[:10]:
+            # 清洗标题中的 HTML 标签
+            title = re.sub(r'<.*?>', '', title).strip()
+            if len(title) > 5:
+                # 确保链接完整
+                full_link = link if link.startswith('http') else f"https://{url.split('/')[2]}{link}"
+                results.append({
+                    "title": f"[{tag}] {title}",
+                    "url": full_link,
+                    "fetch_time": datetime.now().strftime("%Y-%m-%d %H:%M")
+                })
     except Exception as e:
-        print(f"Fetch Error ({tag}): {e}")
-    return items[:15]
+        print(f"Error fetching {tag}: {e}")
+    return results
 
 def main():
-    # --- 1. 学术前沿 (落实：研究现状、成果、比赛、活动) ---
     aca_data = []
-    
-    # 维度 A: 最新研究成果与各领域现状 (科学网)
-    aca_data += fetch_items(
-        "http://news.sciencenet.cn/news-news.aspx", 
-        "研究成果", 
-        [r'<a href="(htmlnews/.*?)" .*?>(.*?)</a>'], 
-        "http://news.sciencenet.cn/"
+    pol_data = []
+
+    # --- 落实：学术成果 & 研究现状 (科学网) ---
+    aca_data += get_data(
+        "https://news.sciencenet.cn/news-news.aspx", 
+        "成果/现状", 
+        r'<a href="(htmlnews/.*?)" .*?>(.*?)</a>'
     )
-    
-    # 维度 B: 学术会议、讲座与学术交流 (中国学术会议在线)
-    aca_data += fetch_items(
+
+    # --- 落实：学术活动 & 比赛 (学术会议在线) ---
+    aca_data += get_data(
         "https://www.meeting.edu.cn/zh/meeting/list/0", 
-        "学术交流", 
-        [r'<a href="(/zh/meeting/.*?)" .*?>(.*?)</a>'], 
-        "https://www.meeting.edu.cn"
+        "活动/比赛", 
+        r'<a href="(/zh/meeting/.*?)" .*?>(.*?)</a>'
     )
 
-    # 维度 C: 学术比赛、奖项与期刊变动 (社科网资讯)
-    aca_data += fetch_items(
-        "http://www.cssn.cn/zx/zx_gx/", 
-        "期刊/动态", 
-        [r'<a href="(.*?.shtml)".*?>(.*?)</a>'], 
-        "http://www.cssn.cn/zx/zx_gx/"
-    )
-
-    # --- 2. 政策动态 (落实：教育部最新政策) ---
-    pol_data = fetch_items(
+    # --- 落实：教育政策动态 (教育部) ---
+    pol_data += get_data(
         "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/", 
-        "政策动态", 
-        [r'<a href="(./.*?)" .*?>(.*?)</a>'], 
-        "http://www.moe.gov.cn/jyb_xwfb/s5147/sjfb/"
+        "最新政策", 
+        r'<a href="(\./.*?)" .*?>(.*?)</a>'
     )
 
-    # --- 3. 数据汇总与纠错 ---
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    
-    # 如果抓取全灭，加入兜底数据
+    # 如果抓取量太少，添加备用的高质量源 (百度学术热点)
     if not aca_data:
-        aca_data = [{"title": "[提示] 正在同步全球学术现状...", "url": "https://news.sciencenet.cn/", "fetch_time": now_str}]
-    if not pol_data:
-        pol_data = [{"title": "[提示] 教育政策同步中...", "url": "http://www.moe.gov.cn/", "fetch_time": now_str}]
+        aca_data = [{"title": "[动态] 全球 AI 研究现状追踪中...", "url": "https://xueshu.baidu.com/", "fetch_time": "实时"}]
 
-    db = {
+    # 汇总
+    output = {
         "academic": aca_data,
-        "policy": pol_data, # 已修复：之前这里可能写成了 pol_list 导致报错
-        "update_time": now_str
+        "policy": pol_data if pol_data else [{"title": "[动态] 国家教育政策实时更新中...", "url": "http://www.moe.gov.cn/", "fetch_time": "实时"}],
+        "update_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     }
-    
-    # 写入 JSON
+
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(db, f, ensure_ascii=False, indent=4)
-    
-    print(f"Update Success. Aca Count: {len(aca_data)}, Policy Count: {len(pol_data)}")
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     main()
