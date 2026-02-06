@@ -13,6 +13,14 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/559797.shtm"
         },
         {
+            "title": "[科学网] 2025年度CAAI激励计划入选项目公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/559911.shtm"
+        },
+        {
+            "title": "[科学网] 我国科学家在甘蔗生物育种研究领域取得重大突破",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/559910.shtm"
+        },
+        {
             "title": "[科学网] 毛军发不再担任深圳大学校长",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/559909.shtm"
         },
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 规模最大量子材料模拟器研制成功",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/559904.shtm"
-        },
-        {
-            "title": "[科学网] 南京邮电大学领导班子调整",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/559903.shtm"
-        },
-        {
-            "title": "[科学网] 西工大团队在植入式脑机接口研究领域取得新进展",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/559899.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -61,8 +61,8 @@
             "url": "https://www.cas.cn/../../syky/202602/t20260203_5099553.shtml"
         },
         {
-            "title": "[中科院] 磁性半导体自旋光子学研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202602/t20260204_5099661.shtml"
+            "title": "[中科院] 气体遥感三维成像研究获进展",
+            "url": "https://www.cas.cn/../../syky/202602/t20260206_5099914.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-06 06:37:31"
+    "update_time": "2026-02-06 12:28:48"
 }
