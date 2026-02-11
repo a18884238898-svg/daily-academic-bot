@@ -1,6 +1,10 @@
 {
     "academic": [
         {
+            "title": "[科学网] 春游中获得灵感，他实现导师10年前的构想",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560155.shtm"
+        },
+        {
             "title": "[科学网] 27年攻坚，让生命起始的“隐形剧本”显形",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560091.shtm"
         },
@@ -9,28 +13,24 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
         },
         {
+            "title": "[科学网] 2026年江西卫健委科技创新联合项目评审结果公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560159.shtm"
+        },
+        {
+            "title": "[科学网] 河北省中央引导地方科技发展资金项目开始申报",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560158.shtm"
+        },
+        {
+            "title": "[科学网] 李斌任沈阳农业大学党委副书记、校长",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560157.shtm"
+        },
+        {
             "title": "[科学网] 科技部修订《科学技术活动违规行为调查处理规定》",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560154.shtm"
         },
         {
             "title": "[科学网] 专家谈长十火箭低空飞试验：“低空”不低挑战空前",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560153.shtm"
-        },
-        {
-            "title": "[科学网] 马斯克酝酿在月球造AI卫星工厂",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560149.shtm"
-        },
-        {
-            "title": "[科学网] 中非联合实验室项目落地浙江省瓯江实验室",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560148.shtm"
-        },
-        {
-            "title": "[科学网] 美国因天气原因推迟“龙”飞船载人发射",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560147.shtm"
-        },
-        {
-            "title": "[科学网] 南京农业大学原党委书记费旭逝世",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560142.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-11 12:37:09"
+    "update_time": "2026-02-11 18:45:19"
 }
