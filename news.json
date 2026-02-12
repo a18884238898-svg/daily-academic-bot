@@ -1,36 +1,68 @@
 {
     "academic": [
         {
-            "title": "[科学网] 春游中获得灵感，他实现导师10年前的构想",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560155.shtm"
+            "title": "[科学网] 习近平对国家自然科学基金委员会工作作出重要指示",
+            "url": "https://www.news.cn/politics/leaders/20260212/3e332088cd5546999235a9f10601f783/c.html"
         },
         {
-            "title": "[科学网] 27年攻坚，让生命起始的“隐形剧本”显形",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560091.shtm"
+            "title": "[科学网] 织就观“天”巨网，撑起空间灾害防护伞",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560160.shtm"
         },
         {
             "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
         },
         {
-            "title": "[科学网] 2026年江西卫健委科技创新联合项目评审结果公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560159.shtm"
+            "title": "[科学网] 重编程特定神经元能恢复小鼠记忆功能",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560175.shtm"
         },
         {
-            "title": "[科学网] 河北省中央引导地方科技发展资金项目开始申报",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560158.shtm"
+            "title": "[科学网] 人类脊髓损伤类器官模型发布",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560174.shtm"
         },
         {
-            "title": "[科学网] 李斌任沈阳农业大学党委副书记、校长",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560157.shtm"
+            "title": "[科学网] 调控神经元内吞作用“守门人”发现",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560173.shtm"
         },
         {
-            "title": "[科学网] 科技部修订《科学技术活动违规行为调查处理规定》",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560154.shtm"
+            "title": "[科学网] 技术突破加速实用容错量子计算机面世",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560172.shtm"
         },
         {
-            "title": "[科学网] 专家谈长十火箭低空飞试验：“低空”不低挑战空前",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560153.shtm"
+            "title": "[科学网] “量子电容”成功读取拓扑量子比特信息",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560171.shtm"
+        },
+        {
+            "title": "[中科院] 知识产权与科技成果转化网",
+            "url": "http://www.casip.ac.cn/"
+        },
+        {
+            "title": "[中科院] 审计与监督局（党组巡视工作领导小组办公室）",
+            "url": "https://jianshen.cas.cn/"
+        },
+        {
+            "title": "[中科院] 中央纪委国家监委驻中国科学院纪检监察组",
+            "url": "https://jijianzu.cas.cn/"
+        },
+        {
+            "title": "[中科院] 中国科学院杰出科技成就奖",
+            "url": "https://www.cas.cn//kxyj/kj/casjc/"
+        },
+        {
+            "title": "[中科院] 中国科学院国际科技合作奖",
+            "url": "https://www.cas.cn//kxyj/kj/cashz/"
+        },
+        {
+            "title": "[中科院] 研究破解肿瘤微环境免疫治疗耐药的密码",
+            "url": "https://www.cas.cn/../../syky/202602/t20260212_5101676.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示东印度洋班达弧潜在地震空区",
+            "url": "https://www.cas.cn/../../syky/202602/t20260209_5100147.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示水流条件驱动被动环境DNA采样效率提升关键机制",
+            "url": "https://www.cas.cn/../../syky/202602/t20260210_5100248.shtml"
         }
     ],
     "policy": [
@@ -43,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-12 01:01:33"
+    "update_time": "2026-02-12 06:46:43"
 }
