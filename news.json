@@ -1,16 +1,16 @@
 {
     "academic": [
         {
-            "title": "[科学网] 陈嘉庚科学奖和陈嘉庚青年科学奖评选结果发布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560182.shtm"
-        },
-        {
-            "title": "[科学网] 这位终身教授宣布：今后论文发表减半",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560206.shtm"
+            "title": "[科学网] 他们另辟蹊径酿出“清洁燃料”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560211.shtm"
         },
         {
             "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
+        },
+        {
+            "title": "[科学网] OpenClaw病毒式传播引发安全争议",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560210.shtm"
         },
         {
             "title": "[科学网] 基金委发布与京港学术交流中心合作交流项目指南",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 科研人员破解肿瘤微环境免疫治疗耐药的密码",
-            "url": "https://www.cas.cn/../../syky/202602/t20260212_5101676.shtml"
+            "title": "[中科院] 我国光钟实现对国际原子时的驾驭",
+            "url": "https://www.cas.cn/../../syky/202602/t20260213_5102556.shtml"
         },
         {
-            "title": "[中科院] 研究提出高比能梯度富锂锰基正极反应机制",
-            "url": "https://www.cas.cn/../../syky/202602/t20260212_5101718.shtml"
+            "title": "[中科院] 科研人员提出新型灵长类光遗传技术",
+            "url": "https://www.cas.cn/../../syky/202602/t20260212_5101722.shtml"
         },
         {
-            "title": "[中科院] 新型氧化锡纳米材料原位构建2D/3D钙钛矿异质结研究获进展",
-            "url": "https://www.cas.cn/../../syky/202602/t20260209_5100142.shtml"
+            "title": "[中科院] 科学家提出阿尔茨海默病治疗新策略",
+            "url": "https://www.cas.cn/../../syky/202602/t20260211_5100305.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-13 01:04:37"
+    "update_time": "2026-02-13 06:43:17"
 }
