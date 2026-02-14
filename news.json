@@ -1,16 +1,28 @@
 {
     "academic": [
         {
+            "title": "[科学网] 未获终身教职，他把哈佛告上法庭",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560263.shtm"
+        },
+        {
             "title": "[科学网] 首次、首个、首颗！我国科技领域实现硬核突破",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560255.shtm"
         },
         {
-            "title": "[科学网] 国际奖项以张弥曼院士命名",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560250.shtm"
-        },
-        {
             "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
+        },
+        {
+            "title": "[科学网] 川大通报王竹卿相关问题调查处理情况",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560265.shtm"
+        },
+        {
+            "title": "[科学网] 《自然》（20260212出版）一周论文导读",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560264.shtm"
+        },
+        {
+            "title": "[科学网] 深地国家科技重大专项2026公开项目申报指南发布",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560262.shtm"
         },
         {
             "title": "[科学网] 125人30个单位，浙江表彰有突出贡献中青年专家",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 西湖大学2026年本科招生再增两地",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560260.shtm"
-        },
-        {
-            "title": "[科学网] 广东省人民政府任免工作人员，涉及多所高校",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560259.shtm"
-        },
-        {
-            "title": "[科学网] 中国AI破解亲吻数问题，回答300多年前牛顿之问",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560258.shtm"
-        },
-        {
-            "title": "[科学网] 古DNA技术揭示150年前沉船“生命史”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560257.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-14 12:20:00"
+    "update_time": "2026-02-14 18:17:00"
 }
