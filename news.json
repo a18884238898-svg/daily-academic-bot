@@ -1,20 +1,16 @@
 {
     "academic": [
         {
-            "title": "[科学网] 接好运！科学网祝您马上“突破”！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560327.shtm"
-        },
-        {
-            "title": "[科学网] 除夕之夜，万家灯火。科学网祝读者朋友们，在新的一年里：灵感如泉、实验顺遂、成果频出、万事胜意！马年大吉，科研一路向前！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560327.shtm"
-        },
-        {
-            "title": "[科学网] 顾一鸣：把“做成事”放在科研首位",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560305.shtm"
+            "title": "[科学网] 深耕基础研究，筑牢科学根基丨我们的2025",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560330.shtm"
         },
         {
             "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
+        },
+        {
+            "title": "[科学网] 如何面对突发风险？复盘我国载人航天首次应急行动",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560328.shtm"
         },
         {
             "title": "[科学网] 山西省科技厅发布省科技攻关计划项目管理办法",
@@ -31,6 +27,10 @@
         {
             "title": "[科学网] 两家企业代写代投论文，重庆市科技局发布情况通报",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560323.shtm"
+        },
+        {
+            "title": "[科学网] OpenClaw创始人加入OpenAI",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560322.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-17 00:59:59"
+    "update_time": "2026-02-17 06:42:22"
 }
