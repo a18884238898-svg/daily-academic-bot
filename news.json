@@ -1,16 +1,20 @@
 {
     "academic": [
         {
+            "title": "[科学网] 辞去西湖大学教职，他想去中学教书",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560414.shtm"
+        },
+        {
             "title": "[科学网] 统计学跨界医学，复旦90后博导让痴呆早发现",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560398.shtm"
         },
         {
-            "title": "[科学网] 薪火传精神，聚才齐攀登 | 我们的2025",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560397.shtm"
-        },
-        {
             "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
+        },
+        {
+            "title": "[科学网] 艰难拓荒到科学深耕，她用医者生涯守护儿童精神健...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560415.shtm"
         },
         {
             "title": "[科学网] 美国拟将载人绕月飞行任务火箭和飞船撤回装配大楼",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 微软一块“玻璃”可保存数据上万年",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560410.shtm"
-        },
-        {
-            "title": "[科学网] 生物化学家、中国遗传病基因诊断奠基人吴冠芸逝世",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560409.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-23 12:33:20"
+    "update_time": "2026-02-23 18:44:30"
 }
