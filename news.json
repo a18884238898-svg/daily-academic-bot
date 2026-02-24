@@ -1,19 +1,7 @@
 {
     "academic": [
         {
-            "title": "[科学网] 辞去西湖大学教职，他想去中学教书",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560414.shtm"
-        },
-        {
-            "title": "[科学网] 统计学跨界医学，复旦90后博导让痴呆早发现",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560398.shtm"
-        },
-        {
-            "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
-        },
-        {
-            "title": "[科学网] 六十余年“励精涂治”，他们是航天器“铸盾”者",
+            "title": "[科学网] 六十余年“励精涂治”，他们是航天器铸盾者",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560417.shtm"
         },
         {
@@ -21,16 +9,28 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560416.shtm"
         },
         {
-            "title": "[科学网] 艰难拓荒到科学深耕，她用医者生涯守护儿童精神健...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560415.shtm"
+            "title": "[科学网] 基金申请季，这里有2份攻略请查收！",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560143.shtm"
         },
         {
-            "title": "[科学网] 美国拟将载人绕月飞行任务火箭和飞船撤回装配大楼",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560413.shtm"
+            "title": "[科学网] 量子技术将深刻影响人类日常生活",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560438.shtm"
         },
         {
-            "title": "[科学网] 上清华这门课，请放下手机、关上电脑！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560412.shtm"
+            "title": "[科学网] AI算法自动解析脑干白质神经束",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560437.shtm"
+        },
+        {
+            "title": "[科学网] 植入式微晶水凝胶传感器研发成功",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560436.shtm"
+        },
+        {
+            "title": "[科学网] 高校应成为科学教育“长期合伙人”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560435.shtm"
+        },
+        {
+            "title": "[科学网] 国际舞台唱响“亚洲水塔”科学强音",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560431.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员建立血管内皮细胞胚胎发育谱系",
+            "url": "https://www.cas.cn/../../syky/202602/t20260224_5102765.shtml"
+        },
+        {
             "title": "[中科院] 科学家开发T细胞改造新方法",
             "url": "https://www.cas.cn/../../syky/202602/t20260212_5101742.shtml"
         },
         {
-            "title": "[中科院] 研究实现金属自旋超固态及其无氦-3极低温制冷突破",
-            "url": "https://www.cas.cn/../../syky/202602/t20260214_5102647.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示全脑内源NMDA受体的构象多样性与门控完全开放机制",
-            "url": "https://www.cas.cn/../../syky/202602/t20260212_5101725.shtml"
+            "title": "[中科院] 研究发现新型多功能黄素酶参与链霉菌信号分子生物合成",
+            "url": "https://www.cas.cn/../../syky/202602/t20260210_5100246.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-24 00:58:18"
+    "update_time": "2026-02-24 06:44:02"
 }
