@@ -13,6 +13,10 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560482.shtm"
         },
         {
+            "title": "[科学网] 血检能预估阿尔茨海默病发病时间",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560486.shtm"
+        },
+        {
             "title": "[科学网] 硼硅玻璃实现长期稳定数据存储",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560484.shtm"
         },
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 最明亮最遥远的微波激射现象发现",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560473.shtm"
-        },
-        {
-            "title": "[科学网] 电子植入系统可监测胰岛细胞发育过程",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560468.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示胞内运输复合体组装新机制",
+            "url": "https://www.cas.cn/../../syky/202602/t20260224_5102816.shtml"
+        },
+        {
+            "title": "[中科院] SpecCLIP模型助力银河系考古",
+            "url": "https://www.cas.cn/../../syky/202602/t20260225_5102824.shtml"
+        },
+        {
             "title": "[中科院] 研究开发赖氨酸乙酰乙酰化修饰鉴定与功能解析新技术",
             "url": "https://www.cas.cn/../../syky/202602/t20260224_5102761.shtml"
-        },
-        {
-            "title": "[中科院] 科研人员建立血管内皮细胞胚胎发育谱系",
-            "url": "https://www.cas.cn/../../syky/202602/t20260224_5102765.shtml"
-        },
-        {
-            "title": "[中科院] 科学家开发T细胞改造新方法",
-            "url": "https://www.cas.cn/../../syky/202602/t20260212_5101742.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-25 06:46:43"
+    "update_time": "2026-02-25 12:33:41"
 }
