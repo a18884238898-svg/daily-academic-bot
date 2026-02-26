@@ -1,18 +1,6 @@
 {
     "academic": [
         {
-            "title": "[科学网] 博后期间被迫换实验室，他意外发现衰老新机制",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560499.shtm"
-        },
-        {
-            "title": "[科学网] 四十啷当岁，追月“挑大梁”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560469.shtm"
-        },
-        {
-            "title": "[科学网] 国自然基金，这项优化让你的申请书更“吸睛”！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560482.shtm"
-        },
-        {
             "title": "[科学网] 他们凭啥成为开源鸿蒙唯一特殊捐赠人？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560506.shtm"
         },
@@ -21,16 +9,28 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560505.shtm"
         },
         {
-            "title": "[科学网] 我国科学家取得锂电池核心技术首创性突破",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560504.shtm"
+            "title": "[科学网] 国自然基金，这项优化让你的申请书更“吸睛”！",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560482.shtm"
         },
         {
-            "title": "[科学网] 王建安：让脑机接口技术从实验室走向病房",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560503.shtm"
+            "title": "[科学网] 微塑料让动物变笨，人类或是下一目标",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560528.shtm"
         },
         {
-            "title": "[科学网] 我国科研人员研发出炎症性肠病治疗新型口服纳米药...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560502.shtm"
+            "title": "[科学网] “遥控开关”让CAR-T细胞学会“劳逸结合”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560523.shtm"
+        },
+        {
+            "title": "[科学网] 2026年度湖北省自然科学基金拟立项项目公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560522.shtm"
+        },
+        {
+            "title": "[科学网] 空间碎片激增，治理怎么破局",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560521.shtm"
+        },
+        {
+            "title": "[科学网] 阿根廷发现比鸡还小的恐龙化石",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/2/560513.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研团队为银河系中心拍摄了一组“分子影集”",
+            "url": "https://www.cas.cn/../../syky/202602/t20260226_5102869.shtml"
+        },
+        {
             "title": "[中科院] 研究揭示胞内运输复合体组装新机制",
             "url": "https://www.cas.cn/../../syky/202602/t20260224_5102816.shtml"
         },
         {
             "title": "[中科院] SpecCLIP模型助力银河系考古",
             "url": "https://www.cas.cn/../../syky/202602/t20260225_5102824.shtml"
-        },
-        {
-            "title": "[中科院] 研究开发赖氨酸乙酰乙酰化修饰鉴定与功能解析新技术",
-            "url": "https://www.cas.cn/../../syky/202602/t20260224_5102761.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-02-26 00:57:07"
+    "update_time": "2026-02-26 06:43:18"
 }
