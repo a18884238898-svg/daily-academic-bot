@@ -1,16 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 中国科学院党组研究部署开展树立和践行正确政绩观学习教育工作",
-            "url": "https://www.cas.cn/yw/202603/t20260303_5103166.shtml"
-        },
-        {
-            "title": "[科学网] 一个“濒危”课题组引领中国锂电池崛起",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560737.shtm"
-        },
-        {
-            "title": "[科学网] 直播预告丨未来已来，AI将如何重塑我们的生活？",
+            "title": "[科学网] 直播预告丨未来已来，AI如何重塑我们的生活",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/560723.shtm"
+        },
+        {
+            "title": "[科学网] 他为重离子束流纪录烙上“中国印”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560788.shtm"
         },
         {
             "title": "[科学网] 直播预告丨未来五年，大学会变成什么样？",
@@ -21,16 +17,20 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/2/560482.shtm"
         },
         {
-            "title": "[科学网] 谢晓亮被授予香港中文大学荣誉理学博士学位",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560787.shtm"
+            "title": "[科学网] 2026年度中华环保联合会科学技术奖开始申报",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560794.shtm"
         },
         {
-            "title": "[科学网] 首届“首都人才奖”评选表彰工作启动",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560785.shtm"
+            "title": "[科学网] 新方法训练AI模型更具“人类智慧”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560793.shtm"
         },
         {
-            "title": "[科学网] 2025年度厦门科学技术奖受理项目（人）名单公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560784.shtm"
+            "title": "[科学网] 超薄二维材料中观测到两种罕见磁性状态",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560792.shtm"
+        },
+        {
+            "title": "[科学网] 微针贴片实现人体关键免疫细胞无创采样",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560791.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-04 00:57:28"
+    "update_time": "2026-03-04 06:31:36"
 }
