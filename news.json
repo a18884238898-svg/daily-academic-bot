@@ -1,24 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 全国政协十四届四次会议开幕会举行 习近平等党和国家领导人出席大会",
-            "url": "https://www.news.cn/politics/2026lh/zb/qh2578/index.html"
+            "title": "[科学网] 全国政协十四届四次会议在京开幕 习近平等党和国家领导人到会祝贺",
+            "url": "https://www.news.cn/politics/leaders/20260304/f7477a6ec9644dd89d06a84992c6bcb7/c.html"
         },
         {
-            "title": "[科学网] 全国政协十四届四次会议开幕会审议通过了政协第十四届全国委员会第四次会议议程",
-            "url": "https://www.news.cn/politics/20260304/407721cf59d74b73a4f3fb183bec2cca/c.html"
+            "title": "[科学网] 王沪宁向大会作工作报告（现场实录）",
+            "url": "https://www.news.cn/politics/leaders/20260304/25b2acb26d704fdabf3506339faa6bdb/c.html"
         },
         {
-            "title": "[科学网] 王沪宁代表政协第十四届全国委员会常务委员会作工作报告（现场实录）",
-            "url": "https://www.news.cn/politics/20260304/66e2525179cf4196ae459ff24fc001b7/c.html"
+            "title": "[科学网] 全国政协十四届四次会议议程",
+            "url": "https://www.news.cn/politics/20260304/a999fefb6e7b4dac93ef26bf374fef8e/c.html"
         },
         {
             "title": "[科学网] 全国政协十四届三次会议以来99.9%的提案已办复",
-            "url": "https://www.news.cn/politics/20260304/14485566057849e1bbf01da15472a6dc/c.html"
+            "url": "https://www.news.cn/politics/20260304/db8f57b0908940d98a9f534b383850e5/c.html"
         },
         {
-            "title": "[科学网] 正在直播丨未来已来，AI如何重塑我们的生活",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325272047487156432"
+            "title": "[科学网] 新华社社评：为实现“十五五”良好开局凝聚团结奋进力量",
+            "url": "https://www.news.cn/politics/20260304/16cb3d8ca1854696a0ab5fe11493c1c6/c.html"
+        },
+        {
+            "title": "[科学网] 中国“光计算芯片”降维打击英伟达GPU？",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560864.shtm"
         },
         {
             "title": "[科学网] 基金申请倒计时！这项优化让你的本子脱颖而出",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 直播预告丨未来五年，大学会变成什么样？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/560722.shtm"
-        },
-        {
-            "title": "[科学网] 安徽公示2026年度第一批拟入库科技评审专家",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560863.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-04 12:27:42"
+    "update_time": "2026-03-04 18:30:50"
 }
