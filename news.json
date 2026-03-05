@@ -17,7 +17,7 @@
             "url": "https://www.news.cn/politics/20260304/db8f57b0908940d98a9f534b383850e5/c.html"
         },
         {
-            "title": "[科学网] 新华社社评：为实现“十五五”良好开局凝聚团结奋进力量",
+            "title": "[科学网] 社评：为实现“十五五”良好开局凝聚团结奋进力量",
             "url": "https://www.news.cn/politics/20260304/16cb3d8ca1854696a0ab5fe11493c1c6/c.html"
         },
         {
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 太阳系迎来第三位星际访客！碰撞概率有多大？",
+            "url": "https://www.cas.cn/../../syky/202601/t20260123_5097030.shtml"
+        },
+        {
             "title": "[中科院] 非均相光催化连续流合成研究取得进展",
             "url": "https://www.cas.cn/../../syky/202603/t20260304_5103258.shtml"
         },
         {
             "title": "[中科院] 科学家利用AI破译月球背面化学密码",
             "url": "https://www.cas.cn/../../syky/202603/t20260302_5103078.shtml"
-        },
-        {
-            "title": "[中科院] 环形RNA翻译效率调控研究获进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260302_5103028.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-04 18:30:50"
+    "update_time": "2026-03-05 00:59:49"
 }
