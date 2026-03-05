@@ -1,32 +1,32 @@
 {
     "academic": [
         {
-            "title": "[科学网] 全国政协十四届四次会议在京开幕 习近平等党和国家领导人到会祝贺",
-            "url": "https://www.news.cn/politics/leaders/20260304/f7477a6ec9644dd89d06a84992c6bcb7/c.html"
+            "title": "[科学网] 十四届全国人大四次会议开幕会举行",
+            "url": "https://www.news.cn/politics/2026lh/zb/qh8106/index.html"
         },
         {
-            "title": "[科学网] 王沪宁向大会作工作报告（现场实录）",
-            "url": "https://www.news.cn/politics/leaders/20260304/25b2acb26d704fdabf3506339faa6bdb/c.html"
+            "title": "[科学网] 习近平等党和国家领导人出席大会",
+            "url": "https://www.news.cn/politics/20260305/1b553e8f25674673a0b3ff4c8570636f/c.html"
         },
         {
-            "title": "[科学网] 全国政协十四届四次会议议程",
-            "url": "https://www.news.cn/politics/20260304/a999fefb6e7b4dac93ef26bf374fef8e/c.html"
+            "title": "[科学网] 李强作的政府工作报告（摘登）",
+            "url": "https://www.news.cn/politics/20260305/2dec3fbdfc16487592038bd047bb2aaa/c.html"
         },
         {
-            "title": "[科学网] 全国政协十四届三次会议以来99.9%的提案已办复",
-            "url": "https://www.news.cn/politics/20260304/db8f57b0908940d98a9f534b383850e5/c.html"
+            "title": "[科学网] 2026年政府工作十大任务",
+            "url": "https://www.news.cn/politics/20260305/fb0189a2672143a5934b871d216c73bb/c.html"
         },
         {
-            "title": "[科学网] 社评：为实现“十五五”良好开局凝聚团结奋进力量",
-            "url": "https://www.news.cn/politics/20260304/16cb3d8ca1854696a0ab5fe11493c1c6/c.html"
+            "title": "[科学网] 经济增长预期目标是4.5%－5%",
+            "url": "https://www.news.cn/20260305/6aedcb571608414ab396d8b798e4cc33/c.html"
         },
         {
-            "title": "[科学网] 中国“光计算芯片”降维打击英伟达GPU？",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560864.shtm"
+            "title": "[科学网] 制定实施城乡居民增收计划",
+            "url": "https://www.news.cn/politics/20260305/e514c72080664cccb5e1b54378d552aa/c.html"
         },
         {
-            "title": "[科学网] 基金申请倒计时！这项优化让你的本子脱颖而出",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560809.shtm"
+            "title": "[科学网] 落实职工带薪错峰休假制度",
+            "url": "https://www.news.cn/politics/20260305/037a51bd9a164e1b916ed6b5da90505f/c.html"
         },
         {
             "title": "[科学网] 直播预告丨未来五年，大学会变成什么样？",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 志留纪硬骨鱼类研究填补“从鱼到人”早期演化空白",
+            "url": "https://www.cas.cn/../../syky/202603/t20260305_5103320.shtml"
+        },
+        {
             "title": "[中科院] 太阳系迎来第三位星际访客！碰撞概率有多大？",
             "url": "https://www.cas.cn/../../syky/202601/t20260123_5097030.shtml"
         },
         {
-            "title": "[中科院] 非均相光催化连续流合成研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260304_5103258.shtml"
-        },
-        {
-            "title": "[中科院] 科学家利用AI破译月球背面化学密码",
-            "url": "https://www.cas.cn/../../syky/202603/t20260302_5103078.shtml"
+            "title": "[中科院] 研究开发出面向拉曼组大数据的集成分析框架RamEx",
+            "url": "https://www.cas.cn/../../syky/202602/t20260226_5102870.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-05 00:59:49"
+    "update_time": "2026-03-05 06:35:21"
 }
