@@ -21,16 +21,16 @@
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325272047487156432"
         },
         {
+            "title": "[科学网] 15位科教界代表委员热议政府工作报告",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560930.shtm"
+        },
+        {
+            "title": "[科学网] 我国科学家研制出新型热电聚合物薄膜",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560929.shtm"
+        },
+        {
             "title": "[科学网] 张俊杰代表建言优化医学科技评价体系",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/560928.shtm"
-        },
-        {
-            "title": "[科学网] 浙大科学家20余年解锁大脑决策黑箱",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560927.shtm"
-        },
-        {
-            "title": "[科学网] 我国科学家首次实现左心耳“液体封堵”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/560914.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员提出新型神经网络框架",
+            "url": "https://www.cas.cn/../../syky/202603/t20260305_5103338.shtml"
+        },
+        {
             "title": "[中科院] 志留纪硬骨鱼类研究填补“从鱼到人”早期演化空白",
             "url": "https://www.cas.cn/../../syky/202603/t20260305_5103320.shtml"
         },
         {
             "title": "[中科院] 太阳系迎来第三位星际访客！碰撞概率有多大？",
             "url": "https://www.cas.cn/../../syky/202601/t20260123_5097030.shtml"
-        },
-        {
-            "title": "[中科院] 主族金属有机化学研究获进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260303_5103139.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-05 19:04:26"
+    "update_time": "2026-03-06 01:04:15"
 }
