@@ -1,28 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 十四届全国人大四次会议在京闭幕 习近平等在主席台就座",
-            "url": "https://www.news.cn/politics/leaders/20260312/b5413ef84569440d8a546b13326d1f4f/c.html"
+            "title": "[科学网] 习近平总书记同人大代表、政协委员共商国是纪实",
+            "url": "https://www.news.cn/politics/20260312/a44922a8b24f48f593b499503cc528e7/c.html"
         },
         {
-            "title": "[科学网] 赵乐际发表讲话（现场实录）",
-            "url": "https://www.news.cn/politics/20260312/d7ad95f045e64131868c22e6d6b43deb/c.html"
-        },
-        {
-            "title": "[科学网] 会议表决通过了关于政府工作报告的决议",
-            "url": "https://www.news.cn/politics/20260312/16347e3f3ead46af91ca68e24c93da77/c.html"
-        },
-        {
-            "title": "[科学网] 关于“十五五”规划纲要的决议",
-            "url": "https://www.news.cn/politics/20260312/9a9a5ebd837c4bbcbb42aad70d240dd1/c.html"
-        },
-        {
-            "title": "[科学网] 批准2026年国民经济和社会发展计划",
-            "url": "https://www.news.cn/politics/20260312/6a16559ca0bd4c0fb58c345a0997e623/c.html"
-        },
-        {
-            "title": "[科学网] 破解百年谜题！这个高光时刻他们等了20年",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561286.shtm"
+            "title": "[科学网] 这位院士委员多年不懈，为数学“考古”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561315.shtm"
         },
         {
             "title": "[科学网] 直播回放|柯罗马博士主讲：大多数人把小龙虾用错...",
@@ -31,6 +15,22 @@
         {
             "title": "[科学网] 基金申请最后一周！短时间还能做哪些提升？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561186.shtm"
+        },
+        {
+            "title": "[科学网] 2025年度宁夏科学技术奖励提名情况公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561322.shtm"
+        },
+        {
+            "title": "[科学网] 年仅47岁，遥感科学专家、北师大教授张锦水逝世",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561320.shtm"
+        },
+        {
+            "title": "[科学网] 新型稀土铝合金材料装备载人航天器",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561319.shtm"
+        },
+        {
+            "title": "[科学网] 是“能手”也会“夹手”，揭秘“龙虾”AI智能体",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561318.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -57,12 +57,12 @@
             "url": "https://www.cas.cn/../../syky/202603/t20260312_5104000.shtml"
         },
         {
-            "title": "[中科院] 科研人员实现常温常压下热催化合成氨",
-            "url": "https://www.cas.cn/../../syky/202603/t20260311_5103864.shtml"
+            "title": "[中科院] 科研人员提出反铁磁调控的“非对称自旋力矩”普适机制",
+            "url": "https://www.cas.cn/../../syky/202603/t20260313_5104172.shtml"
         },
         {
-            "title": "[中科院] 小麦远缘杂交及染色体工程育种研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260309_5103609.shtml"
+            "title": "[中科院] 研究提出界面自轨道耦合诱导氧化物室温铁磁绝缘体新机制",
+            "url": "https://www.cas.cn/../../syky/202603/t20260309_5103604.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-13 00:58:13"
+    "update_time": "2026-03-13 06:35:50"
 }
