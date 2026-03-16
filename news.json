@@ -1,16 +1,24 @@
 {
     "academic": [
         {
+            "title": "[科学网] 高校副教授：用AI替代学生做研究，我感到不安",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561483.shtm"
+        },
+        {
             "title": "[科学网] 这个团队的签退表，几乎拼出了科研十二时辰",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561421.shtm"
         },
         {
-            "title": "[科学网] 高校如何应对“龙虾”热潮",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561422.shtm"
-        },
-        {
             "title": "[科学网] 基金申请最后一周！短时间还能做哪些提升？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561186.shtm"
+        },
+        {
+            "title": "[科学网] 2026年度吉林省科学技术奖提名工作启动",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561485.shtm"
+        },
+        {
+            "title": "[科学网] 中国神经外科主要创始人之一刘承基逝世",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561484.shtm"
         },
         {
             "title": "[科学网] 上海开展区域创新发展联合基金项目指南征集工作",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 基金委召开2026年全国两会精神传达学习会议",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561458.shtm"
-        },
-        {
-            "title": "[科学网] 中国90项发明斩获日内瓦国际发明展金奖",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561457.shtm"
-        },
-        {
-            "title": "[科学网] 细胞也能“用光造物”？太阳能驱动生物制造获新突...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561456.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-16 12:39:59"
+    "update_time": "2026-03-16 18:43:40"
 }
