@@ -13,6 +13,10 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561186.shtm"
         },
         {
+            "title": "[科学网] 13年没发顶刊的团队攻克世界难题",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561526.shtm"
+        },
+        {
             "title": "[科学网] 南极冰盖形成之际，海洋生物经历“洗牌”？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561525.shtm"
         },
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 2025年山西省优秀研究生学位论文评选结果公示",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561522.shtm"
-        },
-        {
-            "title": "[科学网] 北体大：博士招生严禁以师承出身长相门派等画圈划...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561520.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 连续波太瓦阿秒X射线自由电子激光研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104408.shtml"
+        },
+        {
             "title": "[中科院] 科学家开发新型CRISPR生物封控技术",
             "url": "https://www.cas.cn/../../syky/202603/t20260317_5104410.shtml"
         },
         {
             "title": "[中科院] 科学家解码大豆免疫的“静默态”",
             "url": "https://www.cas.cn/../../syky/202603/t20260311_5103860.shtml"
-        },
-        {
-            "title": "[中科院] 喀斯特浅水湖泊甲烷排放机制研究获进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104396.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-17 18:43:13"
+    "update_time": "2026-03-18 01:03:45"
 }
