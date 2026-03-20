@@ -13,6 +13,14 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561536.shtm"
         },
         {
+            "title": "[科学网] 中国科学家领衔揭示耕作方式如何影响土壤",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561653.shtm"
+        },
+        {
+            "title": "[科学网] 我国科学家破解野生水稻“多年生”关键基因",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561652.shtm"
+        },
+        {
             "title": "[科学网] 2026年度化学生物学学科发展战略研讨会在京召开",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561651.shtm"
         },
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 新技术为造血干细胞移植患者守住光明",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561627.shtm"
-        },
-        {
-            "title": "[科学网] 首款侵入式脑机接口医疗器械获批上市",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561620.shtm"
-        },
-        {
-            "title": "[科学网] 上海征集先锋者计划（生成式新生命创制主题）项目",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561618.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 科学家破解线粒体移植难题",
-            "url": "https://www.cas.cn/../../syky/202603/t20260319_5104613.shtml"
+            "title": "[中科院] 科学家发现野生稻多年生生活习性关键基因",
+            "url": "https://www.cas.cn/../../syky/202603/t20260320_5104712.shtml"
         },
         {
             "title": "[中科院] 研究发现质子穿梭辅助三线态传能新机制",
             "url": "https://www.cas.cn/../../syky/202603/t20260318_5104515.shtml"
         },
         {
-            "title": "[中科院] 科研人员提出核电站运行参数预测新方法",
-            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104433.shtml"
+            "title": "[中科院] 科学家破解线粒体移植难题",
+            "url": "https://www.cas.cn/../../syky/202603/t20260319_5104613.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-19 18:38:25"
+    "update_time": "2026-03-20 00:59:31"
 }
