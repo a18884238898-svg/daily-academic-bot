@@ -13,6 +13,14 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561536.shtm"
         },
         {
+            "title": "[科学网] 大学生不抬头，不是因为“懒”，而是因为“忙”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561841.shtm"
+        },
+        {
+            "title": "[科学网] 袁道先院士：永远保持一颗好奇心",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561840.shtm"
+        },
+        {
             "title": "[科学网] 科技评估国家标准制修订计划项目征集通知发布",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561839.shtm"
         },
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 我国团队首次实现硅基逻辑量子计算机原型验证",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561837.shtm"
-        },
-        {
-            "title": "[科学网] 当AI成一作，这场社会实验背后如何理解人机协作？",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561836.shtm"
-        },
-        {
-            "title": "[科学网] 受弹尾虫启发  我国科学家研发出无氟超疏水织物",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561835.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员发展单细胞质谱成像解析细胞凋亡脂质异质性新方法",
+            "url": "https://www.cas.cn/../../syky/202603/t20260320_5104724.shtml"
+        },
+        {
             "title": "[中科院] 研究揭示疼痛昼夜差异的神经机制",
             "url": "https://www.cas.cn/../../syky/202603/t20260323_5104881.shtml"
         },
         {
-            "title": "[中科院] 科学家构建细胞合成基因新线路",
-            "url": "https://www.cas.cn/../../syky/202603/t20260320_5104720.shtml"
-        },
-        {
-            "title": "[中科院] 光纤“听诊”，破解土壤“脉动”密码",
-            "url": "https://www.cas.cn/../../syky/202603/t20260323_5104852.shtml"
+            "title": "[中科院] 星地融合网络多智能体协同技术研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104409.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-23 18:36:17"
+    "update_time": "2026-03-24 00:56:22"
 }
