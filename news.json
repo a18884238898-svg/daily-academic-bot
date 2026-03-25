@@ -1,16 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 15岁上名校，她领先很多却仍深陷时间焦虑",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561920.shtm"
+            "title": "[科学网] 将前沿技术“搬”进课堂，探索“超常规”教育",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561923.shtm"
         },
         {
-            "title": "[科学网] 郭守敬望远镜发布光谱数突破三千万条",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561883.shtm"
+            "title": "[科学网] 喷涂式织物涂层让洗衣节能80%",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561930.shtm"
         },
         {
-            "title": "[科学网] 封面文章丨分子技术是研究鱼类卵型调节基因的钥匙",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561536.shtm"
+            "title": "[科学网] 论文投稿新问题！审稿人说插图AI感太重……",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561935.shtm"
+        },
+        {
+            "title": "[科学网] 北京大学原副校长任羽中被提起公诉",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561937.shtm"
+        },
+        {
+            "title": "[科学网] 我国科学家揭示蜜蜂跳“摇摆舞”需要“观众”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561936.shtm"
+        },
+        {
+            "title": "[科学网] OpenAI退出视频生成领域，Sora宣告关闭",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561934.shtm"
         },
         {
             "title": "[科学网] 湖南省自然科学基金青年科学基金项目立项名单公布",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 我国科学家领衔詹姆斯·韦布空间望远镜观测提案获...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561918.shtm"
-        },
-        {
-            "title": "[科学网] 研究人员制造出可实时扭曲和控制光的芯片",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561906.shtm"
-        },
-        {
-            "title": "[科学网] 基金委发布欧洲青年科研人员来华交流项目指南",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561884.shtm"
-        },
-        {
-            "title": "[科学网] 私人月球着陆器数据挑战关于月球的固有认知",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/561882.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 星地融合网络多智能体协同技术研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104409.shtml"
+            "title": "[中科院] 科学家实现mRNA体内精准靶向递送",
+            "url": "https://www.cas.cn/../../syky/202603/t20260320_5104723.shtml"
         },
         {
-            "title": "[中科院] 钠离子电池体积能量密度研究获进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260320_5104784.shtml"
+            "title": "[中科院] 新型介观显微镜解决经颅等活体成像屏障",
+            "url": "https://www.cas.cn/../../syky/202603/t20260323_5104854.shtml"
         },
         {
-            "title": "[中科院] 科研人员发展单细胞质谱成像解析细胞凋亡脂质异质性新方法",
-            "url": "https://www.cas.cn/../../syky/202603/t20260320_5104724.shtml"
+            "title": "[中科院] 研究揭示本征介孔沸石酸位点调控机制",
+            "url": "https://www.cas.cn/../../syky/202603/t20260319_5104610.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-25 01:02:07"
+    "update_time": "2026-03-25 06:46:52"
 }
