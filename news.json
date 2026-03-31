@@ -13,6 +13,14 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/561935.shtm"
         },
         {
+            "title": "[科学网] AI时代：专业何用，教师何往，高校何存",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/562309.shtm"
+        },
+        {
+            "title": "[科学网] 全球首个未来太空医院取得新进展",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/3/562307.shtm"
+        },
+        {
             "title": "[科学网] 科学家提出有机催化新策略合成手性亚磺酰胺",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/562293.shtm"
         },
@@ -21,16 +29,8 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/562289.shtm"
         },
         {
-            "title": "[科学网] 国家自然科学基金“海外优青”项目指南发布",
+            "title": "[科学网] 国家自然科学基金优秀青年科学基金项目（海外）指...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/3/562281.shtm"
-        },
-        {
-            "title": "[科学网] 黑龙江开始申报2026年度省自然科学基金项目",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/562280.shtm"
-        },
-        {
-            "title": "[科学网] 基因组移植让“僵尸细胞”死而复生",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/3/562273.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示Cu-miRNA介导氧化还原代谢稳态调控香蕉耐冷性差异分子机制",
+            "url": "https://www.cas.cn/../../syky/202603/t20260323_5104855.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示视听觉信息对精神分裂症患者及其风险群体共情表现的影响机制",
+            "url": "https://www.cas.cn/../../syky/202603/t20260330_5105364.shtml"
+        },
+        {
             "title": "[中科院] 原子尺度磁表征技术研究获进展",
             "url": "https://www.cas.cn/../../syky/202603/t20260330_5105366.shtml"
-        },
-        {
-            "title": "[中科院] 暗能量动力学属性与哈勃常数危机检验研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260319_5104664.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示鱼类速生和高饲料转化率性状耦合机制",
-            "url": "https://www.cas.cn/../../syky/202603/t20260324_5104992.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-03-30 18:42:29"
+    "update_time": "2026-03-31 01:07:59"
 }
