@@ -1,16 +1,28 @@
 {
     "academic": [
         {
+            "title": "[科学网] 80%投稿在送审前被拒！Nature首席编辑亲述",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562656.shtm"
+        },
+        {
             "title": "[科学网] 余国琮：为“两弹一星”工程解决燃眉之急",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562639.shtm"
         },
         {
-            "title": "[科学网] 王正加：林业共富路上的点灯人",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562622.shtm"
-        },
-        {
             "title": "[科学网] 封面文章|柴达木盆地钾盐成矿特征与找矿方向",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562394.shtm"
+        },
+        {
+            "title": "[科学网] 科学家发现首个河外超紧致X射线双星",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562647.shtm"
+        },
+        {
+            "title": "[科学网] 中国工程院院士刘玉清逝世，享年103岁",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562641.shtm"
+        },
+        {
+            "title": "[科学网] 著名有机化学家、北京大学教授王剑波逝世，享年63...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562640.shtm"
         },
         {
             "title": "[科学网] 钮新强、谢先启院士工作站在江汉大学联合揭牌",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 我国科研团队发现一植物新变种",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562637.shtm"
-        },
-        {
-            "title": "[科学网] 具身智能机器人加速进化，为何场景落地挑战重重",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562636.shtm"
-        },
-        {
-            "title": "[科学网] 一周热闻回顾（2026年4月5日）",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562635.shtm"
-        },
-        {
-            "title": "[科学网] 《科学》（20260402出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562634.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-06 07:14:18"
+    "update_time": "2026-04-06 12:41:04"
 }
