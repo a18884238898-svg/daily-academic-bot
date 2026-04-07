@@ -1,16 +1,28 @@
 {
     "academic": [
         {
+            "title": "[科学网] 习近平给四所交通大学全体师生回信",
+            "url": "https://www.news.cn/politics/leaders/20260407/f9ba6b7e53264efe88797df851af1e93/c.html"
+        },
+        {
+            "title": "[科学网] 习近平：传承弘扬西迁精神聚焦国家重大战略需求 为建设教育强国科技强国人才强国作出新贡献",
+            "url": "https://www.news.cn/politics/leaders/20260407/f9ba6b7e53264efe88797df851af1e93/c.html"
+        },
+        {
             "title": "[科学网] 技术教育与人文教育融合应基于真实工程问题",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562662.shtm"
         },
         {
-            "title": "[科学网] 我国钠离子电池取得重大突破，彻底阻断热失控",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562657.shtm"
-        },
-        {
             "title": "[科学网] 封面文章|柴达木盆地钾盐成矿特征与找矿方向",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562394.shtm"
+        },
+        {
+            "title": "[科学网] 天津征集国家自然科学基金区域联合基金项目指南建...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562698.shtm"
+        },
+        {
+            "title": "[科学网] SQL-Checker：为数据世界的通用语言纠错",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562697.shtm"
         },
         {
             "title": "[科学网] 山东多所高校领导班子调整",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] AI重塑科研，科学家是否要交出舵盘",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562673.shtm"
-        },
-        {
-            "title": "[科学网] 河北印发国际/港澳台科技合作专项项目申报指南",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562672.shtm"
-        },
-        {
-            "title": "[科学网] 2026年度中国能源研究会能源创新奖开始申报",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562671.shtm"
-        },
-        {
-            "title": "[科学网] 2026年度京津冀协同创新专项项目申报指南发布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562669.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-07 07:00:56"
+    "update_time": "2026-04-07 12:50:04"
 }
