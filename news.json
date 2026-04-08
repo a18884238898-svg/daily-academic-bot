@@ -17,6 +17,10 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562394.shtm"
         },
         {
+            "title": "[科学网] 李秋立：破解“月球二分性”之谜",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562736.shtm"
+        },
+        {
             "title": "[科学网] 广东征集国家自然科学基金区域联合基金项目指南建...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562724.shtm"
         },
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 华东理工大学领导班子调整",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562704.shtm"
-        },
-        {
-            "title": "[科学网] 重庆发布生物医药重大专项申报指南意见征集通知",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562703.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 钠离子电池实用化研究获进展",
-            "url": "https://www.cas.cn/../../syky/202603/t20260331_5105528.shtml"
+            "title": "[中科院] 科研人员攻克钠离子电池热失控难题",
+            "url": "https://www.cas.cn/../../syky/202604/t20260408_5106078.shtml"
         },
         {
-            "title": "[中科院] 研究揭示肝脏清除递送系统的底层机制",
-            "url": "https://www.cas.cn/../../syky/202603/t20260326_5105160.shtml"
+            "title": "[中科院] 研究揭示电偶极矩驱动TNFR1通路的动态结构基础",
+            "url": "https://www.cas.cn/../../syky/202604/t20260402_5105737.shtml"
         },
         {
-            "title": "[中科院] 研究提出硒代谢异常诱导中性粒细胞衰老与免疫重塑新机制",
-            "url": "https://www.cas.cn/../../syky/202604/t20260403_5105863.shtml"
+            "title": "[中科院] 研究提出结核肉芽肿胆固醇累积损伤免疫互作新机制",
+            "url": "https://www.cas.cn/../../syky/202604/t20260407_5105992.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-07 18:42:48"
+    "update_time": "2026-04-08 01:10:01"
 }
