@@ -1,16 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 强流重离子加速器装置核质量测量精度获突破",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562803.shtm"
+            "title": "[科学网] 这群科学家，让黄土不“土”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562864.shtm"
         },
         {
-            "title": "[科学网] 我国科学家发现全新常压镍基氧化物超导材料",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562804.shtm"
+            "title": "[科学网] 大样地“测量”改写全球生态学认知",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562863.shtm"
         },
         {
             "title": "[科学网] 封面文章丨Mycology：重塑嗜热真菌细胞工厂",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562746.shtm"
+        },
+        {
+            "title": "[科学网] 超大质量黑洞对紧密伴生的直接证据找到",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562862.shtm"
         },
         {
             "title": "[科学网] 2025年度青海省科学技术奖励委员会会议审议结果公...",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 科技部征集“中国—新西兰科学家交流计划”赴新人...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/562858.shtm"
-        },
-        {
-            "title": "[科学网] 瞄准高校科技成果转化痛点，北京市推出18条新举措",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/562857.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科学家揭示免疫驯化机制与广谱抗病育种技术",
+            "url": "https://www.cas.cn/../../syky/202604/t20260408_5106214.shtml"
+        },
+        {
             "title": "[中科院] 研究首次实验展示实用量子优势",
             "url": "https://www.cas.cn/../../syky/202604/t20260403_5105861.shtml"
         },
         {
             "title": "[中科院] 科学家证实磁星射电活跃期演化规律可重现",
             "url": "https://www.cas.cn/../../syky/202604/t20260407_5105993.shtml"
-        },
-        {
-            "title": "[中科院] 研究发现亚热带常绿阔叶林优势树种防御策略的种间差异性",
-            "url": "https://www.cas.cn/../../syky/202604/t20260409_5106349.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-09 18:43:16"
+    "update_time": "2026-04-10 01:10:20"
 }
