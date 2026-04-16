@@ -1,12 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 钱七虎：家国天下事，社稷一戎衣",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563101.shtm"
+            "title": "[科学网] 李昕欣：传感器研究从应用中来，到应用中去",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563136.shtm"
         },
         {
-            "title": "[科学网] 直播回放|从源头到餐桌，追击曲霉毒素",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325285162790551566"
+            "title": "[科学网] 科学家破解“体相溢流”之谜",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563133.shtm"
         },
         {
             "title": "[科学网] 从零开始学！手把手教你画水凝胶结构",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员观测到金属-载体界面的体相氧溢流",
+            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107099.shtml"
+        },
+        {
+            "title": "[中科院] “悟空”号揭示正负电子福布斯下降行为新特征",
+            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104407.shtml"
+        },
+        {
             "title": "[中科院] 含初始应力受压球壳的热力耦合变形研究获进展",
             "url": "https://www.cas.cn/../../syky/202604/t20260415_5106997.shtml"
-        },
-        {
-            "title": "[中科院] 研究发现月球内核感应磁场引起的临边压缩结构",
-            "url": "https://www.cas.cn/../../syky/202604/t20260415_5106998.shtml"
-        },
-        {
-            "title": "[中科院] 多星协作系统能量效率优化技术研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260407_5105988.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-15 18:56:13"
+    "update_time": "2026-04-16 01:17:19"
 }
