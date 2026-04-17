@@ -1,12 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 李昕欣：传感器研究从应用中来，到应用中去",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563136.shtm"
+            "title": "[科学网] 手机充电爱发热？“超级铜箔”或破解这一问题",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563207.shtm"
+        },
+        {
+            "title": "[科学网] 大脑皮层演化“双极地图”终结百年争论",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563209.shtm"
         },
         {
             "title": "[科学网] 从零开始学！手把手教你画水凝胶结构",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563124.shtm"
+        },
+        {
+            "title": "[科学网] 江南大学国际交流终身成就奖得主查尔斯·休麦克逝...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563208.shtm"
         },
         {
             "title": "[科学网] 北京协和医院生物医学前沿技术研究院成立",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 安徽发布1个高新领域省科技计划项目验收通知",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563193.shtm"
-        },
-        {
-            "title": "[科学网] 我国科研团队开创关键金属绿色提取新技术",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563187.shtm"
-        },
-        {
-            "title": "[科学网] 同济大学通报一教师论文数据存疑：已成立调查组",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563186.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 科研人员观测到金属-载体界面的体相氧溢流",
-            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107099.shtml"
+            "title": "[中科院] 科学家在实验室成功模拟类似自然界的“球状闪电”",
+            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107169.shtml"
         },
         {
-            "title": "[中科院] 北京谱仪III实验首次观测到双π介子“阈值增强”效应",
-            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107129.shtml"
+            "title": "[中科院] 深海环境钛钝化膜压力响应机制研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107124.shtml"
         },
         {
-            "title": "[中科院] “悟空”号揭示正负电子福布斯下降行为新特征",
-            "url": "https://www.cas.cn/../../syky/202603/t20260317_5104407.shtml"
+            "title": "[中科院] 笼目材料中自旋轨道耦合驱动的拓扑相变研究获进展",
+            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107117.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-16 18:54:24"
+    "update_time": "2026-04-17 01:15:11"
 }
