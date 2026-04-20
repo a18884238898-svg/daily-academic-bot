@@ -1,16 +1,24 @@
 {
     "academic": [
         {
-            "title": "[科学网] 王淦昌：将来若读书读得太少，必定要吃亏",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563297.shtm"
+            "title": "[科学网] 填平思维鸿沟，他们为科学家创业“架桥”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563334.shtm"
         },
         {
-            "title": "[科学网] AI来了，大学课堂应该怎么变",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563296.shtm"
+            "title": "[科学网] 2026突破奖揭晓！3位华人女性数学家获奖",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563326.shtm"
         },
         {
             "title": "[科学网] 从零开始学！手把手教你画水凝胶结构",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563124.shtm"
+        },
+        {
+            "title": "[科学网] 科学家首次绘制出类地行星气候图",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563333.shtm"
+        },
+        {
+            "title": "[科学网] AI新模型拉响网络安全攻防警报",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563332.shtm"
         },
         {
             "title": "[科学网] 童庆禧：“每一步都得走，每一步都要走好”",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] AI顶尖学者苏昊回国，领衔建设复旦新学院｜一周动...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563328.shtm"
-        },
-        {
-            "title": "[科学网] 一周热闻回顾（2026年4月19日）",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563327.shtm"
-        },
-        {
-            "title": "[科学网] 2026突破奖揭晓！王虹等3位华人女性数学家同时获...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563326.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 打破“不可能三角” 科研人员打造超级铜箔",
-            "url": "https://www.cas.cn/../../syky/202604/t20260413_5106724.shtml"
+            "title": "[中科院] 研究发现大脑皮层双梯度组织规律",
+            "url": "https://www.cas.cn/../../syky/202604/t20260417_5107236.shtml"
         },
         {
-            "title": "[中科院] 科学家在实验室成功模拟类似自然界的“球状闪电”",
-            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107169.shtml"
+            "title": "[中科院] 科学家制备出用于热管理可打印的碳纳米管超级塑料",
+            "url": "https://www.cas.cn/../../syky/202604/t20260417_5107232.shtml"
         },
         {
-            "title": "[中科院] 深海环境钛钝化膜压力响应机制研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260416_5107124.shtml"
+            "title": "[中科院] 研究揭示调控缺血性脑卒中后神经炎症新机制",
+            "url": "https://www.cas.cn/../../syky/202604/t20260417_5107228.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-19 18:29:41"
+    "update_time": "2026-04-20 01:17:04"
 }
