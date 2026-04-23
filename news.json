@@ -1,22 +1,6 @@
 {
     "academic": [
         {
-            "title": "[科学网] 30岁“青椒”，做了许多与考核“无关”的事",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563520.shtm"
-        },
-        {
-            "title": "[科学网] 把不可能变可能，5位科学家讲述科技创新故事",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563462.shtm"
-        },
-        {
-            "title": "[科学网] 科研绘图教程｜这样画核小体更高效！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563488.shtm"
-        },
-        {
-            "title": "[科学网] AI能读“世间一切书籍”了，人类还要读书吗",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563530.shtm"
-        },
-        {
             "title": "[科学网] 李丽娟：绽放在高原盐湖的铿锵玫瑰",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563529.shtm"
         },
@@ -25,12 +9,28 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563528.shtm"
         },
         {
-            "title": "[科学网] 新研究挑战脉冲星风云加速粒子理论极限",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563527.shtm"
+            "title": "[科学网] 直播预告丨Engineering大讲堂：智能电网与能源互...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563567.shtm"
         },
         {
-            "title": "[科学网] 人工神经元成功与活脑细胞“对话”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563526.shtm"
+            "title": "[科学网] 科研绘图教程｜这样画核小体更高效！",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563488.shtm"
+        },
+        {
+            "title": "[科学网] 2025年度湖北省技术创新中心绩效评价结果公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563589.shtm"
+        },
+        {
+            "title": "[科学网] 西南大学科研团队揭示脊椎动物基因组演化关键机制",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563588.shtm"
+        },
+        {
+            "title": "[科学网] 太阳上的“火焰喷泉”是如何形成的",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563587.shtm"
+        },
+        {
+            "title": "[科学网] 神经数据：数字时代的新“富矿”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563585.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 磁斯格明子精准调控研究获进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260421_5107466.shtml"
+            "title": "[中科院] 科学家提出光子材料制造新范式",
+            "url": "https://www.cas.cn/../../syky/202604/t20260423_5107703.shtml"
         },
         {
-            "title": "[中科院] 研究发现能量氧离子对磁层顶磁重联扩散区及重联率的影响",
-            "url": "https://www.cas.cn/../../syky/202604/t20260421_5107465.shtml"
+            "title": "[中科院] 研究评估中国滨海湿地生态修复投资经济效益合理性",
+            "url": "https://www.cas.cn/../../syky/202604/t20260420_5107354.shtml"
         },
         {
-            "title": "[中科院] 钛合金与镍基高温合金异种合金激光焊接研究获进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260417_5107229.shtml"
+            "title": "[中科院] 非易失存算一体芯片研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202604/t20260414_5106899.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-23 01:18:20"
+    "update_time": "2026-04-23 07:18:37"
 }
