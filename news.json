@@ -1,12 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 最新研究发现：30岁以上未婚者，患癌风险更高",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563619.shtm"
+            "title": "[科学网] 戚发轫：仰望星空 脚踏实地",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563634.shtm"
         },
         {
-            "title": "[科学网] 我国科学家造了个数字虚拟宇宙",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563564.shtm"
+            "title": "[科学网] 周翀：核反应堆“玩”家的取舍",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563632.shtm"
         },
         {
             "title": "[科学网] 直播预告丨Engineering大讲堂：智能电网与能源互...",
@@ -15,6 +15,10 @@
         {
             "title": "[科学网] 科研绘图教程｜这样画核小体更高效！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563488.shtm"
+        },
+        {
+            "title": "[科学网] 山东医药大学通报“展某某学位证无法认证”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563631.shtm"
         },
         {
             "title": "[科学网] 太原理工大学轻质材料及先进成形技术院士工作站公...",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 2026年省科协“科创江苏”专项计划项目开始申报",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563625.shtm"
-        },
-        {
-            "title": "[科学网] 第二批福建省青年科技人员育成项目拟立项项目公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563618.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员研制出双螺旋纤维增强的自感知人工肌肉",
+            "url": "https://www.cas.cn/../../syky/202604/t20260422_5107561.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示全球滨海养殖池时空变化",
+            "url": "https://www.cas.cn/../../syky/202604/t20260423_5107647.shtml"
+        },
+        {
             "title": "[中科院] 科学家提出光子材料制造新范式",
             "url": "https://www.cas.cn/../../syky/202604/t20260423_5107703.shtml"
-        },
-        {
-            "title": "[中科院] 非易失存算一体芯片研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260414_5106899.shtml"
-        },
-        {
-            "title": "[中科院] 三元逻辑晶体管研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260422_5107564.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-23 18:51:13"
+    "update_time": "2026-04-24 01:18:00"
 }
