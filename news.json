@@ -1,8 +1,16 @@
 {
     "academic": [
         {
-            "title": "[科学网] 直播回放丨智能电网与能源互联网",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325290601523839078"
+            "title": "[科学网] 奋楫问天路 逐梦探苍穹——写在第十一个“中国航天日”之际",
+            "url": "https://www.news.cn/tech/20260423/a5e8c0974b214dd69ebad6a5b9b15ade/c.html"
+        },
+        {
+            "title": "[科学网] 问“月”探“火”观“日” 航天日看逐梦苍穹",
+            "url": "https://www.news.cn/tech/20260424/17842128b023482a9377134547c52224/c.html"
+        },
+        {
+            "title": "[科学网] 神二十一航天员乘组视频庆祝“中国航天日”",
+            "url": "https://www.news.cn/20260424/e4cb25649de64c41b2f7785b10e5d130/c.html"
         },
         {
             "title": "[科学网] 北大博士算出65亿年后银河系将迎来撞击并合",
@@ -21,16 +29,8 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563488.shtm"
         },
         {
-            "title": "[科学网] 2026年度安徽省人工智能场景创新项目榜单公布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563672.shtm"
-        },
-        {
-            "title": "[科学网] 重庆市2026年第三批科研项目评审验收结果公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563671.shtm"
-        },
-        {
-            "title": "[科学网] 清华大学深圳国际研究生院牵头建首个“地质星座”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563670.shtm"
+            "title": "[科学网] 华为昇腾超节点支持DeepSeek V4模型",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563673.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-24 18:33:42"
+    "update_time": "2026-04-25 01:11:15"
 }
