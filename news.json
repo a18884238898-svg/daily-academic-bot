@@ -1,20 +1,28 @@
 {
     "academic": [
         {
+            "title": "[科学网] 谁发明的太奶论文法？一夜之间论文全读懂了",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563878.shtm"
+        },
+        {
             "title": "[科学网] 直播回放丨中国科学院磐石100模型体系发布",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325292410271039539"
         },
         {
-            "title": "[科学网] 为雪域“听诊”，筑牢青藏高原生态安全屏障",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563837.shtm"
-        },
-        {
-            "title": "[科学网] 直播预告丨Cell Press Live：关键矿物与循环战略",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563773.shtm"
-        },
-        {
             "title": "[科学网] 科研绘图教程｜这样画核小体更高效！",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563488.shtm"
+        },
+        {
+            "title": "[科学网] 中国首个脑机接口本科专业在天津大学设立",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563875.shtm"
+        },
+        {
+            "title": "[科学网] 高通孟樸：6G起跑 全球标准与生态协同成焦点",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563874.shtm"
+        },
+        {
+            "title": "[科学网] 我国首本行星科学综合类英文学术期刊Planet正式创...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563864.shtm"
         },
         {
             "title": "[科学网] 2026年度江苏省科技智库计划项目开始申报",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 羊毛可“变身”为骨再生材料",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563859.shtm"
-        },
-        {
-            "title": "[科学网] 新方法能大幅提升高功率激光光强",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563858.shtm"
-        },
-        {
-            "title": "[科学网] 本科专业上新！新增具身智能、脑机科学与技术等专...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/563857.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员构建物理知识引导的深度学习太阳活动区磁分类模型",
+            "url": "https://www.cas.cn/../../syky/202604/t20260427_5108177.shtml"
+        },
+        {
             "title": "[中科院] 拉曼光谱跨域智能分析研究取得进展",
             "url": "https://www.cas.cn/../../syky/202604/t20260427_5108179.shtml"
         },
         {
-            "title": "[中科院] 科学家绘制大脑星形胶质细胞转录因子功能图谱",
-            "url": "https://www.cas.cn/../../syky/202604/t20260424_5108049.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示内源信使调控膜损伤与细胞死亡新机制",
-            "url": "https://www.cas.cn/../../syky/202604/t20260422_5107567.shtml"
+            "title": "[中科院] 研究揭示植物细胞稳态机制",
+            "url": "https://www.cas.cn/../../syky/202604/t20260424_5108041.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-28 07:59:49"
+    "update_time": "2026-04-28 13:21:21"
 }
