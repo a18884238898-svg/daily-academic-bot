@@ -1,16 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 习近平在加强基础研究座谈会上强调 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
-            "url": "https://www.news.cn/politics/leaders/20260430/792c3dfab1ce400daa3b20c5652b6161/c.html"
+            "title": "[科学网] 41岁高校科研人员涉嫌重罪被捕",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564055.shtm"
         },
         {
-            "title": "[科学网] “悟空”号揭示宇宙射线加速关键机制",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564035.shtm"
+            "title": "[科学网] 颜宁：揭开“生命暗物质”的神秘面纱",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564051.shtm"
         },
         {
             "title": "[科学网] 科研绘图教程｜常用的细菌结构可以这样画",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563942.shtm"
+        },
+        {
+            "title": "[科学网] 科技部国际合作司发布1个重点专项申报指南",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564053.shtm"
+        },
+        {
+            "title": "[科学网] 我国生物活性骨修复材料获系列突破",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564050.shtm"
+        },
+        {
+            "title": "[科学网] 我国科研团队实现基于猫态的量子增强暗物质搜寻",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564049.shtm"
         },
         {
             "title": "[科学网] 陕西省科协青年人才托举计划项目立项名单公布",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 中国科协继续开展高质量科技期刊分级目录发布工作",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/564045.shtm"
-        },
-        {
-            "title": "[科学网] 《普通高等学校本科专业目录（2026年）》发布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564040.shtm"
-        },
-        {
-            "title": "[科学网] 不写论文也能获学位：又一批高校首位工程博士亮相",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564039.shtm"
-        },
-        {
-            "title": "[科学网] 拟立项2026年度京津冀协同创新专项项目公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/4/564037.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-04-30 07:56:31"
+    "update_time": "2026-04-30 13:14:07"
 }
