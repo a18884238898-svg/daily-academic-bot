@@ -1,16 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 中科大“最火课程”，他的火灾实验引万人围观",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564157.shtm"
+            "title": "[科学网] 给“沙戈荒”能源装备“穿铠甲”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564175.shtm"
         },
         {
-            "title": "[科学网] 张青松：“一无所知”踏上南极大陆",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564154.shtm"
+            "title": "[科学网] 中国科大实现高速率实用化量子密钥分发",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564174.shtm"
         },
         {
             "title": "[科学网] 科研绘图教程｜常用的细菌结构可以这样画",
             "url": "https://news.sciencenet.cn/htmlnews/2026/4/563942.shtm"
+        },
+        {
+            "title": "[科学网] 美科学任务聚焦地球隐形“粒子甜甜圈”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564173.shtm"
         },
         {
             "title": "[科学网] 专访刘永才院士：“大国长剑”从无到有",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 玉林师范学院原党委副书记、 院长王卓华被开除党...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/564168.shtm"
-        },
-        {
-            "title": "[科学网] 美NASA负责人提出恢复冥王星行星地位",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564167.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示热融湖塘沉积物甲烷释放的微生物机制",
+            "url": "https://www.cas.cn/../../syky/202604/t20260429_5108373.shtml"
+        },
+        {
             "title": "[中科院] 科研人员解锁反刍动物甲烷排放调控机制",
             "url": "https://www.cas.cn/../../syky/202605/t20260503_5108640.shtml"
         },
         {
             "title": "[中科院] “悟空”号发现宇宙射线加速能量极限的电荷依赖规律",
             "url": "https://www.cas.cn/../../syky/202605/t20260503_5108639.shtml"
-        },
-        {
-            "title": "[中科院] 连续血糖监测无线汗液柔性传感技术获进展",
-            "url": "https://www.cas.cn/../../syky/202604/t20260428_5108292.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-05 19:00:47"
+    "update_time": "2026-05-06 01:22:42"
 }
