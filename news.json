@@ -1,12 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] “探索一号”抵达广州，取得多项重要科学发现",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564378.shtm"
-        },
-        {
-            "title": "[科学网] 天然矿物焕新微生物制氢代谢路径",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564377.shtm"
+            "title": "[科学网] 中国“天关”：正在崛起的国际空间科学新高地",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564428.shtm"
         },
         {
             "title": "[科学网] 直播回放｜谷超豪院士的数学人生与科技强国之路",
@@ -21,16 +17,20 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/564191.shtm"
         },
         {
-            "title": "[科学网] 传承发扬科学家精神 农史学科奠基人梁家勉雕像落...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564424.shtm"
+            "title": "[科学网] 五种金属构造出性能更优异的纳米晶体",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564430.shtm"
         },
         {
-            "title": "[科学网] 高比功率阴极闭合式风冷电堆技术通过科技成果鉴定",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564418.shtm"
+            "title": "[科学网] 病毒介导土壤微生物碳周转机制揭示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564429.shtm"
         },
         {
-            "title": "[科学网] 摆出196种方案后，他们“搭”出高性能锂硫电池",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564417.shtm"
+            "title": "[科学网] 70位科学家获颁深潜专项奖章",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564427.shtm"
+        },
+        {
+            "title": "[科学网] 这颗“氢能心脏”可破解工业级无人机“航程焦虑”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564425.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 研究提出小麦设计育种新策略",
-            "url": "https://www.cas.cn/../../syky/202605/t20260508_5108913.shtml"
+            "title": "[中科院] 科研人员提出“孤儿受体”结构解析新策略",
+            "url": "https://www.cas.cn/../../syky/202605/t20260508_5108909.shtml"
         },
         {
-            "title": "[中科院] 研究揭示泛素连接酶协调酵母代谢新机制",
-            "url": "https://www.cas.cn/../../syky/202604/t20260429_5108365.shtml"
+            "title": "[中科院] 研究解析气溶胶光学厚度日内变化特征",
+            "url": "https://www.cas.cn/../../syky/202605/t20260506_5108710.shtml"
         },
         {
-            "title": "[中科院] 科学家发现冠心病新型生物标志物",
-            "url": "https://www.cas.cn/../../syky/202605/t20260508_5108911.shtml"
+            "title": "[中科院] 原子阱技术为冰川定年提供新方法",
+            "url": "https://www.cas.cn/../../syky/202604/t20260422_5107562.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-10 18:41:46"
+    "update_time": "2026-05-11 01:48:52"
 }
