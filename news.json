@@ -1,20 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 攻关代糖，“甜”而不“胖”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564962.shtm"
+            "title": "[科学网] 一张“观天巨网”，他们联手“追捕”太阳风暴",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565042.shtm"
         },
         {
-            "title": "[科学网] 新型蜗牛多糖有望让抗血栓更安全",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564956.shtm"
+            "title": "[科学网] 秦耿：从海马研究到岛礁守护的科技报国路",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565043.shtm"
         },
         {
-            "title": "[科学网] 近日，中国科学院昆明植物研究所等研究团队发现了一种新型蜗牛多糖，其独特的作用机制或让抗血栓治疗多一个更安全的选择。",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/564956.shtm"
+            "title": "[科学网] 直播预告｜面向极端环境的钙钛矿光伏技术",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565046.shtm"
         },
         {
             "title": "[科学网] 科研绘图教程｜用Illustrator绘制细胞培养皿",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/564983.shtm"
+        },
+        {
+            "title": "[科学网] 动物实验表明：“仿生融合”植入式装置可降低血压",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565045.shtm"
+        },
+        {
+            "title": "[科学网] 研究破解传统光纤在中长波红外激光传输领域难题",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565044.shtm"
         },
         {
             "title": "[科学网] 福建福耀科技大学获批国际学生招收资质",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 张靖任山西大学党委副书记、副校长",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565040.shtm"
-        },
-        {
-            "title": "[科学网] 天问一号成功观测“星际来客”的尘埃活动",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565035.shtm"
-        },
-        {
-            "title": "[科学网] 我国首个AI应用伦理安全指引发布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565029.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 孤独症谱系障碍研究取得新进展",
+            "url": "https://www.cas.cn/../../syky/202605/t20260520_5110075.shtml"
+        },
+        {
             "title": "[中科院] 氨分解制绿氢催化剂研究获进展",
             "url": "https://www.cas.cn/../../syky/202605/t20260519_5109948.shtml"
         },
         {
             "title": "[中科院] 铍-9离子精密测量研究取得进展",
             "url": "https://www.cas.cn/../../syky/202605/t20260519_5109947.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示树种多样性抑制土壤激发效应",
-            "url": "https://www.cas.cn/../../syky/202605/t20260519_5109949.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-20 19:58:11"
+    "update_time": "2026-05-21 01:54:16"
 }
