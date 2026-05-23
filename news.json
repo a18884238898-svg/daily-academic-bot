@@ -1,16 +1,24 @@
 {
     "academic": [
         {
+            "title": "[科学网] 郭光灿：基础研究非做不可、必须做好",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565170.shtm"
+        },
+        {
             "title": "[科学网] 知识预制菜来了，大学课堂还要小锅现炒吗？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565165.shtm"
         },
         {
-            "title": "[科学网] 镍基高温超导机制重要实验证据获发现",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565119.shtm"
-        },
-        {
             "title": "[科学网] 科学网绘图频道上线，助力科研！下单立减500元",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565139.shtm"
+        },
+        {
+            "title": "[科学网] 薛其坤：坐热基础研究的“冷板凳”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565172.shtm"
+        },
+        {
+            "title": "[科学网] 科研团队揭示蓝光促进采后辣椒素积累分子机制",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565171.shtm"
         },
         {
             "title": "[科学网] 我国科学家破解量子数据读写难题",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 四川省发布博士后科研项目特别资助申报通知",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565164.shtm"
-        },
-        {
-            "title": "[科学网] 人类首次获取珠峰峰顶透底冰芯样本",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565163.shtm"
-        },
-        {
-            "title": "[科学网] 原子弹是科学突破，还是制度运作的产物？",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565144.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-22 19:18:57"
+    "update_time": "2026-05-23 01:47:10"
 }
