@@ -1,16 +1,28 @@
 {
     "academic": [
         {
+            "title": "[科学网] 体育跨界生物读博，她用4年找到抗癌新策略",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565332.shtm"
+        },
+        {
             "title": "[科学网] 坚持“难而正确的事”，他们将不可能变为可能",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565272.shtm"
         },
         {
-            "title": "[科学网] “非共识”前瞻布局，将肺部影像从黑白变彩色",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565271.shtm"
-        },
-        {
             "title": "[科学网] 科学网绘图频道上线，助力科研！下单立减500元",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565139.shtm"
+        },
+        {
+            "title": "[科学网] 985博士被间谍策反，细节曝光！",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565336.shtm"
+        },
+        {
+            "title": "[科学网] 2026年北京市重点实验室拟认定名单公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565335.shtm"
+        },
+        {
+            "title": "[科学网] 海南征集2027年省重点研发专项市县联合项目",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565329.shtm"
         },
         {
             "title": "[科学网] 我国突破超大规模AI药物筛选技术",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 王爱军任北京青年政治学院党委书记",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565306.shtm"
-        },
-        {
-            "title": "[科学网] 詹姆斯·韦布发现温度与地球惊人相似的罕见巨行星",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565305.shtm"
-        },
-        {
-            "title": "[科学网] 为研发新药，700多人脑“复活”24小时",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565303.shtm"
-        },
-        {
-            "title": "[科学网] 人类如何阻止生物AI工具“黑化”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565302.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-25 09:42:16"
+    "update_time": "2026-05-25 14:26:36"
 }
