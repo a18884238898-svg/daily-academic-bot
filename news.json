@@ -1,12 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] 我国领衔亚洲首个合成细胞十年技术路线图发布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565388.shtm"
-        },
-        {
-            "title": "[科学网] 前额叶完全成熟的人，才是科研的王！",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565417.shtm"
+            "title": "[科学网] 欧阳自远：从探矿到探月，从大地到苍穹",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565436.shtm"
         },
         {
             "title": "[科学网] “科学家精神大讲堂”直播预告",
@@ -15,6 +11,10 @@
         {
             "title": "[科学网] 科学网绘图频道上线，助力科研！下单立减500元",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565139.shtm"
+        },
+        {
+            "title": "[科学网] 科技部发布伦理指引，规范人体基因数据研究行为",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565438.shtm"
         },
         {
             "title": "[科学网] 中山大学公共卫生学院（深圳）已更名为生物安全学...",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 研究提出增强水稻广谱抗病性新机理",
-            "url": "https://www.cas.cn/../../syky/202605/t20260525_5110431.shtml"
+            "title": "[中科院] 研究发现汤加火山喷发引发青藏高原云特性分层响应",
+            "url": "https://www.cas.cn/../../syky/202605/t20260525_5110426.shtml"
         },
         {
-            "title": "[中科院] 圆偏振三维显示研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202605/t20260525_5110428.shtml"
+            "title": "[中科院] 研究提出不确定性感知的自适应海洋锋面识别方法",
+            "url": "https://www.cas.cn/../../syky/202605/t20260521_5110195.shtml"
         },
         {
-            "title": "[中科院] 多维度共价有机框架异质结仿生催化研究获进展",
-            "url": "https://www.cas.cn/../../syky/202605/t20260525_5110432.shtml"
+            "title": "[中科院] 基于瞬时简正模态的液体粘度研究获进展",
+            "url": "https://www.cas.cn/../../syky/202605/t20260526_5110889.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-26 19:49:58"
+    "update_time": "2026-05-27 01:59:37"
 }
