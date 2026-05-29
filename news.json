@@ -1,16 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] “科学家精神大讲堂”直播回放",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325302180499554563"
+            "title": "[科学网] 在盐碱地“接力种地”，如何走好“下一步”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565581.shtm"
         },
         {
-            "title": "[科学网] 强强联手！他们探索“AI＋高能物理”新可能",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565498.shtm"
+            "title": "[科学网] 精度跃升数百倍，芯片级陀螺仪来了",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565582.shtm"
+        },
+        {
+            "title": "[科学网] 直播预告丨能量的起源与核子结构",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565584.shtm"
         },
         {
             "title": "[科学网] 封面丨《针刺研究》：电针“足三里”扑灭“糖火”",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565455.shtm"
+        },
+        {
+            "title": "[科学网] 研究揭示父亲压力如何“改写”后代发育",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565583.shtm"
+        },
+        {
+            "title": "[科学网] 亟待定标准！勿让“测AI率”沦为“开盲盒”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565580.shtm"
         },
         {
             "title": "[科学网] 中国科学院国家授时中心西南时间中心落户重庆",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 清华团队首次观测到了这个现象",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565577.shtm"
-        },
-        {
-            "title": "[科学网] 科学家给“未知”画地图，探索抗生素研究“盲区”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565573.shtm"
-        },
-        {
-            "title": "[科学网] 哈工大公布全国首批4个新增专业",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565570.shtm"
-        },
-        {
-            "title": "[科学网] 一根甘蔗“甜”了世界：糖度涨一点产业增亿级",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565564.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究发现生态系统氮固持能力存在关键降水阈值",
+            "url": "https://www.cas.cn/../../syky/202605/t20260528_5111059.shtml"
+        },
+        {
+            "title": "[中科院] 科研人员建立跨物种的生殖干细胞移植技术",
+            "url": "https://www.cas.cn/../../syky/202604/t20260403_5105864.shtml"
+        },
+        {
             "title": "[中科院] 研究人员构建首个人源“生物起搏器”类器官",
             "url": "https://www.cas.cn/../../syky/202605/t20260527_5111039.shtml"
-        },
-        {
-            "title": "[中科院] 科研人员研发RNA转录本水平剪接调控预测模型",
-            "url": "https://www.cas.cn/../../syky/202605/t20260525_5110425.shtml"
-        },
-        {
-            "title": "[中科院] 卫星激光测距技术研究获进展",
-            "url": "https://www.cas.cn/../../syky/202605/t20260526_5110890.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-28 19:59:58"
+    "update_time": "2026-05-29 01:53:20"
 }
