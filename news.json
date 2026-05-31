@@ -1,16 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] 习近平总书记重要论述指引科技强国建设",
-            "url": "https://www.news.cn/politics/leaders/20260530/b0f862ad5de64120a352f27f5d484bb3/c.html"
-        },
-        {
-            "title": "[科学网] 加快建设科技强国 总书记这样勉励科技工作者",
-            "url": "https://www.news.cn/politics/leaders/20260530/c2049bae288648978e0765305baa6312/c.html"
-        },
-        {
-            "title": "[科学网] 在第十个全国科技工作者日到来之际，广大科技工作者牢记使命、勇担重任，以实干实绩书写创新答卷",
-            "url": "https://www.news.cn/politics/leaders/20260530/b0f862ad5de64120a352f27f5d484bb3/c.html"
+            "title": "[科学网] 中国科大提出甘油转化制糖新方法",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565724.shtm"
         },
         {
             "title": "[科学网] 神舟二十一号乘组实现多个首次突破",
@@ -25,12 +17,20 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565455.shtm"
         },
         {
-            "title": "[科学网] 海南省卫生健康科技创新联合项目立项清单公布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565711.shtm"
+            "title": "[科学网] 全球首个培育新生心肌细胞的人体临床试验启动",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565743.shtm"
         },
         {
-            "title": "[科学网] 一颗流星在美国马萨诸塞州上空爆炸引发巨响",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565710.shtm"
+            "title": "[科学网] 难治肺癌迎新选择，靶向药疗效优于传统化疗",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565741.shtm"
+        },
+        {
+            "title": "[科学网] 为什么做梦有意识、深睡没有？科学家找到关键脑信...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565739.shtm"
+        },
+        {
+            "title": "[科学网] 高温威胁心脏健康，美多地心脏病风险将大幅攀升",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565738.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-31 02:00:31"
+    "update_time": "2026-05-31 08:31:04"
 }
