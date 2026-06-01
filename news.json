@@ -1,20 +1,24 @@
 {
     "academic": [
         {
+            "title": "[科学网] 李耀华：接续奋斗谱写科技为民造福新篇章",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565762.shtm"
+        },
+        {
             "title": "[科学网] 中国科大提出甘油转化制糖新方法",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565724.shtm"
         },
         {
-            "title": "[科学网] 神舟二十一号乘组实现多个首次突破",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565709.shtm"
-        },
-        {
-            "title": "[科学网] 中国科学报社社会责任报告（2025年度）",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565341.shtm"
-        },
-        {
             "title": "[科学网] 封面丨《针刺研究》：电针“足三里”扑灭“糖火”",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565455.shtm"
+        },
+        {
+            "title": "[科学网] 我国科学家开发高效合成氨催化剂",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565764.shtm"
+        },
+        {
+            "title": "[科学网] 改进型“基因魔剪”更安全更可靠",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565763.shtm"
         },
         {
             "title": "[科学网] 2025年海南省临床医学研究中心考核结果公布",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 一周热闻回顾（2026年5月31日）",
             "url": "https://news.sciencenet.cn/htmlnews/2026/5/565758.shtm"
-        },
-        {
-            "title": "[科学网] 2026英国皇家学会会士名单公布｜一周动态",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/5/565756.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员研发出新型复合介孔状纳米酶探针",
+            "url": "https://www.cas.cn/../../syky/202605/t20260529_5111134.shtml"
+        },
+        {
             "title": "[中科院] 研究实现金属卤化物双色可调的圆偏振发光",
             "url": "https://www.cas.cn/../../syky/202605/t20260529_5111133.shtml"
         },
         {
             "title": "[中科院] 研究发现生态系统氮固持能力存在关键降水阈值",
             "url": "https://www.cas.cn/../../syky/202605/t20260528_5111059.shtml"
-        },
-        {
-            "title": "[中科院] 科研人员建立跨物种的生殖干细胞移植技术",
-            "url": "https://www.cas.cn/../../syky/202604/t20260403_5105864.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-05-31 18:57:53"
+    "update_time": "2026-06-01 02:09:10"
 }
