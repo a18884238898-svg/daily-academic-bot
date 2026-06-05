@@ -1,16 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 勇闯无人区！这支团队解锁全固态锂电新前景",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565925.shtm"
+            "title": "[科学网] 3年内落地，好吃有营养的高蛋白玉米要来了",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566004.shtm"
         },
         {
-            "title": "[科学网] 罗先刚院士：深栽科学之根 静待创新花开",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565927.shtm"
+            "title": "[科学网] 中国空间站有望揭开脂肪肝致病新机制",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565999.shtm"
         },
         {
             "title": "[科学网] 封面丨精氨酸界面调控策略提升SiOx负极循环稳定性",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/565896.shtm"
+        },
+        {
+            "title": "[科学网] 2026山东省青年科技人才托举工程拟入选人选公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565998.shtm"
+        },
+        {
+            "title": "[科学网] 自然科学基金委发布一学术会议项目指南",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565997.shtm"
+        },
+        {
+            "title": "[科学网] 李飞飞长文拆解世界模型实现路径",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565996.shtm"
         },
         {
             "title": "[科学网] 量子计算有望突破AI算力瓶颈",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 我国科学家证实苔藓动物门起源于寒武纪早期",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/565994.shtm"
-        },
-        {
-            "title": "[科学网] 湖南发布签订省自然科学基金项目任务书的通知",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565993.shtm"
-        },
-        {
-            "title": "[科学网] 河北公布基础研究计划自然科学基金专项项目评审结...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565992.shtm"
-        },
-        {
-            "title": "[科学网] 基金委化学科学部召开2个项目评审会议",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565991.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 科学家“找”回第二个野生玉米高蛋白基因",
-            "url": "https://www.cas.cn/../../syky/202606/t20260604_5111717.shtml"
+            "title": "[中科院] 科研人员构筑拥挤三维环丁烷骨架",
+            "url": "https://www.cas.cn/../../syky/202606/t20260603_5111645.shtml"
         },
         {
-            "title": "[中科院] 科学家破解作物花期“按需抗冷”的杀手锏机制",
-            "url": "https://www.cas.cn/../../syky/202606/t20260604_5111793.shtml"
+            "title": "[中科院] 镍基碱性安培级析氢电极研究获进展",
+            "url": "https://www.cas.cn/../../syky/202606/t20260604_5111739.shtml"
         },
         {
-            "title": "[中科院] 单分子测序与表观遗传检测研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260603_5111649.shtml"
+            "title": "[中科院] 科研人员提出太空台风智能识别与定位新方法",
+            "url": "https://www.cas.cn/../../syky/202606/t20260603_5111650.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-04 19:50:43"
+    "update_time": "2026-06-05 01:59:50"
 }
