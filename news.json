@@ -1,16 +1,20 @@
 {
     "academic": [
         {
+            "title": "[科学网] 黄万波：一锤叩开百万年，让巫山人震惊世界",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566056.shtm"
+        },
+        {
             "title": "[科学网] 徐星：脊椎动物的祖先竟有四只“眼睛”",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566055.shtm"
         },
         {
-            "title": "[科学网] 对谈学术转型者：离开高校后，他们怎么样了？",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566036.shtm"
-        },
-        {
             "title": "[科学网] 封面丨精氨酸界面调控策略提升SiOx负极循环稳定性",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/565896.shtm"
+        },
+        {
+            "title": "[科学网] 我国科学家揭开深海水虱五年“绝食”之谜",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566060.shtm"
         },
         {
             "title": "[科学网] 15 岁入中科大少年班，他认为适配自身最重要",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 国家自然科学基金发布1个联合基金项目指南",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566038.shtm"
-        },
-        {
-            "title": "[科学网] 北京市发布2026年度自然科学基金拟资助项目",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566035.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-06 01:51:24"
+    "update_time": "2026-06-06 08:19:33"
 }
