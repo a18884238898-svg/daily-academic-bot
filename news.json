@@ -1,22 +1,6 @@
 {
     "academic": [
         {
-            "title": "[科学网] 院士们回忆高考：也曾紧张得彻夜不眠",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566104.shtm"
-        },
-        {
-            "title": "[科学网] 《科学》（20260604出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566103.shtm"
-        },
-        {
-            "title": "[科学网] 封面丨精氨酸界面调控策略提升SiOx负极循环稳定性",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565896.shtm"
-        },
-        {
-            "title": "[科学网] 数字“超级大脑”大幅提升光学材料筛选速度",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566114.shtm"
-        },
-        {
             "title": "[科学网] 周峰：以正确政绩观引领研究所改革发展",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566113.shtm"
         },
@@ -25,12 +9,28 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566112.shtm"
         },
         {
-            "title": "[科学网] 天然气水合物地震-电磁联合勘探技术研究获进展",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566111.shtm"
+            "title": "[科学网] 封面丨精氨酸界面调控策略提升SiOx负极循环稳定性",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/565896.shtm"
         },
         {
-            "title": "[科学网] 全国首例！脑机接口智能视网膜让盲人看见字符",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566108.shtm"
+            "title": "[科学网] 多所院校新专业申报：理工农医类占比不低于70%",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566159.shtm"
+        },
+        {
+            "title": "[科学网] 2026年度山东省科学技术奖提名工作启动",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566122.shtm"
+        },
+        {
+            "title": "[科学网] AI热潮背后是昂贵的地球资源账单",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566120.shtm"
+        },
+        {
+            "title": "[科学网] AI让完整生命图谱绘制告别复杂流程",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566119.shtm"
+        },
+        {
+            "title": "[科学网] 院士们回忆高考：有无心插柳的，有考不上回家务农...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566118.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -57,12 +57,12 @@
             "url": "https://www.cas.cn/../../syky/202606/t20260601_5111345.shtml"
         },
         {
-            "title": "[中科院] 巨型氢键有机笼组装研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260605_5111853.shtml"
+            "title": "[中科院] 量子纠缠加速生成研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202606/t20260605_5111851.shtml"
         },
         {
-            "title": "[中科院] 长周期彗星远距离活动性研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260602_5111474.shtml"
+            "title": "[中科院] 研究揭示深海生物超强耐饿机制",
+            "url": "https://www.cas.cn/../../syky/202606/t20260608_5111978.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-08 02:10:18"
+    "update_time": "2026-06-08 10:10:22"
 }
