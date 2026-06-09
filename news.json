@@ -1,16 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 一场实验室事故，彻底改变了我的科研态度",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566173.shtm"
+            "title": "[科学网] “黑土粮仓”科技会战交出5年“成绩单”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566185.shtm"
         },
         {
-            "title": "[科学网] 周峰：以正确政绩观引领研究所改革发展",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566113.shtm"
+            "title": "[科学网] 风口之前，他们选择了“冷板凳”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566183.shtm"
         },
         {
             "title": "[科学网] 封面丨精氨酸界面调控策略提升SiOx负极循环稳定性",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/565896.shtm"
+        },
+        {
+            "title": "[科学网] 美国顶尖大学校长向毕业生传递的几个关键词",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566184.shtm"
+        },
+        {
+            "title": "[科学网] 73年无一例心理原因极端事件，凭什么？",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566182.shtm"
+        },
+        {
+            "title": "[科学网] 专访罗敏敏：制度改革核心是完善评价体系",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566181.shtm"
         },
         {
             "title": "[科学网] 苏炳添拟获广东省自然科学奖二等奖",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 新型蛋白涂层攻克输尿管支架结壳与感染难题",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566177.shtm"
-        },
-        {
-            "title": "[科学网] 清华教授汪晖获意大利“费尔特里内利国际奖”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566176.shtm"
-        },
-        {
-            "title": "[科学网] 抑郁、焦虑、失眠等精神疾病有了非药物干预新路径",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566175.shtm"
-        },
-        {
-            "title": "[科学网] 安徽省拟享受国务院及省政府特殊津贴人员名单公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566174.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 研究揭示人类脑膜发育及调控大脑皮层构建机制",
-            "url": "https://www.cas.cn/../../syky/202606/t20260601_5111345.shtml"
+            "title": "[中科院] 研究发现肠道菌群调控高海拔灵长类适应性产热机制",
+            "url": "https://www.cas.cn/../../syky/202606/t20260602_5111472.shtml"
+        },
+        {
+            "title": "[中科院] 林草交错区植被生长的季节性不对称响应研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202605/t20260528_5111058.shtml"
         },
         {
             "title": "[中科院] 量子纠缠加速生成研究取得进展",
             "url": "https://www.cas.cn/../../syky/202606/t20260605_5111851.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示深海生物超强耐饿机制",
-            "url": "https://www.cas.cn/../../syky/202606/t20260608_5111978.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-08 19:56:16"
+    "update_time": "2026-06-09 01:48:12"
 }
