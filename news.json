@@ -1,12 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 中国科学院党组召开理论学习中心组集体学习会学习脑机接口领域前沿发展态势",
-            "url": "https://www.cas.cn/yw/202606/t20260609_5112183.shtml"
+            "title": "[科学网] 中国空间站里，“太空水稻”发芽了",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566325.shtm"
         },
         {
-            "title": "[科学网] 徐天衡：在6G浪潮中找到自己的“信号”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566258.shtm"
+            "title": "[科学网] 科学家发现距今530万年前的鲸类化石群",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566326.shtm"
         },
         {
             "title": "[科学网] 封面文章｜二十年跨国鲑鳟养殖温室气体排放演变",
@@ -15,6 +15,10 @@
         {
             "title": "[科学网] 直播预告｜当AI机器人拿起手术刀",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566263.shtm"
+        },
+        {
+            "title": "[科学网] 量子自旋液体存在“自旋子”首获实验证据",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566328.shtm"
         },
         {
             "title": "[科学网] 天津大学招生新政：100%不调剂，转专业不限次数",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 我国科学家建成单颗粒锆石CA-ID-TIMS平台",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566302.shtm"
-        },
-        {
-            "title": "[科学网] 我国科研团队攻克近零碳校园建造关键技术",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566301.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 断层摩擦微观力学机制研究获进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260610_5112225.shtml"
+            "title": "[中科院] 研究揭示经典非溶剂诱导相分离成膜理论新机制",
+            "url": "https://www.cas.cn/../../syky/202606/t20260609_5112107.shtml"
         },
         {
-            "title": "[中科院] 三氧化二铟催化二氧化碳加氢制甲醇反应机理研究获进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260609_5112108.shtml"
+            "title": "[中科院] 科研人员开发可编程环形核酸组装平台",
+            "url": "https://www.cas.cn/../../syky/202606/t20260609_5112113.shtml"
         },
         {
-            "title": "[中科院] 高时空分辨分泌蛋白活体原位标记研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260604_5111740.shtml"
+            "title": "[中科院] 研究实现时间反演对称条件下的超导二极管效应",
+            "url": "https://www.cas.cn/../../syky/202606/t20260610_5112223.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-10 20:06:05"
+    "update_time": "2026-06-11 02:10:02"
 }
