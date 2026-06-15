@@ -1,16 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 张礼和：我最喜欢的，还是学生们叫我一声老师",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566512.shtm"
+            "title": "[科学网] 他要把“人造太阳”变成现实",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566560.shtm"
         },
         {
-            "title": "[科学网] 九十二年前，这位清华女生这样选志愿",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566513.shtm"
+            "title": "[科学网] 高能同步辐射光源计划年内正式运行",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566557.shtm"
         },
         {
             "title": "[科学网] 封面文章｜二十年跨国鲑鳟养殖温室气体排放演变",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566266.shtm"
+        },
+        {
+            "title": "[科学网] 复杂细胞源于微生物“渐进联盟”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566559.shtm"
+        },
+        {
+            "title": "[科学网] 由激光写入的磁存储材料切换数据提速千倍",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566558.shtm"
+        },
+        {
+            "title": "[科学网] 姚檀栋：以加强基础研究打牢科技强国建设根基",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566556.shtm"
         },
         {
             "title": "[科学网] 同济大学校长杨金龙：越是技术革新，越需要人文关...",
@@ -19,18 +31,6 @@
         {
             "title": "[科学网] 一周热闻回顾（2026年6月14日）",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566540.shtm"
-        },
-        {
-            "title": "[科学网] 四川省科技厅发布第二批软科学项目申报指南",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566539.shtm"
-        },
-        {
-            "title": "[科学网] 《自然》（20260611出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566538.shtm"
-        },
-        {
-            "title": "[科学网] 多所“双一流”高校宣布本科扩招｜一周动态",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566537.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科学家揭示斑马鱼连续抉择的跨脑区计算机制",
+            "url": "https://www.cas.cn/../../syky/202606/t20260615_5112465.shtml"
+        },
+        {
             "title": "[中科院] 研究发现尿酸调控肠道脂质吸收并诱发肥胖",
             "url": "https://www.cas.cn/../../syky/202606/t20260609_5112110.shtml"
         },
         {
             "title": "[中科院] 研究实现辛硫磷快速可视化检测",
             "url": "https://www.cas.cn/../../syky/202606/t20260609_5112111.shtml"
-        },
-        {
-            "title": "[中科院] 热带湿润森林碳汇监测研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260608_5111973.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-14 19:03:05"
+    "update_time": "2026-06-15 02:13:17"
 }
