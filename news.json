@@ -1,16 +1,24 @@
 {
     "academic": [
         {
-            "title": "[科学网] 《求是》杂志发表习近平总书记重要文章《一体推进教育科技人才发展》",
-            "url": "https://www.news.cn/politics/leaders/20260615/6fd5f18737064ddb914d650eb4182e99/c.html"
+            "title": "[科学网] 专访丘成桐：基础研究要给从0到1留有空间",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566610.shtm"
         },
         {
-            "title": "[科学网] 他要把“人造太阳”变成现实",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566560.shtm"
+            "title": "[科学网] AI浪潮下，拔尖人才培养可跳出“慢工”思维",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566624.shtm"
         },
         {
             "title": "[科学网] 封面文章｜二十年跨国鲑鳟养殖温室气体排放演变",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566266.shtm"
+        },
+        {
+            "title": "[科学网] 顾方舟诞辰百年丨追忆“糖丸爷爷”：以身试药彰显...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566625.shtm"
+        },
+        {
+            "title": "[科学网] AI对人类的理解已开始超越人类对AI的理解",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566611.shtm"
         },
         {
             "title": "[科学网] 我国科学家获颁国际人脑图谱学会最高奖",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 吉林省博士研究生托举工程项目拟入选人员名单公示",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566599.shtm"
-        },
-        {
-            "title": "[科学网] 肺动脉高压新药在沪完成首针，早筛早治是关键",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566597.shtm"
-        },
-        {
-            "title": "[科学网] 贾殿赠：探索煤炭里的“油气宝库”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566596.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员开发用于蛋白质界面设计的原子互作生成模型",
+            "url": "https://www.cas.cn/../../syky/202606/t20260612_5112364.shtml"
+        },
+        {
+            "title": "[中科院] 科研人员提出电化学溢流氧调控甲烷氧化偶联反应活性新策略",
+            "url": "https://www.cas.cn/../../syky/202606/t20260611_5112284.shtml"
+        },
+        {
             "title": "[中科院] 科学家揭示斑马鱼连续抉择的跨脑区计算机制",
             "url": "https://www.cas.cn/../../syky/202606/t20260615_5112465.shtml"
-        },
-        {
-            "title": "[中科院] 氢终端金刚石光电突触器件和神经形态计算研究获进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260612_5112367.shtml"
-        },
-        {
-            "title": "[中科院] 研究构建具有自修复能力的锰酸锂提锂电极",
-            "url": "https://www.cas.cn/../../syky/202606/t20260612_5112368.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-15 20:41:37"
+    "update_time": "2026-06-16 02:28:34"
 }
