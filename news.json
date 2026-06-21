@@ -1,20 +1,12 @@
 {
     "academic": [
         {
+            "title": "[科学网] 我国团队揭示脊椎动物脑演化的祖先蓝图",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566888.shtm"
+        },
+        {
             "title": "[科学网] 资深学者：错误数据被117篇论文以讹传讹",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566885.shtm"
-        },
-        {
-            "title": "[科学网] 《自然》（20260618出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566886.shtm"
-        },
-        {
-            "title": "[科学网] 4大领域6篇论文资讯速览。",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566886.shtm"
-        },
-        {
-            "title": "[科学网] 直播预告|中国科学院大学毕业典礼暨学位授予仪式",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566834.shtm"
         },
         {
             "title": "[科学网] 学术期刊“提质”，这项提升必选！",
@@ -31,6 +23,14 @@
         {
             "title": "[科学网] 计算流体力学与分子动力学自动智能模拟计算平台发...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566883.shtm"
+        },
+        {
+            "title": "[科学网] 中科大团队在J/ψ光生过程中发现自旋干涉实验证据",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566881.shtm"
+        },
+        {
+            "title": "[科学网] 科学家在高透明聚酰胺弹性体研究方面取得新进展",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566880.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-20 19:04:26"
+    "update_time": "2026-06-21 02:12:08"
 }
