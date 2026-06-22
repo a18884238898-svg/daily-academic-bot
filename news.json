@@ -9,6 +9,10 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566914.shtm"
         },
         {
+            "title": "[科学网] 直播预告丨交叉学科遍地开花，选专业如何不踩雷？",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566929.shtm"
+        },
+        {
             "title": "[科学网] 直播预告丨脑机接口、储能……风口专业要不要冲？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566920.shtm"
         },
@@ -25,12 +29,8 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566707.shtm"
         },
         {
-            "title": "[科学网] 大脑如何构建句子？语法和语义由不同神经元负责",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566919.shtm"
-        },
-        {
-            "title": "[科学网] 两个AI模型实现诊断到治疗全面管理",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566918.shtm"
+            "title": "[科学网] 我国科学家团队研发出砂型3D打印智能实验系统",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566963.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示森林树种多样性影响树木个体生长机制",
+            "url": "https://www.cas.cn/../../syky/202606/t20260618_5112806.shtml"
+        },
+        {
             "title": "[中科院] 科学家首次实现同一神经元三模态整合解析",
             "url": "https://www.cas.cn/../../syky/202606/t20260622_5112909.shtml"
         },
         {
             "title": "[中科院] 研究发现岩石风化碳汇可部分抵消多年冻土融化碳排放",
             "url": "https://www.cas.cn/../../syky/202606/t20260622_5112916.shtml"
-        },
-        {
-            "title": "[中科院] 研究构建七鳃鳗全脑三维空间单细胞图谱",
-            "url": "https://www.cas.cn/../../syky/202606/t20260618_5112847.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-22 02:15:19"
+    "update_time": "2026-06-22 11:26:32"
 }
