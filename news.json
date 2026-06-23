@@ -1,12 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] 已然破“四唯”，且看如何立新标",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566917.shtm"
-        },
-        {
-            "title": "[科学网] “背挺直，往前站”，她在冷肿瘤战场破茧成蝶",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566914.shtm"
+            "title": "[科学网] 陆雅翔：在“钠”场马拉松里，不设限",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566987.shtm"
         },
         {
             "title": "[科学网] 直播预告丨交叉学科遍地开花，选专业如何不踩雷？",
@@ -29,8 +25,12 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/566707.shtm"
         },
         {
-            "title": "[科学网] 河南公示一批拟通过结题验收的省自然科学基金项目",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566977.shtm"
+            "title": "[科学网] 研究揭示：精神疾病之间可能存在基因共性",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566990.shtm"
+        },
+        {
+            "title": "[科学网] 直播预告丨#高考专业黄金赛道规划#系列直播",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/566989.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 研究揭示森林树种多样性影响树木个体生长机制",
-            "url": "https://www.cas.cn/../../syky/202606/t20260618_5112806.shtml"
-        },
-        {
             "title": "[中科院] 科学家首次实现同一神经元三模态整合解析",
             "url": "https://www.cas.cn/../../syky/202606/t20260622_5112909.shtml"
         },
         {
             "title": "[中科院] 研究发现岩石风化碳汇可部分抵消多年冻土融化碳排放",
             "url": "https://www.cas.cn/../../syky/202606/t20260622_5112916.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示多聚磷酸盐调控深海产甲烷古菌生长和产甲烷新机制",
+            "url": "https://www.cas.cn/../../syky/202606/t20260615_5112478.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-22 20:27:35"
+    "update_time": "2026-06-23 01:54:21"
 }
