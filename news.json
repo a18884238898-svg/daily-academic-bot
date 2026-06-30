@@ -1,16 +1,24 @@
 {
     "academic": [
         {
+            "title": "[科学网] 新华社社评：奋力谱写强党强国新篇章——热烈庆祝中国共产党成立105周年",
+            "url": "https://www.news.cn/politics/20260630/b91f260076b647dbbb3dd6505806b35b/c.html"
+        },
+        {
+            "title": "[科学网] 庆祝中国共产党成立105周年大会将于7月1日隆重举行 习近平将向“七一勋章”获得者颁授勋章并发表重要讲话",
+            "url": "https://www.news.cn/politics/leaders/20260629/302063ed4ed543448bccc75b11d3a451/c.html"
+        },
+        {
+            "title": "[科学网] 新华社政论：习近平党建思想引领强党强国新征程",
+            "url": "https://www.news.cn/politics/leaders/20260629/88e3877738b24131849560a530587672/c.html"
+        },
+        {
             "title": "[科学网] 国务院印发《教育发展“十五五”规划》",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/567384.shtm"
         },
         {
             "title": "[科学网] 6月29日，国务院印发《教育发展“十五五”规划》，对“十五五”时期加快建设教育强国作出部署。",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/567384.shtm"
-        },
-        {
-            "title": "[科学网] 一束激光贯地月，深耕致远铸匠心",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567383.shtm"
         },
         {
             "title": "[科学网] 直播回放丨北京师范大学2026年毕业典礼",
@@ -21,16 +29,8 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/567082.shtm"
         },
         {
-            "title": "[科学网] 学术“巨头”塌房：数十名前学生集体指控",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567445.shtm"
-        },
-        {
-            "title": "[科学网] 云南罗平生物群发现翼鳕新物种化石",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567444.shtm"
-        },
-        {
-            "title": "[科学网] 基金委化学科学部召开青年科学基金项目评审会议",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567442.shtm"
+            "title": "[科学网] 我国科研团队构建首套10米级湖滨湿地动态分布图",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567461.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-30 13:48:04"
+    "update_time": "2026-06-30 19:27:09"
 }
