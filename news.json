@@ -1,36 +1,36 @@
 {
     "academic": [
         {
-            "title": "[科学网] 新华社社评：奋力谱写强党强国新篇章——热烈庆祝中国共产党成立105周年",
+            "title": "[科学网] 直播：庆祝中国共产党成立105周年大会",
+            "url": "https://www.news.cn/politics/qzzggcdcl105znzb/index.html"
+        },
+        {
+            "title": "[科学网] 习近平将向“七一勋章”获得者颁授勋章并发表重要讲话",
+            "url": "https://www.news.cn/politics/leaders/20260701/c0b06502a1ec4d8485a6b9a309567a5d/c.html"
+        },
+        {
+            "title": "[科学网] “七一勋章”获得者沿着红毯进入人民大会堂",
+            "url": "https://www.news.cn/politics/20260701/b596c4df3d114d8cae7782cd88130b46/c.html"
+        },
+        {
+            "title": "[科学网] 新华社社评：奋力谱写强党强国新篇章",
             "url": "https://www.news.cn/politics/20260630/b91f260076b647dbbb3dd6505806b35b/c.html"
         },
         {
-            "title": "[科学网] 庆祝中国共产党成立105周年大会将于7月1日隆重举行 习近平将向“七一勋章”获得者颁授勋章并发表重要讲话",
-            "url": "https://www.news.cn/politics/leaders/20260629/302063ed4ed543448bccc75b11d3a451/c.html"
-        },
-        {
-            "title": "[科学网] 新华社政论：习近平党建思想引领强党强国新征程",
-            "url": "https://www.news.cn/politics/leaders/20260629/88e3877738b24131849560a530587672/c.html"
-        },
-        {
-            "title": "[科学网] 国务院印发《教育发展“十五五”规划》",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567384.shtm"
-        },
-        {
-            "title": "[科学网] 6月29日，国务院印发《教育发展“十五五”规划》，对“十五五”时期加快建设教育强国作出部署。",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567384.shtm"
-        },
-        {
-            "title": "[科学网] 直播回放丨北京师范大学2026年毕业典礼",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325315276228395043"
+            "title": "[科学网] 一支青年团队的“非主流”探索",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567462.shtm"
         },
         {
             "title": "[科学网] RNA修饰m6A调控绣球菌菌丝生长的表观调控机制",
             "url": "https://news.sciencenet.cn/htmlnews/2026/6/567082.shtm"
         },
         {
-            "title": "[科学网] 我国科研团队构建首套10米级湖滨湿地动态分布图",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/6/567461.shtm"
+            "title": "[科学网] AI模型以更少数据精准预测RNA三维结构",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567465.shtm"
+        },
+        {
+            "title": "[科学网] 机器学习筛选出两种新型超导材料",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567463.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究发现目前已知最遥远的莱曼连续辐射星系",
+            "url": "https://www.cas.cn/../../syky/202606/t20260626_5113458.shtml"
+        },
+        {
             "title": "[中科院] “异算方舟”国产计算系统软件生态全栈平台上线",
             "url": "https://www.cas.cn/../../syky/202606/t20260630_5113996.shtml"
         },
         {
             "title": "[中科院] 空间引力波探测数据仿真与分析研究获进展",
             "url": "https://www.cas.cn/../../syky/202606/t20260629_5113847.shtml"
-        },
-        {
-            "title": "[中科院] 电荷转移反应中转动传能动力学研究获进展",
-            "url": "https://www.cas.cn/../../syky/202606/t20260622_5112921.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-06-30 19:27:09"
+    "update_time": "2026-07-01 02:02:56"
 }
