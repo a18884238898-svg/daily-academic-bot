@@ -1,12 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会",
-            "url": "https://www.cas.cn/yw/202607/t20260701_5114157.shtml"
+            "title": "[科学网] 庆祝中国共产党成立105周年大会在京隆重举行 习近平发表重要讲话",
+            "url": "https://www.news.cn/politics/leaders/20260701/e0a55b3f159a4bd8b6954d9bbb14035f/c.html"
         },
         {
-            "title": "[科学网] 中国科学院5名个人、3个集体获全国“两优一先”表彰",
-            "url": "https://www.cas.cn/yw/202607/t20260701_5114095.shtml"
+            "title": "[科学网] 总书记号召全党坚定信心、接续奋斗",
+            "url": "https://www.news.cn/politics/leaders/20260702/acd6e4f6be144f6395a4911e300f5d15/c.html"
+        },
+        {
+            "title": "[科学网] 热烈鼓舞全党全军全国各族人民",
+            "url": "https://www.news.cn/politics/leaders/20260702/e4232e0b6d7049ec9e3d97d05beb49e0/c.html"
+        },
+        {
+            "title": "[科学网] 中共中央关于授予“七一勋章”的决定",
+            "url": "https://www.news.cn/politics/20260701/215a4324488d4d8c832edec49742b7fd/c.html"
+        },
+        {
+            "title": "[科学网] 表彰全国“两优一先”的决定",
+            "url": "https://www.news.cn/politics/20260701/6ef7546cbfb04ff7ae6b2a11010ba5b1/c.html"
+        },
+        {
+            "title": "[科学网] 中国科学院召开庆祝中国共产党成立105周年表彰大会暨党组书记专题党课报告会",
+            "url": "https://www.cas.cn/yw/202607/t20260701_5114157.shtml"
         },
         {
             "title": "[科学网] 直播预告丨AI如何加速土壤科学研究？",
@@ -15,22 +31,6 @@
         {
             "title": "[科学网] 封面文章 | 《针刺研究》：小鼠施针疗“青松”",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/567471.shtm"
-        },
-        {
-            "title": "[科学网] 基金委发布2025年度报告",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567500.shtm"
-        },
-        {
-            "title": "[科学网] 中国工程院院士罗锡文：为农民设计最好用的农机",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567498.shtm"
-        },
-        {
-            "title": "[科学网] 2026年度吉林省科学技术奖项目受理情况公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567497.shtm"
-        },
-        {
-            "title": "[科学网] 近3.6米/秒！它是世界最快蜘蛛",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/567482.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 气体分子诱导金属表面纳米结构动态演化研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202606/t20260629_5113850.shtml"
+        },
+        {
             "title": "[中科院] 黑洞内部临界现象研究取得进展",
             "url": "https://www.cas.cn/../../syky/202607/t20260701_5114055.shtml"
         },
         {
             "title": "[中科院] 研究发现目前已知最遥远的莱曼连续辐射星系",
             "url": "https://www.cas.cn/../../syky/202606/t20260626_5113458.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示青藏高原东南缘早中新世后小型走滑活动驱动局部旋转变形机制",
-            "url": "https://www.cas.cn/../../syky/202606/t20260624_5113167.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-01 19:26:06"
+    "update_time": "2026-07-02 01:56:26"
 }
