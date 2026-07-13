@@ -1,16 +1,24 @@
 {
     "academic": [
         {
-            "title": "[科学网] 潘建伟院士：基础研究点亮未来之光",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568069.shtm"
+            "title": "[科学网] 中国科学院第二十二次院士大会闭幕",
+            "url": "https://www.cas.cn/yw/202607/t20260712_5115376.shtml"
         },
         {
-            "title": "[科学网] 我国科学家实现工业级高效电解水制氢",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568068.shtm"
+            "title": "[科学网] 追本溯源、观照万物、立足前沿",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568086.shtm"
         },
         {
             "title": "[科学网] 《水生生物学报》：南极磷虾还能存够“过冬粮”吗...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/567819.shtm"
+        },
+        {
+            "title": "[科学网] 丘成桐：人才培养改革不是上名校的捷径",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568088.shtm"
+        },
+        {
+            "title": "[科学网] 通用生物医学AI智能体可自主执行科研任务",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568087.shtm"
         },
         {
             "title": "[科学网] 拟录用博士被质疑后，安徽大学公示网页已无权限访...",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 一周热闻回顾（2026年7月12日）",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/568082.shtm"
-        },
-        {
-            "title": "[科学网] 《科学》（20260709出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568081.shtm"
-        },
-        {
-            "title": "[科学网] “学术不端”博士将入职？安徽大学回应｜一周动态",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568080.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-12 18:43:31"
+    "update_time": "2026-07-13 01:19:54"
 }
