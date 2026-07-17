@@ -1,20 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 支撑到策源，上海光源“照亮”建制化基础研究",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568320.shtm"
+            "title": "[科学网] 习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+            "url": "https://www.news.cn/politics/leaders/20260717/a40efe09846f418ca42ba096d7d6efd7/c.html"
         },
         {
-            "title": "[科学网] 我国团队巧用冰点差异给复合膜装“智能开关”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568318.shtm"
+            "title": "[科学网] 习近平：携手构建公正合理的全球人工智能治理体系",
+            "url": "https://www.news.cn/politics/leaders/20260717/a40efe09846f418ca42ba096d7d6efd7/c.html"
+        },
+        {
+            "title": "[科学网] 习近平宣布中国支持全球人工智能发展重大举措",
+            "url": "https://www.news.cn/politics/leaders/20260717/6ced93e562e449648822566849041c87/c.html"
+        },
+        {
+            "title": "[科学网] 支撑到策源，上海光源“照亮”建制化基础研究",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568320.shtm"
         },
         {
             "title": "[科学网] 直播预告｜攻坚：弘扬新时代科学家精神",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/568267.shtm"
         },
         {
-            "title": "[科学网] 直播预告｜AI与先进核能共筑可持续智能未来论坛",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568266.shtm"
+            "title": "[科学网] 正在直播｜AI与先进核能共筑可持续智能未来论坛",
+            "url": "https://weibo.com/l/wblive/p/show/1022:2321325320589279100935"
         },
         {
             "title": "[科学网] 直播预告｜超构透镜单片集成的多维量子光源",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] mLife：基于拉曼组的噬菌体敏感性快检技术",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/568191.shtm"
-        },
-        {
-            "title": "[科学网] 冷原子实验室拓展量子研究新疆界",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568319.shtm"
-        },
-        {
-            "title": "[科学网] 北京针对重大科技基础设施管理运行出台12条措施",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568317.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -57,12 +57,12 @@
             "url": "https://www.cas.cn/../../syky/202607/t20260710_5115242.shtml"
         },
         {
-            "title": "[中科院] 科学家创造首个“无剪接体内含子”真核细胞",
-            "url": "https://www.cas.cn/../../syky/202607/t20260716_5115637.shtml"
+            "title": "[中科院] 研究揭示温带半封闭海域台风与冷空气协同作用下的波浪演化机理",
+            "url": "https://www.cas.cn/../../syky/202607/t20260715_5115592.shtml"
         },
         {
-            "title": "[中科院] 小麦远缘杂交及功能基因组研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202607/t20260715_5115595.shtml"
+            "title": "[中科院] 研究实现聚合物分子结高分辨成像",
+            "url": "https://www.cas.cn/../../syky/202607/t20260703_5114473.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-17 01:19:05"
+    "update_time": "2026-07-17 07:47:36"
 }
