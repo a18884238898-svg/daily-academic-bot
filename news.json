@@ -1,8 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] 坚持开放共赢 驱动创新发展——携手构建公正合理的全球人工智能治理体系述评之一",
-            "url": "https://www.news.cn/politics/20260718/ce29639ff5ea4906bcca0f486729ceec/c.html"
+            "title": "[科学网] 强化风险意识 确保安全可控——携手构建公正合理的全球人工智能治理体系述评之二",
+            "url": "https://www.news.cn/politics/leaders/20260719/f3a01c5920dc4a7290cfe820beaaa328/c.html"
         },
         {
             "title": "[科学网] 习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的重要讲话引发与会人士热烈反响",
@@ -11,14 +11,6 @@
         {
             "title": "[科学网] 为加强全球人工智能治理贡献中国智慧",
             "url": "https://www.news.cn/politics/leaders/20260718/de20b8f3f6204db1b6e793d8d4bb45a5/c.html"
-        },
-        {
-            "title": "[科学网] 《科学》（20260716出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568484.shtm"
-        },
-        {
-            "title": "[科学网] 3大领域6篇论文资讯速览。",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568484.shtm"
         },
         {
             "title": "[科学网] 直播预告｜攻坚：弘扬新时代科学家精神",
@@ -31,6 +23,14 @@
         {
             "title": "[科学网] 直播回放｜AI与先进核能共筑可持续智能未来论坛",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325320589279100935"
+        },
+        {
+            "title": "[科学网] mLife：基于拉曼组的噬菌体敏感性快检技术",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568191.shtm"
+        },
+        {
+            "title": "[科学网] 历时十年，破解作物“午休”百年难题",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568491.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-19 18:43:47"
+    "update_time": "2026-07-20 01:20:03"
 }
