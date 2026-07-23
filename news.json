@@ -1,12 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] 强流重离子加速器装置建成投入试运行",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568633.shtm"
-        },
-        {
-            "title": "[科学网] 她在“极寒世界”里，捕捉量子计算的未来",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568632.shtm"
+            "title": "[科学网] 扎根边疆十余载，她在森林深处找到一生热爱",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568683.shtm"
         },
         {
             "title": "[科学网] 封面文章|Chem：常温常压下热催化合成氨",
@@ -15,6 +11,14 @@
         {
             "title": "[科学网] 直播回放丨王波：当光子遇见脑子",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325322864239968282"
+        },
+        {
+            "title": "[科学网] “芯片上的血管”借磁力实现精准可控生长",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568686.shtm"
+        },
+        {
+            "title": "[科学网] OpenAI被曝大幅上调2030年前算力预算支出",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568685.shtm"
         },
         {
             "title": "[科学网] 2025年度福建省科学技术奖受理情况公示",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 室温下高灵敏检测二氧化氮的新型传感器研制成功",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/568677.shtm"
-        },
-        {
-            "title": "[科学网] 克隆效率稳定近100% 一系法杂交水稻研发成功",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568676.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-22 18:52:04"
+    "update_time": "2026-07-23 01:22:40"
 }
