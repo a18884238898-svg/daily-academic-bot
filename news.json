@@ -1,16 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 研三已达到博士毕业要求，导师决定带他冒险",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568976.shtm"
+            "title": "[科学网] 在稳定支持下，一群年轻人挑战百年难题",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568993.shtm"
         },
         {
-            "title": "[科学网] 唐山大地震50周年：从3小时速报到61秒预警",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568942.shtm"
-        },
-        {
-            "title": "[科学网] 直播回放丨李天达：小鼠飞天记",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325325296361931093"
+            "title": "[科学网] 麦田底藏什么？科学家用它们记了40年水土账",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568992.shtm"
         },
         {
             "title": "[科学网] 直播预告丨跨越600米极限，中国拱桥如何做到？",
@@ -21,16 +17,20 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/568658.shtm"
         },
         {
+            "title": "[科学网] 纤维肌痛综合征源于神经系统异常",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568991.shtm"
+        },
+        {
+            "title": "[科学网] 大脑里有两条线在管“习惯”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568990.shtm"
+        },
+        {
+            "title": "[科学网] 胸腺再生，生命科学研究新热点",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568989.shtm"
+        },
+        {
             "title": "[科学网] 中国航空运输协会民航科学技术奖获奖项目公示",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/568988.shtm"
-        },
-        {
-            "title": "[科学网] 就王虹推荐信，北大数院发声",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568987.shtm"
-        },
-        {
-            "title": "[科学网] 2026年中国抗癌协会科技奖获奖项目目录公布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/568986.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 高重频大能量超快薄片激光器研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202607/t20260727_5116428.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示草地多样性—生产力关系随时间变化的驱动机制",
+            "url": "https://www.cas.cn/../../syky/202607/t20260728_5117181.shtml"
+        },
+        {
             "title": "[中科院] 科学家发现“金属关节”的普遍疲劳特征",
             "url": "https://www.cas.cn/../../syky/202606/t20260622_5112913.shtml"
-        },
-        {
-            "title": "[中科院] 双色图像解析M87黑洞视界尺度辐射特性",
-            "url": "https://www.cas.cn/../../syky/202607/t20260721_5115895.shtml"
-        },
-        {
-            "title": "[中科院] 大自旋规模组合优化问题求解加速研究获进展",
-            "url": "https://www.cas.cn/../../syky/202607/t20260722_5116059.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-28 19:00:38"
+    "update_time": "2026-07-29 01:16:27"
 }
