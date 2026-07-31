@@ -1,16 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 女童死于基因治疗：缺失的刹车与必要的反思",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/569120.shtm"
+            "title": "[科学网] 十六载束流逐光，精神引领铸就领跑国器",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/569135.shtm"
         },
         {
-            "title": "[科学网] 直播回放|跨越6百米极限，中国拱桥如何做到",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325323794188730685"
+            "title": "[科学网] 汤涛院士专访王虹：菲尔兹奖得主的数学之路",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/569125.shtm"
         },
         {
             "title": "[科学网] 封面文章|皮炎如“火烧”，电针焕“新生”",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/569001.shtm"
+        },
+        {
+            "title": "[科学网] 从菲尔兹奖说起：人才流动是科学界常态",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/7/569126.shtm"
         },
         {
             "title": "[科学网] 国家能源局发布1个国家科技重大专项项目申报指南",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 基金委发布1个专项项目（科技活动项目）申请通告",
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/569119.shtm"
-        },
-        {
-            "title": "[科学网] 同济、南开涉学术不端论文，被《自然》及子刊撤稿",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/7/569118.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究解析植物高效光合作用分子机制",
+            "url": "https://www.cas.cn/../../syky/202607/t20260731_5117714.shtml"
+        },
+        {
             "title": "[中科院] 研究实现细胞仿生纳米反应器光催化合成过氧化氢",
             "url": "https://www.cas.cn/../../syky/202607/t20260723_5116222.shtml"
         },
         {
             "title": "[中科院] 二氧化碳氧化体系研究获进展",
             "url": "https://www.cas.cn/../../syky/202607/t20260723_5116229.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示渤海溶解性无机氮十年演变特征",
-            "url": "https://www.cas.cn/../../syky/202607/t20260729_5117305.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-07-30 19:04:23"
+    "update_time": "2026-07-31 01:22:35"
 }
