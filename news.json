@@ -13,6 +13,14 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/7/569001.shtm"
         },
         {
+            "title": "[科学网] 用中国人自己的雷达，追问电离层的秘密",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569280.shtm"
+        },
+        {
+            "title": "[科学网] 中国科学家首获威廉·诺德伯格奖章",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569279.shtm"
+        },
+        {
             "title": "[科学网] AI接连推翻数学猜想，人类还能守住菲尔兹奖吗？",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/569276.shtm"
         },
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 新型二维材料为酸性水电解提供高效催化剂",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/569264.shtm"
-        },
-        {
-            "title": "[科学网] 广西师范大学副校长宋树祥履新北部湾大学校长",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569261.shtm"
-        },
-        {
-            "title": "[科学网] 基金委发布1个合作研究项目指南",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569260.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示中性双核金属氢氧化物水合团簇构型转换机制",
+            "url": "https://www.cas.cn/../../syky/202607/t20260716_5115651.shtml"
+        },
+        {
             "title": "[中科院] 科研人员研发亚10毫秒级神经动力系统存内计算芯片",
             "url": "https://www.cas.cn/../../syky/202607/t20260706_5114651.shtml"
         },
         {
             "title": "[中科院] 科研人员开发出大规模基因组CNEs鉴定与进化评估新工具",
             "url": "https://www.cas.cn/../../syky/202607/t20260731_5117739.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示大型水库消落带磷稳定性调控机制",
-            "url": "https://www.cas.cn/../../syky/202607/t20260730_5117504.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-08-03 19:13:09"
+    "update_time": "2026-08-04 01:13:27"
 }
