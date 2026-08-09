@@ -1,12 +1,16 @@
 {
     "academic": [
         {
-            "title": "[科学网] 他们让机器学会“隔空探测术”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569544.shtm"
+            "title": "[科学网] 好奇心，是这些顶尖科学家共同的初心",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569562.shtm"
         },
         {
-            "title": "[科学网] 高压下发现首个二维范德华重费米子超导体",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569548.shtm"
+            "title": "[科学网] 《科学》（20260806出版）一周论文导读",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569566.shtm"
+        },
+        {
+            "title": "[科学网] 4大领域6篇论文资讯速览。",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569566.shtm"
         },
         {
             "title": "[科学网] 直播回放丨王成立：钽酸锂集成光子芯片",
@@ -17,20 +21,16 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/569347.shtm"
         },
         {
+            "title": "[科学网] 一周热闻回顾（2026年8月9日）",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569567.shtm"
+        },
+        {
+            "title": "[科学网] 北大数院07级校友苏炜杰获颁国际大奖｜一周动态",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569565.shtm"
+        },
+        {
             "title": "[科学网] 数学家张寿武：AI的问题是怎么用、如何监管",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/569561.shtm"
-        },
-        {
-            "title": "[科学网] 科学家呼吁重视好奇心驱动的基础研究",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569550.shtm"
-        },
-        {
-            "title": "[科学网] 贵州公示73项省级科技计划项目验收结果",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569549.shtm"
-        },
-        {
-            "title": "[科学网] 新科高斯奖得主尤里·涅斯捷罗夫全职加盟港中文",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569547.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-08-09 12:20:47"
+    "update_time": "2026-08-09 18:19:43"
 }
