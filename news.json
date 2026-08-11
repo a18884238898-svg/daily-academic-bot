@@ -1,12 +1,8 @@
 {
     "academic": [
         {
-            "title": "[科学网] 归国加入西湖大学，他完成一个阶段性小目标",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569603.shtm"
-        },
-        {
-            "title": "[科学网] 郭英剑：从同济“不再签长聘协议”说起",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569602.shtm"
+            "title": "[科学网] 导师双选制度：充满不确定性的盲婚哑嫁？",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569622.shtm"
         },
         {
             "title": "[科学网] 直播预告｜2026年国际基础科学大会—物理之夜",
@@ -21,16 +17,20 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/569347.shtm"
         },
         {
-            "title": "[科学网] 导师双选制度：一场充满不确定性的“盲婚哑嫁”？",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569622.shtm"
+            "title": "[科学网] Anthropic挑战黎曼猜想失败",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569640.shtm"
         },
         {
-            "title": "[科学网] 大连化物所研制高能量密度一次电池功率获突破",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569607.shtm"
+            "title": "[科学网] 张拉整体机器人能承受更高的冲击力",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569638.shtm"
         },
         {
-            "title": "[科学网] 广西发现植物新种金钟山蛇根草",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569606.shtm"
+            "title": "[科学网] “三箭齐发”确认一个宇宙“天然加速器”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569637.shtm"
+        },
+        {
+            "title": "[科学网] 生成式医学人工智能伦理治理须加强",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/569633.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 科研人员发现银河系外围气体盘呈现波纹状褶皱结构",
-            "url": "https://www.cas.cn/../../syky/202608/t20260810_5118166.shtml"
+            "title": "[中科院] 研究揭示伏隔核神经元调节低氧诱发的行为与代谢适应机制",
+            "url": "https://www.cas.cn/../../syky/202608/t20260803_5117849.shtml"
         },
         {
-            "title": "[中科院] 研究揭示次表层亚中尺度动能来源",
-            "url": "https://www.cas.cn/../../syky/202607/t20260722_5116061.shtml"
+            "title": "[中科院] 科学家研发出新型纤维状电化学离电突触器件",
+            "url": "https://www.cas.cn/../../syky/202607/t20260730_5117502.shtml"
         },
         {
-            "title": "[中科院] 中红外连续激光光谱合束研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202607/t20260717_5115735.shtml"
+            "title": "[中科院] 研究构建开源小麦幼苗建成性状评价平台",
+            "url": "https://www.cas.cn/../../syky/202608/t20260805_5117926.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-08-11 00:42:19"
+    "update_time": "2026-08-11 06:41:43"
 }
