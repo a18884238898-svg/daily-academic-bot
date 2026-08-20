@@ -1,16 +1,24 @@
 {
     "academic": [
         {
+            "title": "[科学网] 审稿人亲手做图质疑，华科教授决定背水一战",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570118.shtm"
+        },
+        {
             "title": "[科学网] 直播回放｜当化工遇上AI：如何打破研发困局",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325332204984598542"
         },
         {
-            "title": "[科学网] 平均32岁，他们潜入万米深海",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570052.shtm"
-        },
-        {
             "title": "[科学网] 科研绘图教程｜编织纤维结构制作",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/570005.shtm"
+        },
+        {
+            "title": "[科学网] 人形机器人瞄准百万台产量，核心零部件升级迫在眉...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570122.shtm"
+        },
+        {
+            "title": "[科学网] 2026年度侯德榜化工科学技术奖评选结果公示",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570121.shtm"
         },
         {
             "title": "[科学网] 太原理工大学团队自研四足机器人通过全地形越野验...",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 天津大学团队破解低温下氨电催化反应的关键难题",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/570088.shtm"
-        },
-        {
-            "title": "[科学网] 脑科学领军人物段树民院士全职加盟浙大二院",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570077.shtm"
-        },
-        {
-            "title": "[科学网] 中国科学院海洋所等南极研究成果登上《自然》",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570073.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-08-20 12:19:04"
+    "update_time": "2026-08-20 18:18:16"
 }
