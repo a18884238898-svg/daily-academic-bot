@@ -1,8 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 这份1985年的手稿，为可再生能源指明方向",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570596.shtm"
+            "title": "[科学网] 张治：靠论文爬台阶的学术评价体系正在崩塌",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570634.shtm"
+        },
+        {
+            "title": "[科学网] “跨界”青年何静：我不用专业定义自己",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570632.shtm"
         },
         {
             "title": "[科学网] 直播预告丨孙琦雅慧：给古人类看牙是一种怎样的体...",
@@ -13,24 +17,20 @@
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/570362.shtm"
         },
         {
+            "title": "[科学网] 成都大学通报“曾某学术著作涉嫌抄袭相关问题”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570635.shtm"
+        },
+        {
+            "title": "[科学网] 相比提供答案，这套智能体更爱“追问学生”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570633.shtm"
+        },
+        {
             "title": "[科学网] OpenClaw史上最大更新发布",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/570631.shtm"
         },
         {
             "title": "[科学网] 安徽财大回应“学者论文注释被质疑编造”",
             "url": "https://news.sciencenet.cn/htmlnews/2026/8/570630.shtm"
-        },
-        {
-            "title": "[科学网] 2026年度山西省重点研发项目申报工作启动",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570629.shtm"
-        },
-        {
-            "title": "[科学网] 中国工程院院士王永炎逝世，享年87岁",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570627.shtm"
-        },
-        {
-            "title": "[科学网] 湖南公示省级科技计划项目变更",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/8/570626.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-08-31 18:16:39"
+    "update_time": "2026-09-01 02:11:12"
 }
