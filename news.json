@@ -1,12 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 何林：在漫长试错中追逐绿色合成之梦",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570798.shtm"
+            "title": "[科学网] 蒋锡夔：一生“爱美”的化学家",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570861.shtm"
+        },
+        {
+            "title": "[科学网] 科学家提出Wi-Fi低时延多媒体传输新机制",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570862.shtm"
         },
         {
             "title": "[科学网] 科研绘图教程｜纳米花制作",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/570777.shtm"
+        },
+        {
+            "title": "[科学网] AI让数学家陷入焦虑，“去年和今年像两个世纪”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570863.shtm"
         },
         {
             "title": "[科学网] 武汉大学通报一教授遭长文举报：学校纪委已启动调...",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 我国专家成功借量子纠缠提取粒子信息",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/570848.shtm"
-        },
-        {
-            "title": "[科学网] 基金委征集国家自然科学基金共享航次计划考察需求",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570844.shtm"
-        },
-        {
-            "title": "[科学网] 国家自然科学基金数学天元基金项目申请指南发布",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570843.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 小行星撞击成坑及溅射粉尘扩散过程研究获进展",
+            "url": "https://www.cas.cn/../../syky/202609/t20260902_5119535.shtml"
+        },
+        {
+            "title": "[中科院] 铁酶催化连续碳—碳成键机制研究获进展",
+            "url": "https://www.cas.cn/../../syky/202608/t20260824_5118841.shtml"
+        },
+        {
             "title": "[中科院] 黑洞超临界热力学普适标度律研究获进展",
             "url": "https://www.cas.cn/../../syky/202609/t20260903_5119638.shtml"
-        },
-        {
-            "title": "[中科院] 科学家构筑新型金属基异质结盐湖提硼材料",
-            "url": "https://www.cas.cn/../../syky/202608/t20260819_5118579.shtml"
-        },
-        {
-            "title": "[中科院] 研究提出基于基因组浅层测序的维管植物物种鉴定新方案",
-            "url": "https://www.cas.cn/../../syky/202608/t20260818_5118524.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-03 20:10:58"
+    "update_time": "2026-09-04 01:31:35"
 }
