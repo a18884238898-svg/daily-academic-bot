@@ -1,16 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 日本诺奖得主遭质疑多篇论文存在图片造假",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571033.shtm"
-        },
-        {
-            "title": "[科学网] 用观鸟数据做研究，要守好质量关",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/570998.shtm"
-        },
-        {
             "title": "[科学网] 直播预告|清华团队“种”出光通信新材料",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/570784.shtm"
+        },
+        {
+            "title": "[科学网] AGI时代到来与否仍待定 教育变革已应开始",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571038.shtm"
         },
         {
             "title": "[科学网] 直播预告|别等最后一刻，投稿需要提前规划",
@@ -19,6 +15,10 @@
         {
             "title": "[科学网] 科研绘图教程｜纳米花制作",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/570777.shtm"
+        },
+        {
+            "title": "[科学网] 人工智能时代，“博雅教育”大有可为",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571045.shtm"
         },
         {
             "title": "[科学网] 2026年度新疆科学技术突出贡献奖候选人公示",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员提出轻石脑油全组分梯级膜分离新策略",
+            "url": "https://www.cas.cn/../../syky/202609/t20260902_5119531.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示中尺度涡垂向结构对能量耗散与生命周期的影响",
+            "url": "https://www.cas.cn/../../syky/202609/t20260903_5119640.shtml"
+        },
+        {
             "title": "[中科院] 科研人员研发混合集成气体传感芯片",
             "url": "https://www.cas.cn/../../syky/202608/t20260827_5119139.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示芭蕉科染色体演化机制与花苞着色遗传基础",
-            "url": "https://www.cas.cn/../../syky/202608/t20260826_5119034.shtml"
-        },
-        {
-            "title": "[中科院] 科研人员提出机器学习辅助的“材料—结构—功能”协同设计新策略",
-            "url": "https://www.cas.cn/../../syky/202609/t20260904_5119718.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-07 20:50:32"
+    "update_time": "2026-09-08 01:35:13"
 }
