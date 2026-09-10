@@ -1,12 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
-            "url": "https://www.news.cn/politics/leaders/20260909/1fe25be109c5455b92721859b88ef07d/c.html"
+            "title": "[科学网] “做党和人民满意的好老师”——习近平总书记的重要论述指引教师工作开创新局面",
+            "url": "https://www.news.cn/politics/leaders/20260909/39c0e8274f60415c9427cfed2e10e2b3/c.html"
         },
         {
-            "title": "[科学网] 不收论文，一份陶哲轩参与的新期刊诞生了",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571162.shtm"
+            "title": "[科学网] 黄荷凤院士：我的百岁恩师王曼先生",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571191.shtm"
         },
         {
             "title": "[科学网] 封面文章 | 《盐湖研究》：锂镁分离性能研究",
@@ -15,6 +15,10 @@
         {
             "title": "[科学网] 直播回放|别等最后一刻，投稿需要提前规划",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325339430470156471"
+        },
+        {
+            "title": "[科学网] 中国科大在抑制超导量子计算旁观比特泄露上取得进...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571192.shtm"
         },
         {
             "title": "[科学网] 我国第一颗直拉硅单晶的主要研制者之一丁守谦逝世",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 新研究发现太阳活动“操控”深海气候变化",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571184.shtm"
-        },
-        {
-            "title": "[科学网] 科研人员利用AUV在南海超深水区域完成搜寻任务",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571169.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 研究揭示有机给受体分子中电荷转移吸收与三线态生成协同机制",
-            "url": "https://www.cas.cn/../../syky/202608/t20260827_5119138.shtml"
+            "title": "[中科院] 研究揭示导电MOF薄膜中水同位素限域传输机制",
+            "url": "https://www.cas.cn/../../syky/202609/t20260904_5119719.shtml"
         },
         {
-            "title": "[中科院] 熵驱动的原子级分散催化剂稳定性研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202608/t20260827_5119140.shtml"
+            "title": "[中科院] 研究揭示甲基转移酶SET7调控抗病毒天然免疫分子机制",
+            "url": "https://www.cas.cn/../../syky/202608/t20260827_5119137.shtml"
         },
         {
-            "title": "[中科院] 研究揭示植物多样性与紫外辐射共同调控草地凋落物分解机制",
-            "url": "https://www.cas.cn/../../syky/202608/t20260826_5119036.shtml"
+            "title": "[中科院] 研究揭示巨噬细胞逆转肝纤维化新机制",
+            "url": "https://www.cas.cn/../../syky/202609/t20260901_5119425.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-09 20:05:54"
+    "update_time": "2026-09-10 01:37:55"
 }
