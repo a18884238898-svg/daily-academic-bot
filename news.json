@@ -1,36 +1,36 @@
 {
     "academic": [
         {
-            "title": "[科学网] 正在直播｜第十七届创新发展论坛",
+            "title": "[科学网] 中国科学院党组传达学习习近平总书记重要指示精神 总结全院树立和践行正确政绩观学习教育",
+            "url": "https://www.cas.cn/yw/202609/t20260911_5120204.shtml"
+        },
+        {
+            "title": "[科学网] 正在直播｜科艺融合展示交流会",
+            "url": "https://rmtzx.sciencenet.cn/app/kexuewang/liveShare/#/cathay?broadcastId=2b90fb9d-f9cd-40d1-b9f5-389e19ce6fd6"
+        },
+        {
+            "title": "[科学网] 直播回放｜第十七届创新发展论坛",
             "url": "https://rmtzx.sciencenet.cn/app/kexuewang/liveShare/#/cathay?broadcastId=90809810-111f-40c9-a89b-db2228c48b88"
         },
         {
-            "title": "[科学网] 他们从细胞死亡寻找治病希望",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571262.shtm"
-        },
-        {
-            "title": "[科学网] 直播预告｜科艺融合展示交流会",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571234.shtm"
+            "title": "[科学网] 直播回放｜科艺融合展示交流会",
+            "url": "https://rmtzx.sciencenet.cn/app/kexuewang/liveShare/#/cathay?broadcastId=2b90fb9d-f9cd-40d1-b9f5-389e19ce6fd6"
         },
         {
             "title": "[科学网] 封面文章 | 《盐湖研究》：锂镁分离性能研究",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571142.shtm"
         },
         {
-            "title": "[科学网] AI模型解读三十亿碱基的“语法”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571257.shtm"
+            "title": "[科学网] 科学教育需要高质量的科学史读物 | 荐书",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571285.shtm"
         },
         {
-            "title": "[科学网] “最美教师”赵羲：将遥感科技镌刻在冰川雪原之上",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571255.shtm"
+            "title": "[科学网] 冰冻圈灾害正呈现频次增加与链式放大复合态势",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571283.shtm"
         },
         {
-            "title": "[科学网] 我国团队领衔研究测定2.6亿年前地球磁场强度",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571254.shtm"
-        },
-        {
-            "title": "[科学网] 李德仁院士：东方慧眼星座计划2030年建成",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571253.shtm"
+            "title": "[科学网] 我国科研团队首次完整公布小鼠基因组全部染色体",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571279.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示中国南方丹尼索瓦人生存图景",
+            "url": "https://www.cas.cn/../../syky/202609/t20260911_5120180.shtml"
+        },
+        {
             "title": "[中科院] 二维层状晶体塑性调控研究获进展",
             "url": "https://www.cas.cn/../../syky/202609/t20260901_5119427.shtml"
         },
         {
-            "title": "[中科院] 研究揭示导电MOF薄膜中水同位素限域传输机制",
-            "url": "https://www.cas.cn/../../syky/202609/t20260904_5119719.shtml"
-        },
-        {
-            "title": "[中科院] 巨噬细胞逆转肝纤维化机制研究获进展",
-            "url": "https://www.cas.cn/../../syky/202609/t20260901_5119425.shtml"
+            "title": "[中科院] 研究揭示精神分裂症相关的神经细胞类型与发育脆弱窗口",
+            "url": "https://www.cas.cn/../../syky/202609/t20260909_5120012.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-11 01:36:59"
+    "update_time": "2026-09-11 10:04:05"
 }
