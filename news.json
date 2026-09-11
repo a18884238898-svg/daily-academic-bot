@@ -1,16 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 教授19篇论文有问题，校方：不构成科研不端",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571252.shtm"
+            "title": "[科学网] 正在直播｜第十七届创新发展论坛",
+            "url": "https://rmtzx.sciencenet.cn/app/kexuewang/liveShare/#/cathay?broadcastId=90809810-111f-40c9-a89b-db2228c48b88"
         },
         {
-            "title": "[科学网] “诺奖风向标”：2026年拉斯克奖揭晓",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571247.shtm"
-        },
-        {
-            "title": "[科学网] 直播预告｜第十七届创新发展论坛",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571232.shtm"
+            "title": "[科学网] 他们从细胞死亡寻找治病希望",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571262.shtm"
         },
         {
             "title": "[科学网] 直播预告｜科艺融合展示交流会",
@@ -19,6 +15,10 @@
         {
             "title": "[科学网] 封面文章 | 《盐湖研究》：锂镁分离性能研究",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571142.shtm"
+        },
+        {
+            "title": "[科学网] AI模型解读三十亿碱基的“语法”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571257.shtm"
         },
         {
             "title": "[科学网] “最美教师”赵羲：将遥感科技镌刻在冰川雪原之上",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 二维层状晶体塑性调控研究获进展",
+            "url": "https://www.cas.cn/../../syky/202609/t20260901_5119427.shtml"
+        },
+        {
             "title": "[中科院] 研究揭示导电MOF薄膜中水同位素限域传输机制",
             "url": "https://www.cas.cn/../../syky/202609/t20260904_5119719.shtml"
         },
         {
             "title": "[中科院] 巨噬细胞逆转肝纤维化机制研究获进展",
             "url": "https://www.cas.cn/../../syky/202609/t20260901_5119425.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示甲基转移酶SET7调控抗病毒天然免疫分子机制",
-            "url": "https://www.cas.cn/../../syky/202608/t20260827_5119137.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-10 20:08:10"
+    "update_time": "2026-09-11 01:36:59"
 }
