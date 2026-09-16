@@ -1,16 +1,24 @@
 {
     "academic": [
         {
-            "title": "[科学网] 《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》",
-            "url": "https://www.news.cn/politics/leaders/20260915/a3f56d969013456db5c5af90f4bc3d23/c.html"
+            "title": "[科学网] 魏寿昆：藏在“西北联大”史料里的勘矿报国路",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571531.shtm"
         },
         {
-            "title": "[科学网] 师昌绪：36年前的文章，如今依旧发人深省",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571451.shtm"
+            "title": "[科学网] AI当“科研搭子”，你真的放心吗？",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571532.shtm"
         },
         {
             "title": "[科学网] 封面文章 | 《盐湖研究》：锂镁分离性能研究",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571142.shtm"
+        },
+        {
+            "title": "[科学网] 单个脑机接口装置同步解码言语与手势",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571533.shtm"
+        },
+        {
+            "title": "[科学网] 亿年前梅杜莎角龙曾终身“忍痛前行”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571530.shtm"
         },
         {
             "title": "[科学网] 华东师大校长：担心有同学把大学过成“高四”进阶...",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 《高等学校领导人员管理办法》公布",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571525.shtm"
-        },
-        {
-            "title": "[科学网] 17%背后的加减法：大豆自给率的综合施策方案",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571515.shtm"
-        },
-        {
-            "title": "[科学网] 2026年度中国化工学会科学技术奖评选结果公示",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571512.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 研究揭示印度洋偶极子的两种不同类型及其气候影响",
-            "url": "https://www.cas.cn/../../syky/202608/t20260828_5119222.shtml"
+            "title": "[中科院] 解淀粉芽孢杆菌合成研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202609/t20260915_5120330.shtml"
         },
         {
-            "title": "[中科院] 抗生素靶点选择性抑制研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202609/t20260903_5119643.shtml"
+            "title": "[中科院] 轻量化双模型协同智能体MatBrain发布",
+            "url": "https://www.cas.cn/../../syky/202609/t20260911_5120182.shtml"
         },
         {
-            "title": "[中科院] 研究揭示光环境调控大豆种子异黄酮生物合成机制",
-            "url": "https://www.cas.cn/../../syky/202609/t20260911_5120185.shtml"
+            "title": "[中科院] 研究提出山地森林单木识别与多维属性协同提取方法",
+            "url": "https://www.cas.cn/../../syky/202609/t20260914_5120251.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-15 20:30:21"
+    "update_time": "2026-09-16 01:52:10"
 }
