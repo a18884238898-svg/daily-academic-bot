@@ -1,16 +1,24 @@
 {
     "academic": [
         {
-            "title": "[科学网] 导师出国后，组里博士生接到师兄电话就害怕",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571665.shtm"
+            "title": "[科学网] 从清华毕业做科普10年，我如何对抗AI",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571671.shtm"
         },
         {
-            "title": "[科学网] 带DNA南下，他开启了中国鱼类基因工程研究",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571593.shtm"
+            "title": "[科学网] 化学新领域如何从异常中诞生",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571670.shtm"
         },
         {
             "title": "[科学网] 2天，从入门到精通！科学网推出科研绘图培训课程",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571557.shtm"
+        },
+        {
+            "title": "[科学网] 中国工程院院士、中药学家胡之璧逝世，享年91岁",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571673.shtm"
+        },
+        {
+            "title": "[科学网] 褚君浩：寻找红外光谱“拐点”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571672.shtm"
         },
         {
             "title": "[科学网] 我国科研团队解锁生物冻存新技术",
@@ -23,14 +31,6 @@
         {
             "title": "[科学网] 复旦大学计算机学科开拓者张根度因病逝世，享年90...",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571667.shtm"
-        },
-        {
-            "title": "[科学网] 第二批浙江省“尖兵”“领雁”科技计划项目申报启...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571666.shtm"
-        },
-        {
-            "title": "[科学网] 基金委交叉科学部一卓越研究群体项目现场考察会举...",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571664.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究提出三维自旋玻璃高效采样新方法",
+            "url": "https://www.cas.cn/../../syky/202609/t20260917_5120478.shtml"
+        },
+        {
             "title": "[中科院] “中国天眼”发现极短周期、最轻双中子星系统",
             "url": "https://www.cas.cn/../../syky/202609/t20260917_5120473.shtml"
         },
         {
             "title": "[中科院] 研究揭示蚂蚁品级分化中长链非编码RNA的调控层作用",
             "url": "https://www.cas.cn/../../syky/202609/t20260916_5120386.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示X射线双星喷流准直轮廓新特征",
-            "url": "https://www.cas.cn/../../syky/202609/t20260903_5119642.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-17 20:37:17"
+    "update_time": "2026-09-18 01:43:17"
 }
