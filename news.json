@@ -1,16 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 陈立泉：不怕输，也绝不能服输",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571876.shtm"
-        },
-        {
-            "title": "[科学网] 直播回放|论文工厂防范与AI学术伦理指南",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325343453457547440"
-        },
-        {
-            "title": "[科学网] 直播预告｜“五合一”铁基催化剂，为海水制氢提速",
+            "title": "[科学网] 直播预告｜新型铁基催化剂，为海水制氢提速",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571578.shtm"
+        },
+        {
+            "title": "[科学网] 陈文新：用后半生走遍中国“寻根”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571931.shtm"
         },
         {
             "title": "[科学网] 直播预告｜软体机器人：从智能材料到集成系统",
@@ -19,6 +15,10 @@
         {
             "title": "[科学网] 2天，从入门到精通！科学网推出科研绘图培训课程",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/571557.shtm"
+        },
+        {
+            "title": "[科学网] AI “条形码”可识别衰老组织中“僵尸细胞”",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/571930.shtm"
         },
         {
             "title": "[科学网] 上海市自然科学基金（启明星计划）项目申报指南发...",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 科研人员提出肺结节AI辅助诊断新方法",
+            "url": "https://www.cas.cn/../../syky/202609/t20260922_5120832.shtml"
+        },
+        {
+            "title": "[中科院] 新型多孔压电陶瓷研制取得进展",
+            "url": "https://www.cas.cn/../../syky/202609/t20260907_5119819.shtml"
+        },
+        {
             "title": "[中科院] 研究揭示氧化锰表面羟基和氧空位增强一氧化碳吸附协同机制",
             "url": "https://www.cas.cn/../../syky/202609/t20260917_5120484.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示月壤水冰导热率双控新机制",
-            "url": "https://www.cas.cn/../../syky/202609/t20260918_5120585.shtml"
-        },
-        {
-            "title": "[中科院] 大气活性氯来源研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202608/t20260831_5119333.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-22 20:32:07"
+    "update_time": "2026-09-23 01:57:43"
 }
