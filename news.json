@@ -1,16 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 拖延≠懒惰，真相也许是这样",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572150.shtm"
+            "title": "[科学网] 《中国科学院“十五五”发展规划》发布",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572194.shtm"
         },
         {
-            "title": "[科学网] 《科学》（20260924出版）一周论文导读",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572188.shtm"
-        },
-        {
-            "title": "[科学网] 5大领域6篇论文资讯速览。",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572188.shtm"
+            "title": "[科学网] 王世绩：逐光六十余载，把自己活成一束光",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572195.shtm"
         },
         {
             "title": "[科学网] 封面文章 | 效应蛋白TseMt的毒性机制及递送通路",
@@ -19,6 +15,10 @@
         {
             "title": "[科学网] 直播回放｜软体机器人：从智能材料到集成系统",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325345550110425095"
+        },
+        {
+            "title": "[科学网] 最详细小鼠大脑运动皮层图谱绘成",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572193.shtm"
         },
         {
             "title": "[科学网] 中国工程院院士、能源矿业领域著名科学家鲜学福逝...",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 研究揭示俯冲界面粗糙度并非大地震的主控因素",
+            "url": "https://www.cas.cn/../../syky/202609/t20260920_5120650.shtml"
+        },
+        {
+            "title": "[中科院] 研究揭示非计划冲动性与拖延之间的共享神经遗传基础",
+            "url": "https://www.cas.cn/../../syky/202609/t20260928_5121102.shtml"
+        },
+        {
             "title": "[中科院] 电催化二氧化碳还原研究取得进展",
             "url": "https://www.cas.cn/../../syky/202609/t20260922_5120829.shtml"
-        },
-        {
-            "title": "[中科院] 科研人员在嫦娥六号月壤中发现稳定单涡旋态",
-            "url": "https://www.cas.cn/../../syky/202609/t20260923_5120922.shtml"
-        },
-        {
-            "title": "[中科院] 量子点超快光物理研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202609/t20260917_5120483.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-27 20:30:09"
+    "update_time": "2026-09-28 02:06:32"
 }
