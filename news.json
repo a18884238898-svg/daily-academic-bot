@@ -1,12 +1,12 @@
 {
     "academic": [
         {
-            "title": "[科学网] 中国科学院启动实施科学前沿极限突破计划",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572326.shtm"
+            "title": "[科学网] 挺进无人区，他们在协同攻坚中刷新认知边界",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572346.shtm"
         },
         {
-            "title": "[科学网] 我国科学家揭示趋磁细菌跨尺度磁组织新机制",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572268.shtm"
+            "title": "[科学网] 杜善义院士：学问之道，是一生的信仰",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/9/572347.shtm"
         },
         {
             "title": "[科学网] 2026年诺奖即将揭晓，权威专家为您全面解读！",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
+            "title": "[中科院] 单晶金属原子级制造研究取得进展",
+            "url": "https://www.cas.cn/../../syky/202609/t20260930_5121230.shtml"
+        },
+        {
+            "title": "[中科院] 研究阐明乳酸调控程序性细胞坏死新机制",
+            "url": "https://www.cas.cn/../../syky/202609/t20260929_5121181.shtml"
+        },
+        {
             "title": "[中科院] 细胞聚集体浸润机制研究取得进展",
             "url": "https://www.cas.cn/../../syky/202609/t20260928_5121137.shtml"
-        },
-        {
-            "title": "[中科院] 1,3-二烯立体发散性调聚反应研究取得进展",
-            "url": "https://www.cas.cn/../../syky/202609/t20260928_5121113.shtml"
-        },
-        {
-            "title": "[中科院] 研究揭示非计划冲动性与拖延之间的共享神经遗传基础",
-            "url": "https://www.cas.cn/../../syky/202609/t20260928_5121102.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-09-29 21:33:40"
+    "update_time": "2026-09-30 02:34:20"
 }
