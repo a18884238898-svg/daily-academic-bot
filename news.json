@@ -1,12 +1,28 @@
 {
     "academic": [
         {
-            "title": "[科学网] 陈立泉：中国科大求学时光为我铸就科研底色",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572606.shtm"
+            "title": "[科学网] 数学家罗博深：未来工作不是变少，而是太多",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572654.shtm"
         },
         {
             "title": "[科学网] 封面文章丨《水生生物学报》：微藻蛋白的研究进展",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/572356.shtm"
+        },
+        {
+            "title": "[科学网] 诺贝尔奖值得尊重，但不是万能标尺",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572658.shtm"
+        },
+        {
+            "title": "[科学网] 中澳学者合作建立肺鱼类一新属新种",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572657.shtm"
+        },
+        {
+            "title": "[科学网] 国家海洋预报中心：厄尔尼诺发生次年自然灾害损失...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572656.shtm"
+        },
+        {
+            "title": "[科学网] 哈工大获批空天科学与工程交叉学科博士学位授予点",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572655.shtm"
         },
         {
             "title": "[科学网] 河北大学康某某博士论文涉嫌学术不端，校方启动调...",
@@ -15,22 +31,6 @@
         {
             "title": "[科学网] 苏州市青年科技人才托举工程拟入选对象公示",
             "url": "https://news.sciencenet.cn/htmlnews/2026/10/572650.shtm"
-        },
-        {
-            "title": "[科学网] 一场值得尊敬的失败：库恩晚年的学术探索",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572642.shtm"
-        },
-        {
-            "title": "[科学网] 我国科研团队揭示宇宙早期“小红点”消失之谜",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572639.shtm"
-        },
-        {
-            "title": "[科学网] 叶甜春：中国芯，从全面追赶到“你中有我”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572638.shtm"
-        },
-        {
-            "title": "[科学网] 具身机器人成功变身小麦育种专家",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572633.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-10-09 12:09:10"
+    "update_time": "2026-10-09 21:54:39"
 }
