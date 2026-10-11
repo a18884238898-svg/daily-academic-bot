@@ -1,20 +1,24 @@
 {
     "academic": [
         {
-            "title": "[科学网] 李庆忠：毕业志愿书是“为祖国找石油”的序曲",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572661.shtm"
+            "title": "[科学网] AI for Science重塑科技竞争底层逻辑",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572732.shtm"
         },
         {
-            "title": "[科学网] 664位诺奖得主，走过了怎样的基础研究之路",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572659.shtm"
-        },
-        {
-            "title": "[科学网] 正在直播|人工智能赋能工程管理学术研讨会",
-            "url": "https://weibo.com/l/wblive/p/show/1022:2321325352449375862912"
+            "title": "[科学网] 朱显谟： 一个“科学农民”的治黄路",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572716.shtm"
         },
         {
             "title": "[科学网] 封面文章丨《水生生物学报》：微藻蛋白的研究进展",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/572356.shtm"
+        },
+        {
+            "title": "[科学网] 病理基因大模型DeepGEM2.0正式发布",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572731.shtm"
+        },
+        {
+            "title": "[科学网] 如果海平面上升，陆地上的动物怎么办？",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572730.shtm"
         },
         {
             "title": "[科学网] 新型研究型大学迎来发展黄金窗口期",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 上海发布2026年度基础研究计划1个项目申报指南",
             "url": "https://news.sciencenet.cn/htmlnews/2026/10/572713.shtm"
-        },
-        {
-            "title": "[科学网] 基金委召开第460期双清论坛",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572712.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-10-11 02:23:17"
+    "update_time": "2026-10-11 11:40:14"
 }
