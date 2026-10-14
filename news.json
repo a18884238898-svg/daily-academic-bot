@@ -1,24 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 习近平出席全国卫生与健康大会并发表重要讲话",
-            "url": "https://www.news.cn/politics/leaders/20261013/f0943fdf42f8406fa72cea5fd51d3d53/c.html"
+            "title": "[科学网] 王业宁：一生自强 一世求真",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572858.shtm"
         },
         {
-            "title": "[科学网] 习近平：坚定不移走中国特色卫生与健康发展道路 确保“十五五”时期健康中国建设取得决定性进展",
-            "url": "https://www.news.cn/politics/leaders/20261013/f0943fdf42f8406fa72cea5fd51d3d53/c.html"
-        },
-        {
-            "title": "[科学网] 李强讲话 赵乐际王沪宁蔡奇丁薛祥李希出席",
-            "url": "https://www.news.cn/politics/leaders/20261013/f0943fdf42f8406fa72cea5fd51d3d53/c.html"
-        },
-        {
-            "title": "[科学网] 云南天文台揭示大质量白矮星双星形成通道",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572836.shtm"
+            "title": "[科学网] 如何应对AI冲击？数学家这样说",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572859.shtm"
         },
         {
             "title": "[科学网] 封面文章丨《水生生物学报》：微藻蛋白的研究进展",
             "url": "https://news.sciencenet.cn/htmlnews/2026/9/572356.shtm"
+        },
+        {
+            "title": "[科学网] 韦布望远镜发现一颗熔岩行星存在大气",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572857.shtm"
         },
         {
             "title": "[科学网] 2026年度江西省科学技术奖提名工作启动",
@@ -31,6 +27,10 @@
         {
             "title": "[科学网] 基金委发布一个项目申请指南",
             "url": "https://news.sciencenet.cn/htmlnews/2026/10/572854.shtm"
+        },
+        {
+            "title": "[科学网] 华裔工程师投毒加害同门，申请消除犯罪记录竟获批...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/572853.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -53,16 +53,16 @@
             "url": "https://www.cas.cn//kxyj/kj/cashz/"
         },
         {
-            "title": "[中科院] 科学家发现侏罗纪巨型双尾虫化石",
-            "url": "https://www.cas.cn/../../syky/202610/t20261008_5121501.shtml"
+            "title": "[中科院] 科学家利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+            "url": "https://www.cas.cn/../../syky/202610/t20261014_5122179.shtml"
         },
         {
-            "title": "[中科院] 科研人员开发出高可逆性四电子转移的锡基负极",
-            "url": "https://www.cas.cn/../../syky/202610/t20261012_5122086.shtml"
+            "title": "[中科院] 研究揭示钠离子电池硬碳负极界面调控新策略",
+            "url": "https://www.cas.cn/../../syky/202610/t20261012_5122088.shtml"
         },
         {
-            "title": "[中科院] 研究揭示气候变化影响爬行动物繁殖纬度格局与代谢机制",
-            "url": "https://www.cas.cn/../../syky/202609/t20260917_5120482.shtml"
+            "title": "[中科院] 科研人员实现乌洛托品的绿色电合成",
+            "url": "https://www.cas.cn/../../syky/202610/t20261010_5121985.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-10-13 22:00:12"
+    "update_time": "2026-10-14 02:18:03"
 }
