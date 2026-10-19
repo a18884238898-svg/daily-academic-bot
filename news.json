@@ -1,16 +1,20 @@
 {
     "academic": [
         {
-            "title": "[科学网] 正在直播｜大模型时代，多模态聚类还必要吗？",
+            "title": "[科学网] 直播回放｜大模型时代，多模态聚类还必要吗？",
             "url": "https://weibo.com/l/wblive/p/show/1022:2321325354308207509633"
         },
         {
-            "title": "[科学网] 《自然》：中国科技崛起将改写全球创新格局",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/573173.shtm"
+            "title": "[科学网] 他把实验反着做，回国不到一个月发表重磅论文",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/573243.shtm"
         },
         {
             "title": "[科学网] 封面文章 | hLife：设计新型呼吸道病毒黏膜疫苗",
             "url": "https://news.sciencenet.cn/htmlnews/2026/10/572868.shtm"
+        },
+        {
+            "title": "[科学网] 中国矿大副校长王忠宾拟任宁夏回族自治区属高校正...",
+            "url": "https://news.sciencenet.cn/htmlnews/2026/10/573244.shtm"
         },
         {
             "title": "[科学网] 2026年首都科技创新券第一批拟支持单位名单公示",
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] AI加持！南京土壤所探索地下水热耦合研究新方法",
             "url": "https://news.sciencenet.cn/htmlnews/2026/10/573203.shtm"
-        },
-        {
-            "title": "[科学网] 新研究提示：警惕我们脚下的“氮时间炸弹”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/573193.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-10-19 11:20:58"
+    "update_time": "2026-10-19 17:49:23"
 }
