@@ -1,11 +1,15 @@
 {
     "academic": [
         {
+            "title": "[科学网] 习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
+            "url": "https://www.news.cn/politics/leaders/20261022/ea585c6f63b74a99a4bf8cba035eb796/c.html"
+        },
+        {
             "title": "[科学网] 习近平总书记心中的伟大远征",
             "url": "https://www.news.cn/politics/leaders/20261021/3f14da4e4a004f529c07b762beefccbc/c.html"
         },
         {
-            "title": "[科学网] 学习手记丨走好我们这一代人的长征路",
+            "title": "[科学网] 走好我们这一代人的长征路",
             "url": "https://www.news.cn/politics/leaders/20261021/1c7473b32c904dd69925673ca5979fcb/c.html"
         },
         {
@@ -27,10 +31,6 @@
         {
             "title": "[科学网] 直播预告｜跨江越海通道工程智能建养与安全研讨会",
             "url": "https://news.sciencenet.cn/htmlnews/2026/10/573358.shtm"
-        },
-        {
-            "title": "[科学网] 封面文章丨Mycology：解锁真菌隐藏的“色彩”",
-            "url": "https://news.sciencenet.cn/htmlnews/2026/10/573334.shtm"
         },
         {
             "title": "[中科院] 知识产权与科技成果转化网",
@@ -61,8 +61,8 @@
             "url": "https://www.cas.cn/../../syky/202607/t20260728_5117183.shtml"
         },
         {
-            "title": "[中科院] ReO3高压超导研究获进展",
-            "url": "https://www.cas.cn/../../syky/202610/t20261019_5122477.shtml"
+            "title": "[中科院] 研究提出等位基因设计新方法",
+            "url": "https://www.cas.cn/../../syky/202610/t20261015_5122276.shtml"
         }
     ],
     "policy": [
@@ -75,5 +75,5 @@
             "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000001"
         }
     ],
-    "update_time": "2026-10-22 02:03:30"
+    "update_time": "2026-10-22 10:43:10"
 }
